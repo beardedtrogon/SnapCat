@@ -298,7 +298,7 @@ def list_all_jpgs( directory ):
 
 def update_image_label ( snapcat_json, image_name, label ):
   # TODO - save a count of the times the image has been labeled this
-  snapcat_json.update( image_name, "user_label", label )
+  snapcat_json.update( image_name, "user_label", label ) # TODO - user_label will be associated with area of interest
   snapcat_json.save()
 
 
@@ -367,11 +367,11 @@ def user_label_images_burst( snapcat_json ):
     cat_detected = False
     unsure_label = False
     for image_name in burst:
-      if snapcat_json.json_data[image_name]["classifier_label"] == "cat":
+      if snapcat_json.json_data[image_name]["classifier_label"] == "cat":#TODO - classifier_label will be associated with an area of interest
         cat_detected = True
         break
 
-      if snapcat_json.json_data[image_name]["classifier_label"] == "unsure":
+      if snapcat_json.json_data[image_name]["classifier_label"] == "unsure":#TODO - classifier_label will be associated with an area of interest
         unsure_label = True
 
     if cat_detected:

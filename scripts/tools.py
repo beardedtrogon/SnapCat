@@ -285,10 +285,10 @@ def move_burst_images( images, directory, burst_number ):
 
 
 def cat_label_exists( snapcat_json, image ):
-  if "classifier_label" in snapcat_json.json_data[image] and snapcat_json.json_data[image]["classifier_label"] == "cat" :
+  if "classifier_label" in snapcat_json.json_data[image] and snapcat_json.json_data[image]["classifier_label"] == "cat" :#TODO - classifier_label will be associated with an area of interest
     return True
   
-  if "user_label" in snapcat_json.json_data[image] and snapcat_json.json_data[image]["user_label"] == "cat" :
+  if "user_label" in snapcat_json.json_data[image] and snapcat_json.json_data[image]["user_label"] == "cat" : # TODO - user_label will be associated with area of interest
     return True
 
   if "user_burst_label" in snapcat_json.json_data[image] and snapcat_json.json_data[image]["user_burst_label"] == "cat" :
@@ -297,14 +297,14 @@ def cat_label_exists( snapcat_json, image ):
   return False
 
 def unsure_label_exists( snapcat_json, image ):
-  if "classifier_label" in snapcat_json.json_data[image] and snapcat_json.json_data[image]["classifier_label"] != "unsure" :
+  if "classifier_label" in snapcat_json.json_data[image] and snapcat_json.json_data[image]["classifier_label"] != "unsure" :#TODO - classifier_label will be associated with an area of interest
     return False
 
   # not unsure if user has labeled one way or the other
-  if "user_label" in snapcat_json.json_data[image] and snapcat_json.json_data[image]["user_label"] == "cat" :
+  if "user_label" in snapcat_json.json_data[image] and snapcat_json.json_data[image]["user_label"] == "cat" : # TODO - user_label will be associated with area of interest
     return False
 
-  if "user_label" in snapcat_json.json_data[image] and snapcat_json.json_data[image]["user_label"] == "not_cat" :
+  if "user_label" in snapcat_json.json_data[image] and snapcat_json.json_data[image]["user_label"] == "not_cat" : # TODO - user_label will be associated with area of interest
     return False
 
   if "user_burst_label" in snapcat_json.json_data[image] and snapcat_json.json_data[image]["user_burst_label"] == "cat" :

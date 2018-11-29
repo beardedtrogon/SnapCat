@@ -52,6 +52,7 @@ def label_images( snapcat_json ):
         continue
       
       # resize area of interest for classification
+      #TODO - modify for multiple areas of interest
       area_of_interest = snapcat_json.json_data[image]["area_of_interest"]
       x1 = area_of_interest[0]
       x2 = area_of_interest[1]
@@ -84,13 +85,13 @@ def label_images( snapcat_json ):
         print("%s: %f" % (labels[i], results[i]))
         if results[i] >= settings.sort_image['cat_confidence_threshold'] and labels[i] == 'cats':
           print("cat")
-          snapcat_json.update( image , "classifier_label", "cat" )
+          snapcat_json.update( image , "classifier_label", "cat" ) #TODO - classifier_label will be associated with an area of interest
         elif results[i] >= settings.sort_image['not_cat_confidence_threshold'] and labels[i] == 'not cats':
           print("not cat")
-          snapcat_json.update( image , "classifier_label", "not_cat" )
+          snapcat_json.update( image , "classifier_label", "not_cat" ) #TODO - classifier_label will be associated with an area of interest
         else:
           print("unsure")
-          snapcat_json.update( image , "classifier_label", "unsure" )
+          snapcat_json.update( image , "classifier_label", "unsure" ) #TODO - classifier_label will be associated with an area of interest
           
         break
 
