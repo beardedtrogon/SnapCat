@@ -61,20 +61,8 @@ def label_images( snapcat_json ):
       img = cv2.imread(file)
       img = img[y1:y2 , x1:x2, :]
 
-      resized_image = cv2.resize(img, (224, 224))
-      resized_image = img_as_ubyte(resized_image)
-      
-      # TODO - we need to load the area of interest and resize the image here rather than read the file:
-      tempfile = "tempfile.jpg"
-      cv2.imwrite( tempfile, resized_image)
-      cv2.destroyAllWindows()
-      
-      # TODO - this loads a tensorflow session resulting in a bunch of debug output. Probably will be more efficient to leave the session open if possible
-      t = tools.read_tensor_from_image_file( tempfile,
-                                             input_height=input_height,
-                                             input_width=input_width,
-                                             input_mean=input_mean,
-                                             input_std=input_std )
+      resized_image = cv2.resize(img, (input_width, input_height))
+      t = (np.float32(resized_image) - input_mean) / input_std
 
       input_name = "import/" + input_layer
       output_name = "import/" + output_layer
@@ -83,7 +71,7 @@ def label_images( snapcat_json ):
 
       # todo, suspect this is what's printing a lot of messages. Attempt to consolidate calls to this function
       results = sess.run(output_operation.outputs[0], {
-        input_operation.outputs[0]: t
+        input_operation.outputs[0]: [t]
       })
 
       results = np.squeeze(results)

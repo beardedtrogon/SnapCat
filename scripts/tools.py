@@ -226,16 +226,17 @@ def save_areas_of_interest( snapcat_json, output_directory ):
   for image in snapcat_json.json_data:
 
     image_path = snapcat_json.json_data[image]["path"]
-    area_of_interest = snapcat_json.json_data[image]["area_of_interest"]
+    areas_of_interest = snapcat_json.json_data[image]["areas_of_interest"]
 
-    img = cv2.imread(image_path)
+    for area_of_interest in areas_of_interest:
+      img = cv2.imread(image_path)
 
-    x1 = area_of_interest[0]
-    x2 = area_of_interest[1]
-    y1 = area_of_interest[2]
-    y2 = area_of_interest[3]
+      x1 = area_of_interest[0]
+      x2 = area_of_interest[1]
+      y1 = area_of_interest[2]
+      y2 = area_of_interest[3]
 
-    img = img[y1:y2 , x1:x2, :]
+      img = img[y1:y2 , x1:x2, :]
     
     
     """

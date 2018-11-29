@@ -297,6 +297,7 @@ def list_all_jpgs( directory ):
 
 
 def update_image_label ( snapcat_json, image_name, label ):
+  # TODO - save a count of the times the image has been labeled this
   snapcat_json.update( image_name, "user_label", label )
   snapcat_json.save()
 
@@ -307,6 +308,8 @@ def user_label_images_single( snapcat_json, image_list ):
 
   done = False
   index = 0
+
+  random.shuffle(image_list)
 
   while not done: 
     image = image_list[index]
