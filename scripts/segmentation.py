@@ -42,6 +42,10 @@ def segment_images( snapcat_json, speckle_removal_size=10, expansion=50, interac
 			image_path = snapcat_json.json_data[filename]["path"]
 
 			img = cv2.imread(image_path)
+
+			if type(img) == None.__class__:
+				continue
+
 			#TODO: make this a setting in the settings file as it is used later when we crop the image
 			img = img[50:-50,:] # remove the black bar from top and bottom
 			burst_imgs.append((image_path, img))
@@ -57,8 +61,28 @@ def segment_images( snapcat_json, speckle_removal_size=10, expansion=50, interac
 		imgs_small = [cv2.resize(i, (int(i.shape[1]/img_scale),int(i.shape[0]/img_scale)), interpolation=cv2.INTER_AREA) for i in imgs]
 		# Apply CLAHE to compensate for in-burst brightness changes. Also convert to grayscale
 		imgs_small = [clahe.apply(np.uint8(np.mean(i,-1))) for i in imgs_small]
+
+		shapes = []
+		paths = []
+		same_dim = True
+		dim = burst_imgs[0][1].shape
+
+		for b in burst_imgs:
+			if not b[1].shape == dim:
+				same_dim = False
+
+		if not same_dim:
+			continue
+		
 		# Take the median across the images pixel by pixel
 		avg_burst_img = np.median(imgs_small, axis=0)
+		
+		"""for b in burst_imgs:
+			cv2.imshow("i'manimage", b[1])
+			if cv2.waitKey(0):
+				continue
+		"""
+
 		# Calculate diff images from the median
 		diffimgs = [np.abs(smimg.astype(np.int16) - avg_burst_img) for smimg in imgs_small]
 

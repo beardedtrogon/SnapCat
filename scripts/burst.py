@@ -32,7 +32,7 @@ def get_exif_data_from_file(filename):
 					TAG2text = TAGS.get(tag)
 					exif[TAG2text] = value
 	except IOError:
-		print ("IOERROR " + fname)
+		print ("IOERROR " + filename)
 
 	return exif
 
