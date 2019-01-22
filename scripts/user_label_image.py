@@ -428,7 +428,6 @@ def main():
 
   args = parser.parse_args()
   
-
   snapcat_json = json_database.JSONDatabase( args.json_dir )
   image_list = list_all_jpgs ( args.image_dir )
 

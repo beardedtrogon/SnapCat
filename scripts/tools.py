@@ -228,6 +228,8 @@ def save_areas_of_interest( snapcat_json, output_directory ):
     image_path = snapcat_json.json_data[image]["path"]
     areas_of_interest = snapcat_json.json_data[image]["areas_of_interest"]
 
+    seg_img_num = 0
+
     for area_of_interest in areas_of_interest:
       img = cv2.imread(image_path)
 
@@ -237,26 +239,21 @@ def save_areas_of_interest( snapcat_json, output_directory ):
       y2 = area_of_interest[3]
 
       img = img[y1:y2 , x1:x2, :]
-    
-    
-    """
-    # for debugging
-    cv2.imshow('image',img)
-    cv2.waitKey(0)
-    return
-    """
 
-    resized_image = cv2.resize(img, (224, 224))
+      seg_image_name = str(seg_img_num) + "_" + image
+      seg_img_num += 1
+      
+      resized_image = cv2.resize(img, (224, 224))
     
     
-    if not os.path.isdir(output_directory):
-      os.makedirs(output_directory)
+      if not os.path.isdir(output_directory):
+        os.makedirs(output_directory)
 
-    outfile = os.path.join(output_directory, image )
+      outfile = os.path.join(output_directory, image )
 
-    resized_image = img_as_ubyte(resized_image)
-    cv2.imwrite(outfile, resized_image)
-    cv2.destroyAllWindows()
+      resized_image = img_as_ubyte(resized_image)
+      cv2.imwrite(outfile, resized_image)
+      cv2.destroyAllWindows()
 
 def get_bursts( snapcat_json ):
 
@@ -367,4 +364,6 @@ if __name__ == "__main__":
 
   snapcat_json = json_database.JSONDatabase( args.json_dir )
 
-  organize_images( snapcat_json, args.out_dir )
+  save_areas_of_interest( snapcat_json, args.out_dir )
+
+  #organize_images( snapcat_json, args.out_dir )

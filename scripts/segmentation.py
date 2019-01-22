@@ -106,7 +106,7 @@ def segment_images( snapcat_json, speckle_removal_size=10, expansion=50, interac
 						y2 -= 1
 
 					# Save the area of interest for this image.
-					areas_of_interest[image_path].append([x1,x2,y1,y2])
+					areas_of_interest[image_path].append([int(x1),int(x2),int(y1),int(y2)])
 					if interactive_examine:
 						subimg = i[y1:y2,x1:x2,:]
 						print(x1,x2,y1,y2)
