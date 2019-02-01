@@ -357,7 +357,7 @@ def organize_images( snapcat_json, output_directory ):
 
 if __name__ == "__main__":
   parser = argparse.ArgumentParser()
-  parser.add_argument("--json_dir", help="path to the json database for images" )
+  parser.add_argument("--json", help="path to the json database for images" )
   parser.add_argument("--out_dir", help="path to save images" )
   
   args = parser.parse_args()

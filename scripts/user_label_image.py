@@ -19,6 +19,7 @@ import shutil
 from win32api import GetSystemMetrics
 import json_database
 import tools
+import random
 
 LEFT_KEY = 2424832
 RIGHT_KEY = 2555904
