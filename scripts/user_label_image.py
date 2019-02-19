@@ -167,14 +167,13 @@ def move_directories( image_dir, directory_labels, outdir ):
     shutil.move(directory, new_dir )
 
 
-def disp_image_get_input( file ):
+
+def disp_image_get_input( image ):
 
   # iterate over all files and add label
   timeout = 0
 
   while True:
-
-    image = cv2.imread( file, cv2.IMREAD_COLOR)
 
     if timeout > MAX_POLLING_TIMEOUT_MS:
       key = 1234
@@ -286,60 +285,139 @@ def display_directory_get_input( files ):
       elif key == -1:
         timeout += POLLING_DURATION_MS
 
-def list_all_jpgs( directory ):
-  jpeg_files = []    
 
-  for root, dirs, files in os.walk(directory):
-    for file in files:
-      if file.endswith(('.jpg', '.jpeg', '.JPG', '.JPEG')):
-        jpeg_files.append( os.path.join(root, file) )
-
-  return jpeg_files
-
-
-def update_image_label ( snapcat_json, image_name, label ):
+def update_aoi_label ( snapcat_json, image_name, aoi_user_labels ):
   # TODO - save a count of the times the image has been labeled this
-  snapcat_json.update( image_name, "user_label", label ) # TODO - user_label will be associated with area of interest
+  
+  # TODO - make sure the label is associated with this specific area of interest instead of the label
+  snapcat_json.update( image_name, "aoi_user_labels", aoi_user_labels)
+  #snapcat_json.update( image_name, "user_label", label ) # TODO - user_label will be associated with area of interest
   snapcat_json.save()
 
+def update_label ( snapcat_json, image_name, user_label ):
+  # TODO - save a count of the times the image has been labeled this
+  
+  snapcat_json.update( image_name, "user_label", user_label)
+  snapcat_json.save()
 
-def user_label_images_single( snapcat_json, image_list ):  
-  # TODO: there's a lot of duplicated code here, maybe function pointers?
+def user_label_images_single( snapcat_json ):  
   ######################### sort individual files #########################
 
   done = False
   index = 0
 
+  image_list = []
+  for image in snapcat_json.json_data:
+    image_list.append(image)
+
+  # shuffle the images so the user isn't tempted to use previously viewed images to determine if the image contains a cat
   random.shuffle(image_list)
 
-  while not done: 
+  while not done:
+
+    # load the image and areas of interest
     image = image_list[index]
-    image_name = os.path.basename(image)
-    
-    key = disp_image_get_input( image )
-    
-    if key == LEFT_KEY:
-      update_image_label( snapcat_json, image_name, INVALID_STRING )
-      index = index + 1
+    image_path = snapcat_json.json_data[image]["path"]
+    areas_of_interest = snapcat_json.json_data[image]["areas_of_interest"]
 
-    elif key == RIGHT_KEY:
-      update_image_label( snapcat_json, image_name, VALID_STRING )
-      index = index + 1
+    aoi_user_labels = []
 
-    elif key == DOWN_KEY:
-      update_image_label( snapcat_json, image_name, UNSURE_STRING )
-      index = index + 1
+    if len(areas_of_interest) == 0:
+      img = cv2.imread(image_path, cv2.IMREAD_COLOR)
 
-    elif key == BACKSPACE_KEY:
-      # ensure we don't go negative with the index
-      if ( index > 0 ):
-        index = index - 1      
-      update_image_label( snapcat_json, image_name, NONE_STRING )
-    elif key == ESCAPE_KEY:
-      cv2.destroyAllWindows()
-      done = True
+      y,x,_ = img.shape
+
+      x1,x2,y1,y2 = tools.optimal_square(400,x-400,400,y-400,img)
+
+      subimg = img[y1:y2,x1:x2,:]
+      resized_image = cv2.resize(subimg, (224, 224))
+
+      key = disp_image_get_input( resized_image )
+
+      if key == LEFT_KEY:
+        # TODO - make sure the label is associated with the area of interest instead of the label
+        update_label( snapcat_json, image, INVALID_STRING )
+        index = index + 1
+        continue
+
+      elif key == RIGHT_KEY:
+        # TODO - make sure the label is associated with the area of interest instead of the label
+        update_label( snapcat_json, image, VALID_STRING )
+        index = index + 1
+        continue
+
+      elif key == DOWN_KEY:
+        # TODO - make sure the label is associated with the area of interest instead of the label
+        aoi_user_labels.append(UNSURE_STRING)
+        update_label( snapcat_json, image, UNSURE_STRING )
+        index = index + 1
+        continue
+
+      elif key == BACKSPACE_KEY:
+        # ensure we don't go negative with the index
+        if ( index > 0 ):
+          index = index - 1      
+        update_label( snapcat_json, image, NONE_STRING )
+        continue
+
+      elif key == ESCAPE_KEY:
+        cv2.destroyAllWindows()
+        done = True
+        continue
+
+    for area_of_interest in areas_of_interest:
+        
+      # todo - skip if already contains a label?
+
+      # populate x, y coordinates of the areas of interest
+      x1 = area_of_interest[0]
+      x2 = area_of_interest[1]
+      y1 = area_of_interest[2]
+      y2 = area_of_interest[3]
+
+      # crop the image to the area of interest
+      img = cv2.imread(image_path, cv2.IMREAD_COLOR)
+      img = img[y1:y2 , x1:x2, :]
+
+      # todo - determine the size we want - this will be the size fed into the classifier, so it may make sense to use that
+      resized_image = cv2.resize(img, (224, 224))
+
+      key = disp_image_get_input( resized_image )
+      
+      if key == LEFT_KEY:
+        # TODO - make sure the label is associated with the area of interest instead of the label
+        aoi_user_labels.append(INVALID_STRING)
+        #update_aoi_label( snapcat_json, image_name, INVALID_STRING, aoi_count )
+        index = index + 1
+
+      elif key == RIGHT_KEY:
+        # TODO - make sure the label is associated with the area of interest instead of the label
+        aoi_user_labels.append(VALID_STRING)
+        #update_aoi_label( snapcat_json, image_name, VALID_STRING, aoi_count )
+        index = index + 1
+
+      elif key == DOWN_KEY:
+        # TODO - make sure the label is associated with the area of interest instead of the label
+        aoi_user_labels.append(UNSURE_STRING)
+        #update_aoi_label( snapcat_json, image_name, UNSURE_STRING, aoi_count )
+        index = index + 1
+
+      elif key == BACKSPACE_KEY:
+        # ensure we don't go negative with the index
+        if ( index > 0 ):
+          index = index - 1
+
+        if len(aoi_user_labels) > 0:      
+          aoi_user_labels.pop()
+
+        update_label( snapcat_json, image, NONE_STRING )
+      elif key == ESCAPE_KEY:
+        cv2.destroyAllWindows()
+        done = True
+
+      update_aoi_label( snapcat_json, image, aoi_user_labels )
     
-    if index >= len(image_list):
+    if  index >= len(image_list):
       done = True
 
   cv2.destroyAllWindows()
@@ -421,22 +499,17 @@ def user_label_images_burst( snapcat_json ):
   cv2.destroyAllWindows()
   
 
-def main():
+if __name__ == "__main__":
   parser = argparse.ArgumentParser()
-  parser.add_argument("--image_dir", help="will list all the images within this directory and have user label them", default="")
   parser.add_argument("--json_dir", help="path to the json database for images" )
-  parser.add_argument("--gif", help="display all images from burst or not", default="false" )
+  parser.add_argument("--burst", help="display all images from burst or not", default="false" )
 
   args = parser.parse_args()
   
   snapcat_json = json_database.JSONDatabase( args.json_dir )
-  image_list = list_all_jpgs ( args.image_dir )
 
-  print( "gif", args.gif.lower() )
-  if args.gif.lower() == "true":
+  if args.burst.lower() == "true":
+    print("burst")
     user_label_images_burst( snapcat_json )
   else:
-    user_label_images_single( snapcat_json, image_list )
-
-if __name__ == "__main__":
-  main()
+    user_label_images_single( snapcat_json )

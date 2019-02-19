@@ -27,6 +27,7 @@ def optimal_square(x1,x2,y1,y2,i):
 
   x_length = x2-x1
   y_length = y2-y1
+
   square_size = 0
   affected_dimension = ''
 
