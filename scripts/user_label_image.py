@@ -1,4 +1,4 @@
-"""
+﻿"""
 ███████╗███╗   ██╗ █████╗ ██████╗  ██████╗ █████╗ ████████╗
 ██╔════╝████╗  ██║██╔══██╗██╔══██╗██╔════╝██╔══██╗╚══██╔══╝
 ███████╗██╔██╗ ██║███████║██████╔╝██║     ███████║   ██║   
@@ -327,6 +327,8 @@ def user_label_images_single( snapcat_json ):
 
       y,x,_ = img.shape
 
+      print("image:", image )
+
       x1,x2,y1,y2 = tools.optimal_square(400,x-400,400,y-400,img)
 
       subimg = img[y1:y2,x1:x2,:]
@@ -377,6 +379,8 @@ def user_label_images_single( snapcat_json ):
 
       # crop the image to the area of interest
       img = cv2.imread(image_path, cv2.IMREAD_COLOR)
+      print("image_path, :", image_path )
+      print("img:", img )
       img = img[y1:y2 , x1:x2, :]
 
       # todo - determine the size we want - this will be the size fed into the classifier, so it may make sense to use that
