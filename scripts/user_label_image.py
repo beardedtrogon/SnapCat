@@ -452,7 +452,7 @@ def update_user_burst_label( snapcat_json, burst, label ):
   #snapcat_json.save()
 
 
-def user_label_images_burst( snapcat_json ):
+def user_label_images_burst( snapcat_json, using_classifier=False ):
   ######################### sort image bursts #########################
 
   bursts = tools.get_bursts( snapcat_json )
@@ -462,24 +462,26 @@ def user_label_images_burst( snapcat_json ):
 
   # Skip bursts that definitely contain a cat
   # only review bursts that have an unsure label
-  unsure_bursts = []
-  for burst in bursts:
+  if using_classifier:
+    unsure_bursts = []
+    for burst in bursts:
 
-    cat_detected = False
-    unsure_label = False
-    for image_name in burst:
-      if snapcat_json.json_data[image_name]["classifier_label"] == "cat":#TODO - classifier_label will be associated with an area of interest
-        cat_detected = True
-        break
+      cat_detected = False
+      unsure_label = False
+      for image_name in burst:
+        if snapcat_json.json_data[image_name]["classifier_label"] == "cat":#TODO - classifier_label will be associated with an area of interest
+          cat_detected = True
+          break
 
-      if snapcat_json.json_data[image_name]["classifier_label"] == "unsure":#TODO - classifier_label will be associated with an area of interest
-        unsure_label = True
+        if snapcat_json.json_data[image_name]["classifier_label"] == "unsure":#TODO - classifier_label will be associated with an area of interest
+          unsure_label = True
 
-    if cat_detected:
-      continue
-    elif unsure_label:
-      unsure_bursts.append( burst )
-
+      if cat_detected:
+        continue
+      elif unsure_label:
+        unsure_bursts.append( burst )
+  else:
+    unsure_bursts = bursts
 
   # iterate over all of the bursts and get a label
   while not done:
