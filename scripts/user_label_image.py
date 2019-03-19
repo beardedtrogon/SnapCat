@@ -298,7 +298,7 @@ def list_all_jpgs( directory ):
 
 def update_image_label ( snapcat_json, image_name, label ):
   # TODO - save a count of the times the image has been labeled this
-  snapcat_json.update( image_name, "user_label", label ) # TODO - user_label will be associated with area of interest
+  snapcat_json.update( image_name, "aoi_user_label", label ) # TODO - user_label will be associated with area of interest
   snapcat_json.save()
 
 

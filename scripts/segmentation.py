@@ -84,38 +84,45 @@ def segment_images( snapcat_json, speckle_removal_size=10, expansion=50, interac
 				nlabels, labelimg = cv2.connectedComponents(thresimg, connectivity=4)
 				nimgs = 0
 				# Take each island individually
-				for l in range(1, nlabels):
-					# This magic incantation gets the bounding box of that island
-					x1, x2 = np.int32(np.where(np.any(labelimg == l, 0))[0][[0,-1]] * img_scale)
-					y1, y2 = np.int32(np.where(np.any(labelimg == l, 1))[0][[0,-1]] * img_scale)
-					# Make sure it's a square region
-					w = x2-x1
-					h = y2-y1
-					if w > h:
-						y1 -= (w-h)//2
-						y2 = y1 + w
-					elif h > w:
-						x1 -= (h-w)//2
-						x2 = x1 + h
-					# That may have pushed the region off the bounds of the image.
-					# Shrink the square until it is no longer out of bounds.
-					while x1 < 0 or y1 < 0 or x2 >= i.shape[1] or y2 >= i.shape[0]:
-						x1 += 1
-						x2 -= 1
-						y1 += 1
-						y2 -= 1
+				if nlabels == 0:
+					# If there is no AOI found
+					# the AOI is the entire image
+					dim = min(imgs[0].shape[0], imgs[0].shape[1])
+					areas_of_interest[image_path].append([0,dim,0,dim])
+				else:
+					for l in range(1, nlabels):
+						# This magic incantation gets the bounding box of that island
+						x1, x2 = np.int32(np.where(np.any(labelimg == l, 0))[0][[0,-1]] * img_scale)
+						y1, y2 = np.int32(np.where(np.any(labelimg == l, 1))[0][[0,-1]] * img_scale)
+						# Make sure it's a square region
+						w = x2-x1
+						h = y2-y1
+						if w > h:
+							y1 -= (w-h)//2
+							y2 = y1 + w
+						elif h > w:
+							x1 -= (h-w)//2
+							x2 = x1 + h
+						# That may have pushed the region off the bounds of the image.
+						# Shrink the square until it is no longer out of bounds.
+						while x1 < 0 or y1 < 0 or x2 >= i.shape[1] or y2 >= i.shape[0]:
+							x1 += 1
+							x2 -= 1
+							y1 += 1
+							y2 -= 1
 
-					# Save the area of interest for this image.
-					areas_of_interest[image_path].append([x1,x2,y1,y2])
-					if interactive_examine:
-						subimg = i[y1:y2,x1:x2,:]
-						print(x1,x2,y1,y2)
-						cv2.imshow('image', subimg)
-						if cv2.waitKey(0) == ord('q'):
-							exit(1)
+						# Save the area of interest for this image.
+						areas_of_interest[image_path].append([x1,x2,y1,y2])
+						if interactive_examine:
+							subimg = i[y1:y2,x1:x2,:]
+							print(x1,x2,y1,y2)
+							cv2.imshow('image', subimg)
+							if cv2.waitKey(0) == ord('q'):
+								exit(1)
+
 			if len(areas_of_interest) > 0:
 				break
-
+				
 		for image_path in areas_of_interest.keys():
 			image_name = os.path.basename(image_path)
 			snapcat_json.update( image_name , "areas_of_interest", areas_of_interest[image_path] )

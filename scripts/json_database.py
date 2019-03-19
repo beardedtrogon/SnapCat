@@ -62,6 +62,20 @@ class JSONDatabase:
       image_params = self.json_data[image]
       image_params[parameter] = value
 
+  def remove( self, image, parameter ):
+    """ update json setting 
+
+      args:
+        image - name of file (excluding path) of the image the data pertains to
+        parameter - name of the json setting to be removed
+    """
+    if image in self.json_data:
+      try:
+        del self.json_data[image][parameter]
+      except KeyError:
+        pass
+
+
 if __name__ == "__main__":
   parser = argparse.ArgumentParser()
   parser.add_argument("--json_path", help="directory of json database file")
