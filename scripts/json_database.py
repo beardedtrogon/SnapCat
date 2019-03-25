@@ -26,6 +26,9 @@ class JSONDatabase:
     """  upon exit saves the JSON file """
     self.save()
 
+  def __del__(self):
+    """ Save the JSON file if program exits unexpectedly. """
+    self.__exit__()
 
   def load(self):
     """ loads data from json file """

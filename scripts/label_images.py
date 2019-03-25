@@ -51,16 +51,18 @@ def label_images( snapcat_json ):
         print("***************ERROR - File doesn't exist:", file)
         continue
       
+      img = cv2.imread(file)
       # resize area of interest for classification
       #TODO - modify for multiple areas of interest
-      area_of_interest = snapcat_json.json_data[image]["area_of_interest"]
-      x1 = area_of_interest[0]
-      x2 = area_of_interest[1]
-      y1 = area_of_interest[2]
-      y2 = area_of_interest[3]
-
-      img = cv2.imread(file)
-      img = img[y1:y2 , x1:x2, :]
+      try:
+        area_of_interest = snapcat_json.json_data[image]["area_of_interest"]
+        x1 = area_of_interest[0]
+        x2 = area_of_interest[1]
+        y1 = area_of_interest[2]
+        y2 = area_of_interest[3]
+        img = img[y1:y2 , x1:x2, :]
+      except:
+        pass
 
       resized_image = cv2.resize(img, (input_width, input_height))
       t = (np.float32(resized_image) - input_mean) / input_std

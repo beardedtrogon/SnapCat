@@ -1,0 +1,5726 @@
+{
+  "d19947s39i1.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19947s39i1.jpg",
+    "burst_images": [
+      "d19947s39i1.jpg",
+      "d19947s39i2.jpg",
+      "d19947s39i3.jpg",
+      "d19947s39i4.jpg",
+      "d19947s39i5.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19947s39i2.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19947s39i2.jpg",
+    "burst_images": [
+      "d19947s39i1.jpg",
+      "d19947s39i2.jpg",
+      "d19947s39i3.jpg",
+      "d19947s39i4.jpg",
+      "d19947s39i5.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19947s39i3.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19947s39i3.jpg",
+    "burst_images": [
+      "d19947s39i1.jpg",
+      "d19947s39i2.jpg",
+      "d19947s39i3.jpg",
+      "d19947s39i4.jpg",
+      "d19947s39i5.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19947s39i4.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19947s39i4.jpg",
+    "burst_images": [
+      "d19947s39i1.jpg",
+      "d19947s39i2.jpg",
+      "d19947s39i3.jpg",
+      "d19947s39i4.jpg",
+      "d19947s39i5.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        1140,
+        1488,
+        360,
+        708
+      ]
+    ]
+  },
+  "d19947s39i5.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19947s39i5.jpg",
+    "burst_images": [
+      "d19947s39i1.jpg",
+      "d19947s39i2.jpg",
+      "d19947s39i3.jpg",
+      "d19947s39i4.jpg",
+      "d19947s39i5.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        1314,
+        1680,
+        324,
+        690
+      ]
+    ]
+  },
+  "d19947s4i1.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19947s4i1.jpg",
+    "burst_images": [
+      "d19947s4i1.jpg",
+      "d19947s4i10.jpg",
+      "d19947s4i11.jpg",
+      "d19947s4i12.jpg",
+      "d19947s4i13.jpg",
+      "d19947s4i14.jpg",
+      "d19947s4i15.jpg",
+      "d19947s4i2.jpg",
+      "d19947s4i3.jpg",
+      "d19947s4i4.jpg",
+      "d19947s4i5.jpg",
+      "d19947s4i6.jpg",
+      "d19947s4i7.jpg",
+      "d19947s4i8.jpg",
+      "d19947s4i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        506,
+        922,
+        563,
+        979
+      ]
+    ]
+  },
+  "d19947s4i10.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19947s4i10.jpg",
+    "burst_images": [
+      "d19947s4i1.jpg",
+      "d19947s4i10.jpg",
+      "d19947s4i11.jpg",
+      "d19947s4i12.jpg",
+      "d19947s4i13.jpg",
+      "d19947s4i14.jpg",
+      "d19947s4i15.jpg",
+      "d19947s4i2.jpg",
+      "d19947s4i3.jpg",
+      "d19947s4i4.jpg",
+      "d19947s4i5.jpg",
+      "d19947s4i6.jpg",
+      "d19947s4i7.jpg",
+      "d19947s4i8.jpg",
+      "d19947s4i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19947s4i11.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19947s4i11.jpg",
+    "burst_images": [
+      "d19947s4i1.jpg",
+      "d19947s4i10.jpg",
+      "d19947s4i11.jpg",
+      "d19947s4i12.jpg",
+      "d19947s4i13.jpg",
+      "d19947s4i14.jpg",
+      "d19947s4i15.jpg",
+      "d19947s4i2.jpg",
+      "d19947s4i3.jpg",
+      "d19947s4i4.jpg",
+      "d19947s4i5.jpg",
+      "d19947s4i6.jpg",
+      "d19947s4i7.jpg",
+      "d19947s4i8.jpg",
+      "d19947s4i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        270,
+        666,
+        0,
+        396
+      ]
+    ]
+  },
+  "d19947s4i12.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19947s4i12.jpg",
+    "burst_images": [
+      "d19947s4i1.jpg",
+      "d19947s4i10.jpg",
+      "d19947s4i11.jpg",
+      "d19947s4i12.jpg",
+      "d19947s4i13.jpg",
+      "d19947s4i14.jpg",
+      "d19947s4i15.jpg",
+      "d19947s4i2.jpg",
+      "d19947s4i3.jpg",
+      "d19947s4i4.jpg",
+      "d19947s4i5.jpg",
+      "d19947s4i6.jpg",
+      "d19947s4i7.jpg",
+      "d19947s4i8.jpg",
+      "d19947s4i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19947s4i13.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19947s4i13.jpg",
+    "burst_images": [
+      "d19947s4i1.jpg",
+      "d19947s4i10.jpg",
+      "d19947s4i11.jpg",
+      "d19947s4i12.jpg",
+      "d19947s4i13.jpg",
+      "d19947s4i14.jpg",
+      "d19947s4i15.jpg",
+      "d19947s4i2.jpg",
+      "d19947s4i3.jpg",
+      "d19947s4i4.jpg",
+      "d19947s4i5.jpg",
+      "d19947s4i6.jpg",
+      "d19947s4i7.jpg",
+      "d19947s4i8.jpg",
+      "d19947s4i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19947s4i14.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19947s4i14.jpg",
+    "burst_images": [
+      "d19947s4i1.jpg",
+      "d19947s4i10.jpg",
+      "d19947s4i11.jpg",
+      "d19947s4i12.jpg",
+      "d19947s4i13.jpg",
+      "d19947s4i14.jpg",
+      "d19947s4i15.jpg",
+      "d19947s4i2.jpg",
+      "d19947s4i3.jpg",
+      "d19947s4i4.jpg",
+      "d19947s4i5.jpg",
+      "d19947s4i6.jpg",
+      "d19947s4i7.jpg",
+      "d19947s4i8.jpg",
+      "d19947s4i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19947s4i15.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19947s4i15.jpg",
+    "burst_images": [
+      "d19947s4i1.jpg",
+      "d19947s4i10.jpg",
+      "d19947s4i11.jpg",
+      "d19947s4i12.jpg",
+      "d19947s4i13.jpg",
+      "d19947s4i14.jpg",
+      "d19947s4i15.jpg",
+      "d19947s4i2.jpg",
+      "d19947s4i3.jpg",
+      "d19947s4i4.jpg",
+      "d19947s4i5.jpg",
+      "d19947s4i6.jpg",
+      "d19947s4i7.jpg",
+      "d19947s4i8.jpg",
+      "d19947s4i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19947s4i2.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19947s4i2.jpg",
+    "burst_images": [
+      "d19947s4i1.jpg",
+      "d19947s4i10.jpg",
+      "d19947s4i11.jpg",
+      "d19947s4i12.jpg",
+      "d19947s4i13.jpg",
+      "d19947s4i14.jpg",
+      "d19947s4i15.jpg",
+      "d19947s4i2.jpg",
+      "d19947s4i3.jpg",
+      "d19947s4i4.jpg",
+      "d19947s4i5.jpg",
+      "d19947s4i6.jpg",
+      "d19947s4i7.jpg",
+      "d19947s4i8.jpg",
+      "d19947s4i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        290,
+        502,
+        767,
+        979
+      ]
+    ]
+  },
+  "d19947s4i3.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19947s4i3.jpg",
+    "burst_images": [
+      "d19947s4i1.jpg",
+      "d19947s4i10.jpg",
+      "d19947s4i11.jpg",
+      "d19947s4i12.jpg",
+      "d19947s4i13.jpg",
+      "d19947s4i14.jpg",
+      "d19947s4i15.jpg",
+      "d19947s4i2.jpg",
+      "d19947s4i3.jpg",
+      "d19947s4i4.jpg",
+      "d19947s4i5.jpg",
+      "d19947s4i6.jpg",
+      "d19947s4i7.jpg",
+      "d19947s4i8.jpg",
+      "d19947s4i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19947s4i4.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19947s4i4.jpg",
+    "burst_images": [
+      "d19947s4i1.jpg",
+      "d19947s4i10.jpg",
+      "d19947s4i11.jpg",
+      "d19947s4i12.jpg",
+      "d19947s4i13.jpg",
+      "d19947s4i14.jpg",
+      "d19947s4i15.jpg",
+      "d19947s4i2.jpg",
+      "d19947s4i3.jpg",
+      "d19947s4i4.jpg",
+      "d19947s4i5.jpg",
+      "d19947s4i6.jpg",
+      "d19947s4i7.jpg",
+      "d19947s4i8.jpg",
+      "d19947s4i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19947s4i5.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19947s4i5.jpg",
+    "burst_images": [
+      "d19947s4i1.jpg",
+      "d19947s4i10.jpg",
+      "d19947s4i11.jpg",
+      "d19947s4i12.jpg",
+      "d19947s4i13.jpg",
+      "d19947s4i14.jpg",
+      "d19947s4i15.jpg",
+      "d19947s4i2.jpg",
+      "d19947s4i3.jpg",
+      "d19947s4i4.jpg",
+      "d19947s4i5.jpg",
+      "d19947s4i6.jpg",
+      "d19947s4i7.jpg",
+      "d19947s4i8.jpg",
+      "d19947s4i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19947s4i6.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19947s4i6.jpg",
+    "burst_images": [
+      "d19947s4i1.jpg",
+      "d19947s4i10.jpg",
+      "d19947s4i11.jpg",
+      "d19947s4i12.jpg",
+      "d19947s4i13.jpg",
+      "d19947s4i14.jpg",
+      "d19947s4i15.jpg",
+      "d19947s4i2.jpg",
+      "d19947s4i3.jpg",
+      "d19947s4i4.jpg",
+      "d19947s4i5.jpg",
+      "d19947s4i6.jpg",
+      "d19947s4i7.jpg",
+      "d19947s4i8.jpg",
+      "d19947s4i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        984,
+        1362,
+        42,
+        420
+      ]
+    ]
+  },
+  "d19947s4i7.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19947s4i7.jpg",
+    "burst_images": [
+      "d19947s4i1.jpg",
+      "d19947s4i10.jpg",
+      "d19947s4i11.jpg",
+      "d19947s4i12.jpg",
+      "d19947s4i13.jpg",
+      "d19947s4i14.jpg",
+      "d19947s4i15.jpg",
+      "d19947s4i2.jpg",
+      "d19947s4i3.jpg",
+      "d19947s4i4.jpg",
+      "d19947s4i5.jpg",
+      "d19947s4i6.jpg",
+      "d19947s4i7.jpg",
+      "d19947s4i8.jpg",
+      "d19947s4i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        879,
+        1395,
+        0,
+        516
+      ]
+    ]
+  },
+  "d19947s4i8.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19947s4i8.jpg",
+    "burst_images": [
+      "d19947s4i1.jpg",
+      "d19947s4i10.jpg",
+      "d19947s4i11.jpg",
+      "d19947s4i12.jpg",
+      "d19947s4i13.jpg",
+      "d19947s4i14.jpg",
+      "d19947s4i15.jpg",
+      "d19947s4i2.jpg",
+      "d19947s4i3.jpg",
+      "d19947s4i4.jpg",
+      "d19947s4i5.jpg",
+      "d19947s4i6.jpg",
+      "d19947s4i7.jpg",
+      "d19947s4i8.jpg",
+      "d19947s4i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19947s4i9.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19947s4i9.jpg",
+    "burst_images": [
+      "d19947s4i1.jpg",
+      "d19947s4i10.jpg",
+      "d19947s4i11.jpg",
+      "d19947s4i12.jpg",
+      "d19947s4i13.jpg",
+      "d19947s4i14.jpg",
+      "d19947s4i15.jpg",
+      "d19947s4i2.jpg",
+      "d19947s4i3.jpg",
+      "d19947s4i4.jpg",
+      "d19947s4i5.jpg",
+      "d19947s4i6.jpg",
+      "d19947s4i7.jpg",
+      "d19947s4i8.jpg",
+      "d19947s4i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        633,
+        1185,
+        0,
+        552
+      ]
+    ]
+  },
+  "d19975s15i1.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s15i1.jpg",
+    "burst_images": [
+      "d19975s15i1.jpg",
+      "d19975s15i10.jpg",
+      "d19975s15i2.jpg",
+      "d19975s15i3.jpg",
+      "d19975s15i4.jpg",
+      "d19975s15i5.jpg",
+      "d19975s15i6.jpg",
+      "d19975s15i7.jpg",
+      "d19975s15i8.jpg",
+      "d19975s15i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        1356,
+        1787,
+        594,
+        1025
+      ]
+    ]
+  },
+  "d19975s15i10.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s15i10.jpg",
+    "burst_images": [
+      "d19975s15i1.jpg",
+      "d19975s15i10.jpg",
+      "d19975s15i2.jpg",
+      "d19975s15i3.jpg",
+      "d19975s15i4.jpg",
+      "d19975s15i5.jpg",
+      "d19975s15i6.jpg",
+      "d19975s15i7.jpg",
+      "d19975s15i8.jpg",
+      "d19975s15i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s15i2.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s15i2.jpg",
+    "burst_images": [
+      "d19975s15i1.jpg",
+      "d19975s15i10.jpg",
+      "d19975s15i2.jpg",
+      "d19975s15i3.jpg",
+      "d19975s15i4.jpg",
+      "d19975s15i5.jpg",
+      "d19975s15i6.jpg",
+      "d19975s15i7.jpg",
+      "d19975s15i8.jpg",
+      "d19975s15i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        1450,
+        1925,
+        575,
+        1050
+      ]
+    ]
+  },
+  "d19975s15i3.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s15i3.jpg",
+    "burst_images": [
+      "d19975s15i1.jpg",
+      "d19975s15i10.jpg",
+      "d19975s15i2.jpg",
+      "d19975s15i3.jpg",
+      "d19975s15i4.jpg",
+      "d19975s15i5.jpg",
+      "d19975s15i6.jpg",
+      "d19975s15i7.jpg",
+      "d19975s15i8.jpg",
+      "d19975s15i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        1575,
+        1993,
+        607,
+        1025
+      ]
+    ]
+  },
+  "d19975s15i4.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s15i4.jpg",
+    "burst_images": [
+      "d19975s15i1.jpg",
+      "d19975s15i10.jpg",
+      "d19975s15i2.jpg",
+      "d19975s15i3.jpg",
+      "d19975s15i4.jpg",
+      "d19975s15i5.jpg",
+      "d19975s15i6.jpg",
+      "d19975s15i7.jpg",
+      "d19975s15i8.jpg",
+      "d19975s15i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        1701,
+        1999,
+        685,
+        983
+      ]
+    ]
+  },
+  "d19975s15i5.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s15i5.jpg",
+    "burst_images": [
+      "d19975s15i1.jpg",
+      "d19975s15i10.jpg",
+      "d19975s15i2.jpg",
+      "d19975s15i3.jpg",
+      "d19975s15i4.jpg",
+      "d19975s15i5.jpg",
+      "d19975s15i6.jpg",
+      "d19975s15i7.jpg",
+      "d19975s15i8.jpg",
+      "d19975s15i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s15i6.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s15i6.jpg",
+    "burst_images": [
+      "d19975s15i1.jpg",
+      "d19975s15i10.jpg",
+      "d19975s15i2.jpg",
+      "d19975s15i3.jpg",
+      "d19975s15i4.jpg",
+      "d19975s15i5.jpg",
+      "d19975s15i6.jpg",
+      "d19975s15i7.jpg",
+      "d19975s15i8.jpg",
+      "d19975s15i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s15i7.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s15i7.jpg",
+    "burst_images": [
+      "d19975s15i1.jpg",
+      "d19975s15i10.jpg",
+      "d19975s15i2.jpg",
+      "d19975s15i3.jpg",
+      "d19975s15i4.jpg",
+      "d19975s15i5.jpg",
+      "d19975s15i6.jpg",
+      "d19975s15i7.jpg",
+      "d19975s15i8.jpg",
+      "d19975s15i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s15i8.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s15i8.jpg",
+    "burst_images": [
+      "d19975s15i1.jpg",
+      "d19975s15i10.jpg",
+      "d19975s15i2.jpg",
+      "d19975s15i3.jpg",
+      "d19975s15i4.jpg",
+      "d19975s15i5.jpg",
+      "d19975s15i6.jpg",
+      "d19975s15i7.jpg",
+      "d19975s15i8.jpg",
+      "d19975s15i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s15i9.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s15i9.jpg",
+    "burst_images": [
+      "d19975s15i1.jpg",
+      "d19975s15i10.jpg",
+      "d19975s15i2.jpg",
+      "d19975s15i3.jpg",
+      "d19975s15i4.jpg",
+      "d19975s15i5.jpg",
+      "d19975s15i6.jpg",
+      "d19975s15i7.jpg",
+      "d19975s15i8.jpg",
+      "d19975s15i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s35i1.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s35i1.jpg",
+    "burst_images": [
+      "d19975s35i1.jpg",
+      "d19975s35i10.jpg",
+      "d19975s35i2.jpg",
+      "d19975s35i3.jpg",
+      "d19975s35i4.jpg",
+      "d19975s35i5.jpg",
+      "d19975s35i6.jpg",
+      "d19975s35i7.jpg",
+      "d19975s35i8.jpg",
+      "d19975s35i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s35i10.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s35i10.jpg",
+    "burst_images": [
+      "d19975s35i1.jpg",
+      "d19975s35i10.jpg",
+      "d19975s35i2.jpg",
+      "d19975s35i3.jpg",
+      "d19975s35i4.jpg",
+      "d19975s35i5.jpg",
+      "d19975s35i6.jpg",
+      "d19975s35i7.jpg",
+      "d19975s35i8.jpg",
+      "d19975s35i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s35i2.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s35i2.jpg",
+    "burst_images": [
+      "d19975s35i1.jpg",
+      "d19975s35i10.jpg",
+      "d19975s35i2.jpg",
+      "d19975s35i3.jpg",
+      "d19975s35i4.jpg",
+      "d19975s35i5.jpg",
+      "d19975s35i6.jpg",
+      "d19975s35i7.jpg",
+      "d19975s35i8.jpg",
+      "d19975s35i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s35i3.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s35i3.jpg",
+    "burst_images": [
+      "d19975s35i1.jpg",
+      "d19975s35i10.jpg",
+      "d19975s35i2.jpg",
+      "d19975s35i3.jpg",
+      "d19975s35i4.jpg",
+      "d19975s35i5.jpg",
+      "d19975s35i6.jpg",
+      "d19975s35i7.jpg",
+      "d19975s35i8.jpg",
+      "d19975s35i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s35i4.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s35i4.jpg",
+    "burst_images": [
+      "d19975s35i1.jpg",
+      "d19975s35i10.jpg",
+      "d19975s35i2.jpg",
+      "d19975s35i3.jpg",
+      "d19975s35i4.jpg",
+      "d19975s35i5.jpg",
+      "d19975s35i6.jpg",
+      "d19975s35i7.jpg",
+      "d19975s35i8.jpg",
+      "d19975s35i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s35i5.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s35i5.jpg",
+    "burst_images": [
+      "d19975s35i1.jpg",
+      "d19975s35i10.jpg",
+      "d19975s35i2.jpg",
+      "d19975s35i3.jpg",
+      "d19975s35i4.jpg",
+      "d19975s35i5.jpg",
+      "d19975s35i6.jpg",
+      "d19975s35i7.jpg",
+      "d19975s35i8.jpg",
+      "d19975s35i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s35i6.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s35i6.jpg",
+    "burst_images": [
+      "d19975s35i1.jpg",
+      "d19975s35i10.jpg",
+      "d19975s35i2.jpg",
+      "d19975s35i3.jpg",
+      "d19975s35i4.jpg",
+      "d19975s35i5.jpg",
+      "d19975s35i6.jpg",
+      "d19975s35i7.jpg",
+      "d19975s35i8.jpg",
+      "d19975s35i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s35i7.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s35i7.jpg",
+    "burst_images": [
+      "d19975s35i1.jpg",
+      "d19975s35i10.jpg",
+      "d19975s35i2.jpg",
+      "d19975s35i3.jpg",
+      "d19975s35i4.jpg",
+      "d19975s35i5.jpg",
+      "d19975s35i6.jpg",
+      "d19975s35i7.jpg",
+      "d19975s35i8.jpg",
+      "d19975s35i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s35i8.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s35i8.jpg",
+    "burst_images": [
+      "d19975s35i1.jpg",
+      "d19975s35i10.jpg",
+      "d19975s35i2.jpg",
+      "d19975s35i3.jpg",
+      "d19975s35i4.jpg",
+      "d19975s35i5.jpg",
+      "d19975s35i6.jpg",
+      "d19975s35i7.jpg",
+      "d19975s35i8.jpg",
+      "d19975s35i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s35i9.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s35i9.jpg",
+    "burst_images": [
+      "d19975s35i1.jpg",
+      "d19975s35i10.jpg",
+      "d19975s35i2.jpg",
+      "d19975s35i3.jpg",
+      "d19975s35i4.jpg",
+      "d19975s35i5.jpg",
+      "d19975s35i6.jpg",
+      "d19975s35i7.jpg",
+      "d19975s35i8.jpg",
+      "d19975s35i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s40i1.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s40i1.jpg",
+    "burst_images": [
+      "d19975s40i1.jpg",
+      "d19975s40i10.jpg",
+      "d19975s40i2.jpg",
+      "d19975s40i3.jpg",
+      "d19975s40i4.jpg",
+      "d19975s40i5.jpg",
+      "d19975s40i6.jpg",
+      "d19975s40i7.jpg",
+      "d19975s40i8.jpg",
+      "d19975s40i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        0,
+        407,
+        640,
+        1047
+      ]
+    ]
+  },
+  "d19975s40i10.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s40i10.jpg",
+    "burst_images": [
+      "d19975s40i1.jpg",
+      "d19975s40i10.jpg",
+      "d19975s40i2.jpg",
+      "d19975s40i3.jpg",
+      "d19975s40i4.jpg",
+      "d19975s40i5.jpg",
+      "d19975s40i6.jpg",
+      "d19975s40i7.jpg",
+      "d19975s40i8.jpg",
+      "d19975s40i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        1493,
+        1993,
+        640,
+        1140
+      ]
+    ]
+  },
+  "d19975s40i2.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s40i2.jpg",
+    "burst_images": [
+      "d19975s40i1.jpg",
+      "d19975s40i10.jpg",
+      "d19975s40i2.jpg",
+      "d19975s40i3.jpg",
+      "d19975s40i4.jpg",
+      "d19975s40i5.jpg",
+      "d19975s40i6.jpg",
+      "d19975s40i7.jpg",
+      "d19975s40i8.jpg",
+      "d19975s40i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        175,
+        600,
+        631,
+        1056
+      ]
+    ]
+  },
+  "d19975s40i3.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s40i3.jpg",
+    "burst_images": [
+      "d19975s40i1.jpg",
+      "d19975s40i10.jpg",
+      "d19975s40i2.jpg",
+      "d19975s40i3.jpg",
+      "d19975s40i4.jpg",
+      "d19975s40i5.jpg",
+      "d19975s40i6.jpg",
+      "d19975s40i7.jpg",
+      "d19975s40i8.jpg",
+      "d19975s40i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        200,
+        768,
+        556,
+        1124
+      ]
+    ]
+  },
+  "d19975s40i4.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s40i4.jpg",
+    "burst_images": [
+      "d19975s40i1.jpg",
+      "d19975s40i10.jpg",
+      "d19975s40i2.jpg",
+      "d19975s40i3.jpg",
+      "d19975s40i4.jpg",
+      "d19975s40i5.jpg",
+      "d19975s40i6.jpg",
+      "d19975s40i7.jpg",
+      "d19975s40i8.jpg",
+      "d19975s40i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        350,
+        943,
+        544,
+        1137
+      ]
+    ]
+  },
+  "d19975s40i5.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s40i5.jpg",
+    "burst_images": [
+      "d19975s40i1.jpg",
+      "d19975s40i10.jpg",
+      "d19975s40i2.jpg",
+      "d19975s40i3.jpg",
+      "d19975s40i4.jpg",
+      "d19975s40i5.jpg",
+      "d19975s40i6.jpg",
+      "d19975s40i7.jpg",
+      "d19975s40i8.jpg",
+      "d19975s40i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        543,
+        1156,
+        537,
+        1150
+      ]
+    ]
+  },
+  "d19975s40i6.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s40i6.jpg",
+    "burst_images": [
+      "d19975s40i1.jpg",
+      "d19975s40i10.jpg",
+      "d19975s40i2.jpg",
+      "d19975s40i3.jpg",
+      "d19975s40i4.jpg",
+      "d19975s40i5.jpg",
+      "d19975s40i6.jpg",
+      "d19975s40i7.jpg",
+      "d19975s40i8.jpg",
+      "d19975s40i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        831,
+        1437,
+        544,
+        1150
+      ]
+    ]
+  },
+  "d19975s40i7.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s40i7.jpg",
+    "burst_images": [
+      "d19975s40i1.jpg",
+      "d19975s40i10.jpg",
+      "d19975s40i2.jpg",
+      "d19975s40i3.jpg",
+      "d19975s40i4.jpg",
+      "d19975s40i5.jpg",
+      "d19975s40i6.jpg",
+      "d19975s40i7.jpg",
+      "d19975s40i8.jpg",
+      "d19975s40i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        1025,
+        1618,
+        547,
+        1140
+      ]
+    ]
+  },
+  "d19975s40i8.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s40i8.jpg",
+    "burst_images": [
+      "d19975s40i1.jpg",
+      "d19975s40i10.jpg",
+      "d19975s40i2.jpg",
+      "d19975s40i3.jpg",
+      "d19975s40i4.jpg",
+      "d19975s40i5.jpg",
+      "d19975s40i6.jpg",
+      "d19975s40i7.jpg",
+      "d19975s40i8.jpg",
+      "d19975s40i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        1175,
+        1787,
+        550,
+        1162
+      ]
+    ]
+  },
+  "d19975s40i9.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s40i9.jpg",
+    "burst_images": [
+      "d19975s40i1.jpg",
+      "d19975s40i10.jpg",
+      "d19975s40i2.jpg",
+      "d19975s40i3.jpg",
+      "d19975s40i4.jpg",
+      "d19975s40i5.jpg",
+      "d19975s40i6.jpg",
+      "d19975s40i7.jpg",
+      "d19975s40i8.jpg",
+      "d19975s40i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        1306,
+        1912,
+        572,
+        1178
+      ]
+    ]
+  },
+  "d19975s41i1.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s41i1.jpg",
+    "burst_images": [
+      "d19975s41i1.jpg",
+      "d19975s41i10.jpg",
+      "d19975s41i2.jpg",
+      "d19975s41i3.jpg",
+      "d19975s41i4.jpg",
+      "d19975s41i5.jpg",
+      "d19975s41i6.jpg",
+      "d19975s41i7.jpg",
+      "d19975s41i8.jpg",
+      "d19975s41i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s41i10.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s41i10.jpg",
+    "burst_images": [
+      "d19975s41i1.jpg",
+      "d19975s41i10.jpg",
+      "d19975s41i2.jpg",
+      "d19975s41i3.jpg",
+      "d19975s41i4.jpg",
+      "d19975s41i5.jpg",
+      "d19975s41i6.jpg",
+      "d19975s41i7.jpg",
+      "d19975s41i8.jpg",
+      "d19975s41i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s41i2.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s41i2.jpg",
+    "burst_images": [
+      "d19975s41i1.jpg",
+      "d19975s41i10.jpg",
+      "d19975s41i2.jpg",
+      "d19975s41i3.jpg",
+      "d19975s41i4.jpg",
+      "d19975s41i5.jpg",
+      "d19975s41i6.jpg",
+      "d19975s41i7.jpg",
+      "d19975s41i8.jpg",
+      "d19975s41i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s41i3.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s41i3.jpg",
+    "burst_images": [
+      "d19975s41i1.jpg",
+      "d19975s41i10.jpg",
+      "d19975s41i2.jpg",
+      "d19975s41i3.jpg",
+      "d19975s41i4.jpg",
+      "d19975s41i5.jpg",
+      "d19975s41i6.jpg",
+      "d19975s41i7.jpg",
+      "d19975s41i8.jpg",
+      "d19975s41i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s41i4.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s41i4.jpg",
+    "burst_images": [
+      "d19975s41i1.jpg",
+      "d19975s41i10.jpg",
+      "d19975s41i2.jpg",
+      "d19975s41i3.jpg",
+      "d19975s41i4.jpg",
+      "d19975s41i5.jpg",
+      "d19975s41i6.jpg",
+      "d19975s41i7.jpg",
+      "d19975s41i8.jpg",
+      "d19975s41i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        518,
+        893,
+        656,
+        1031
+      ]
+    ]
+  },
+  "d19975s41i5.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s41i5.jpg",
+    "burst_images": [
+      "d19975s41i1.jpg",
+      "d19975s41i10.jpg",
+      "d19975s41i2.jpg",
+      "d19975s41i3.jpg",
+      "d19975s41i4.jpg",
+      "d19975s41i5.jpg",
+      "d19975s41i6.jpg",
+      "d19975s41i7.jpg",
+      "d19975s41i8.jpg",
+      "d19975s41i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s41i6.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s41i6.jpg",
+    "burst_images": [
+      "d19975s41i1.jpg",
+      "d19975s41i10.jpg",
+      "d19975s41i2.jpg",
+      "d19975s41i3.jpg",
+      "d19975s41i4.jpg",
+      "d19975s41i5.jpg",
+      "d19975s41i6.jpg",
+      "d19975s41i7.jpg",
+      "d19975s41i8.jpg",
+      "d19975s41i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s41i7.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s41i7.jpg",
+    "burst_images": [
+      "d19975s41i1.jpg",
+      "d19975s41i10.jpg",
+      "d19975s41i2.jpg",
+      "d19975s41i3.jpg",
+      "d19975s41i4.jpg",
+      "d19975s41i5.jpg",
+      "d19975s41i6.jpg",
+      "d19975s41i7.jpg",
+      "d19975s41i8.jpg",
+      "d19975s41i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s41i8.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s41i8.jpg",
+    "burst_images": [
+      "d19975s41i1.jpg",
+      "d19975s41i10.jpg",
+      "d19975s41i2.jpg",
+      "d19975s41i3.jpg",
+      "d19975s41i4.jpg",
+      "d19975s41i5.jpg",
+      "d19975s41i6.jpg",
+      "d19975s41i7.jpg",
+      "d19975s41i8.jpg",
+      "d19975s41i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s41i9.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s41i9.jpg",
+    "burst_images": [
+      "d19975s41i1.jpg",
+      "d19975s41i10.jpg",
+      "d19975s41i2.jpg",
+      "d19975s41i3.jpg",
+      "d19975s41i4.jpg",
+      "d19975s41i5.jpg",
+      "d19975s41i6.jpg",
+      "d19975s41i7.jpg",
+      "d19975s41i8.jpg",
+      "d19975s41i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s4i1.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s4i1.jpg",
+    "burst_images": [
+      "d19975s4i1.jpg",
+      "d19975s4i10.jpg",
+      "d19975s4i11.jpg",
+      "d19975s4i12.jpg",
+      "d19975s4i13.jpg",
+      "d19975s4i14.jpg",
+      "d19975s4i15.jpg",
+      "d19975s4i16.jpg",
+      "d19975s4i17.jpg",
+      "d19975s4i18.jpg",
+      "d19975s4i19.jpg",
+      "d19975s4i2.jpg",
+      "d19975s4i20.jpg",
+      "d19975s4i3.jpg",
+      "d19975s4i4.jpg",
+      "d19975s4i5.jpg",
+      "d19975s4i6.jpg",
+      "d19975s4i7.jpg",
+      "d19975s4i8.jpg",
+      "d19975s4i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        1250,
+        1618,
+        625,
+        993
+      ]
+    ]
+  },
+  "d19975s4i10.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s4i10.jpg",
+    "burst_images": [
+      "d19975s4i1.jpg",
+      "d19975s4i10.jpg",
+      "d19975s4i11.jpg",
+      "d19975s4i12.jpg",
+      "d19975s4i13.jpg",
+      "d19975s4i14.jpg",
+      "d19975s4i15.jpg",
+      "d19975s4i16.jpg",
+      "d19975s4i17.jpg",
+      "d19975s4i18.jpg",
+      "d19975s4i19.jpg",
+      "d19975s4i2.jpg",
+      "d19975s4i20.jpg",
+      "d19975s4i3.jpg",
+      "d19975s4i4.jpg",
+      "d19975s4i5.jpg",
+      "d19975s4i6.jpg",
+      "d19975s4i7.jpg",
+      "d19975s4i8.jpg",
+      "d19975s4i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s4i11.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s4i11.jpg",
+    "burst_images": [
+      "d19975s4i1.jpg",
+      "d19975s4i10.jpg",
+      "d19975s4i11.jpg",
+      "d19975s4i12.jpg",
+      "d19975s4i13.jpg",
+      "d19975s4i14.jpg",
+      "d19975s4i15.jpg",
+      "d19975s4i16.jpg",
+      "d19975s4i17.jpg",
+      "d19975s4i18.jpg",
+      "d19975s4i19.jpg",
+      "d19975s4i2.jpg",
+      "d19975s4i20.jpg",
+      "d19975s4i3.jpg",
+      "d19975s4i4.jpg",
+      "d19975s4i5.jpg",
+      "d19975s4i6.jpg",
+      "d19975s4i7.jpg",
+      "d19975s4i8.jpg",
+      "d19975s4i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s4i12.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s4i12.jpg",
+    "burst_images": [
+      "d19975s4i1.jpg",
+      "d19975s4i10.jpg",
+      "d19975s4i11.jpg",
+      "d19975s4i12.jpg",
+      "d19975s4i13.jpg",
+      "d19975s4i14.jpg",
+      "d19975s4i15.jpg",
+      "d19975s4i16.jpg",
+      "d19975s4i17.jpg",
+      "d19975s4i18.jpg",
+      "d19975s4i19.jpg",
+      "d19975s4i2.jpg",
+      "d19975s4i20.jpg",
+      "d19975s4i3.jpg",
+      "d19975s4i4.jpg",
+      "d19975s4i5.jpg",
+      "d19975s4i6.jpg",
+      "d19975s4i7.jpg",
+      "d19975s4i8.jpg",
+      "d19975s4i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        0,
+        482,
+        712,
+        1194
+      ]
+    ]
+  },
+  "d19975s4i13.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s4i13.jpg",
+    "burst_images": [
+      "d19975s4i1.jpg",
+      "d19975s4i10.jpg",
+      "d19975s4i11.jpg",
+      "d19975s4i12.jpg",
+      "d19975s4i13.jpg",
+      "d19975s4i14.jpg",
+      "d19975s4i15.jpg",
+      "d19975s4i16.jpg",
+      "d19975s4i17.jpg",
+      "d19975s4i18.jpg",
+      "d19975s4i19.jpg",
+      "d19975s4i2.jpg",
+      "d19975s4i20.jpg",
+      "d19975s4i3.jpg",
+      "d19975s4i4.jpg",
+      "d19975s4i5.jpg",
+      "d19975s4i6.jpg",
+      "d19975s4i7.jpg",
+      "d19975s4i8.jpg",
+      "d19975s4i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s4i14.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s4i14.jpg",
+    "burst_images": [
+      "d19975s4i1.jpg",
+      "d19975s4i10.jpg",
+      "d19975s4i11.jpg",
+      "d19975s4i12.jpg",
+      "d19975s4i13.jpg",
+      "d19975s4i14.jpg",
+      "d19975s4i15.jpg",
+      "d19975s4i16.jpg",
+      "d19975s4i17.jpg",
+      "d19975s4i18.jpg",
+      "d19975s4i19.jpg",
+      "d19975s4i2.jpg",
+      "d19975s4i20.jpg",
+      "d19975s4i3.jpg",
+      "d19975s4i4.jpg",
+      "d19975s4i5.jpg",
+      "d19975s4i6.jpg",
+      "d19975s4i7.jpg",
+      "d19975s4i8.jpg",
+      "d19975s4i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s4i15.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s4i15.jpg",
+    "burst_images": [
+      "d19975s4i1.jpg",
+      "d19975s4i10.jpg",
+      "d19975s4i11.jpg",
+      "d19975s4i12.jpg",
+      "d19975s4i13.jpg",
+      "d19975s4i14.jpg",
+      "d19975s4i15.jpg",
+      "d19975s4i16.jpg",
+      "d19975s4i17.jpg",
+      "d19975s4i18.jpg",
+      "d19975s4i19.jpg",
+      "d19975s4i2.jpg",
+      "d19975s4i20.jpg",
+      "d19975s4i3.jpg",
+      "d19975s4i4.jpg",
+      "d19975s4i5.jpg",
+      "d19975s4i6.jpg",
+      "d19975s4i7.jpg",
+      "d19975s4i8.jpg",
+      "d19975s4i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        0,
+        368,
+        950,
+        1318
+      ]
+    ]
+  },
+  "d19975s4i16.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s4i16.jpg",
+    "burst_images": [
+      "d19975s4i1.jpg",
+      "d19975s4i10.jpg",
+      "d19975s4i11.jpg",
+      "d19975s4i12.jpg",
+      "d19975s4i13.jpg",
+      "d19975s4i14.jpg",
+      "d19975s4i15.jpg",
+      "d19975s4i16.jpg",
+      "d19975s4i17.jpg",
+      "d19975s4i18.jpg",
+      "d19975s4i19.jpg",
+      "d19975s4i2.jpg",
+      "d19975s4i20.jpg",
+      "d19975s4i3.jpg",
+      "d19975s4i4.jpg",
+      "d19975s4i5.jpg",
+      "d19975s4i6.jpg",
+      "d19975s4i7.jpg",
+      "d19975s4i8.jpg",
+      "d19975s4i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s4i17.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s4i17.jpg",
+    "burst_images": [
+      "d19975s4i1.jpg",
+      "d19975s4i10.jpg",
+      "d19975s4i11.jpg",
+      "d19975s4i12.jpg",
+      "d19975s4i13.jpg",
+      "d19975s4i14.jpg",
+      "d19975s4i15.jpg",
+      "d19975s4i16.jpg",
+      "d19975s4i17.jpg",
+      "d19975s4i18.jpg",
+      "d19975s4i19.jpg",
+      "d19975s4i2.jpg",
+      "d19975s4i20.jpg",
+      "d19975s4i3.jpg",
+      "d19975s4i4.jpg",
+      "d19975s4i5.jpg",
+      "d19975s4i6.jpg",
+      "d19975s4i7.jpg",
+      "d19975s4i8.jpg",
+      "d19975s4i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s4i18.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s4i18.jpg",
+    "burst_images": [
+      "d19975s4i1.jpg",
+      "d19975s4i10.jpg",
+      "d19975s4i11.jpg",
+      "d19975s4i12.jpg",
+      "d19975s4i13.jpg",
+      "d19975s4i14.jpg",
+      "d19975s4i15.jpg",
+      "d19975s4i16.jpg",
+      "d19975s4i17.jpg",
+      "d19975s4i18.jpg",
+      "d19975s4i19.jpg",
+      "d19975s4i2.jpg",
+      "d19975s4i20.jpg",
+      "d19975s4i3.jpg",
+      "d19975s4i4.jpg",
+      "d19975s4i5.jpg",
+      "d19975s4i6.jpg",
+      "d19975s4i7.jpg",
+      "d19975s4i8.jpg",
+      "d19975s4i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s4i19.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s4i19.jpg",
+    "burst_images": [
+      "d19975s4i1.jpg",
+      "d19975s4i10.jpg",
+      "d19975s4i11.jpg",
+      "d19975s4i12.jpg",
+      "d19975s4i13.jpg",
+      "d19975s4i14.jpg",
+      "d19975s4i15.jpg",
+      "d19975s4i16.jpg",
+      "d19975s4i17.jpg",
+      "d19975s4i18.jpg",
+      "d19975s4i19.jpg",
+      "d19975s4i2.jpg",
+      "d19975s4i20.jpg",
+      "d19975s4i3.jpg",
+      "d19975s4i4.jpg",
+      "d19975s4i5.jpg",
+      "d19975s4i6.jpg",
+      "d19975s4i7.jpg",
+      "d19975s4i8.jpg",
+      "d19975s4i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s4i2.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s4i2.jpg",
+    "burst_images": [
+      "d19975s4i1.jpg",
+      "d19975s4i10.jpg",
+      "d19975s4i11.jpg",
+      "d19975s4i12.jpg",
+      "d19975s4i13.jpg",
+      "d19975s4i14.jpg",
+      "d19975s4i15.jpg",
+      "d19975s4i16.jpg",
+      "d19975s4i17.jpg",
+      "d19975s4i18.jpg",
+      "d19975s4i19.jpg",
+      "d19975s4i2.jpg",
+      "d19975s4i20.jpg",
+      "d19975s4i3.jpg",
+      "d19975s4i4.jpg",
+      "d19975s4i5.jpg",
+      "d19975s4i6.jpg",
+      "d19975s4i7.jpg",
+      "d19975s4i8.jpg",
+      "d19975s4i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s4i20.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s4i20.jpg",
+    "burst_images": [
+      "d19975s4i1.jpg",
+      "d19975s4i10.jpg",
+      "d19975s4i11.jpg",
+      "d19975s4i12.jpg",
+      "d19975s4i13.jpg",
+      "d19975s4i14.jpg",
+      "d19975s4i15.jpg",
+      "d19975s4i16.jpg",
+      "d19975s4i17.jpg",
+      "d19975s4i18.jpg",
+      "d19975s4i19.jpg",
+      "d19975s4i2.jpg",
+      "d19975s4i20.jpg",
+      "d19975s4i3.jpg",
+      "d19975s4i4.jpg",
+      "d19975s4i5.jpg",
+      "d19975s4i6.jpg",
+      "d19975s4i7.jpg",
+      "d19975s4i8.jpg",
+      "d19975s4i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s4i3.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s4i3.jpg",
+    "burst_images": [
+      "d19975s4i1.jpg",
+      "d19975s4i10.jpg",
+      "d19975s4i11.jpg",
+      "d19975s4i12.jpg",
+      "d19975s4i13.jpg",
+      "d19975s4i14.jpg",
+      "d19975s4i15.jpg",
+      "d19975s4i16.jpg",
+      "d19975s4i17.jpg",
+      "d19975s4i18.jpg",
+      "d19975s4i19.jpg",
+      "d19975s4i2.jpg",
+      "d19975s4i20.jpg",
+      "d19975s4i3.jpg",
+      "d19975s4i4.jpg",
+      "d19975s4i5.jpg",
+      "d19975s4i6.jpg",
+      "d19975s4i7.jpg",
+      "d19975s4i8.jpg",
+      "d19975s4i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s4i4.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s4i4.jpg",
+    "burst_images": [
+      "d19975s4i1.jpg",
+      "d19975s4i10.jpg",
+      "d19975s4i11.jpg",
+      "d19975s4i12.jpg",
+      "d19975s4i13.jpg",
+      "d19975s4i14.jpg",
+      "d19975s4i15.jpg",
+      "d19975s4i16.jpg",
+      "d19975s4i17.jpg",
+      "d19975s4i18.jpg",
+      "d19975s4i19.jpg",
+      "d19975s4i2.jpg",
+      "d19975s4i20.jpg",
+      "d19975s4i3.jpg",
+      "d19975s4i4.jpg",
+      "d19975s4i5.jpg",
+      "d19975s4i6.jpg",
+      "d19975s4i7.jpg",
+      "d19975s4i8.jpg",
+      "d19975s4i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s4i5.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s4i5.jpg",
+    "burst_images": [
+      "d19975s4i1.jpg",
+      "d19975s4i10.jpg",
+      "d19975s4i11.jpg",
+      "d19975s4i12.jpg",
+      "d19975s4i13.jpg",
+      "d19975s4i14.jpg",
+      "d19975s4i15.jpg",
+      "d19975s4i16.jpg",
+      "d19975s4i17.jpg",
+      "d19975s4i18.jpg",
+      "d19975s4i19.jpg",
+      "d19975s4i2.jpg",
+      "d19975s4i20.jpg",
+      "d19975s4i3.jpg",
+      "d19975s4i4.jpg",
+      "d19975s4i5.jpg",
+      "d19975s4i6.jpg",
+      "d19975s4i7.jpg",
+      "d19975s4i8.jpg",
+      "d19975s4i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        1075,
+        1450,
+        662,
+        1037
+      ]
+    ]
+  },
+  "d19975s4i6.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s4i6.jpg",
+    "burst_images": [
+      "d19975s4i1.jpg",
+      "d19975s4i10.jpg",
+      "d19975s4i11.jpg",
+      "d19975s4i12.jpg",
+      "d19975s4i13.jpg",
+      "d19975s4i14.jpg",
+      "d19975s4i15.jpg",
+      "d19975s4i16.jpg",
+      "d19975s4i17.jpg",
+      "d19975s4i18.jpg",
+      "d19975s4i19.jpg",
+      "d19975s4i2.jpg",
+      "d19975s4i20.jpg",
+      "d19975s4i3.jpg",
+      "d19975s4i4.jpg",
+      "d19975s4i5.jpg",
+      "d19975s4i6.jpg",
+      "d19975s4i7.jpg",
+      "d19975s4i8.jpg",
+      "d19975s4i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s4i7.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s4i7.jpg",
+    "burst_images": [
+      "d19975s4i1.jpg",
+      "d19975s4i10.jpg",
+      "d19975s4i11.jpg",
+      "d19975s4i12.jpg",
+      "d19975s4i13.jpg",
+      "d19975s4i14.jpg",
+      "d19975s4i15.jpg",
+      "d19975s4i16.jpg",
+      "d19975s4i17.jpg",
+      "d19975s4i18.jpg",
+      "d19975s4i19.jpg",
+      "d19975s4i2.jpg",
+      "d19975s4i20.jpg",
+      "d19975s4i3.jpg",
+      "d19975s4i4.jpg",
+      "d19975s4i5.jpg",
+      "d19975s4i6.jpg",
+      "d19975s4i7.jpg",
+      "d19975s4i8.jpg",
+      "d19975s4i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s4i8.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s4i8.jpg",
+    "burst_images": [
+      "d19975s4i1.jpg",
+      "d19975s4i10.jpg",
+      "d19975s4i11.jpg",
+      "d19975s4i12.jpg",
+      "d19975s4i13.jpg",
+      "d19975s4i14.jpg",
+      "d19975s4i15.jpg",
+      "d19975s4i16.jpg",
+      "d19975s4i17.jpg",
+      "d19975s4i18.jpg",
+      "d19975s4i19.jpg",
+      "d19975s4i2.jpg",
+      "d19975s4i20.jpg",
+      "d19975s4i3.jpg",
+      "d19975s4i4.jpg",
+      "d19975s4i5.jpg",
+      "d19975s4i6.jpg",
+      "d19975s4i7.jpg",
+      "d19975s4i8.jpg",
+      "d19975s4i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s4i9.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s4i9.jpg",
+    "burst_images": [
+      "d19975s4i1.jpg",
+      "d19975s4i10.jpg",
+      "d19975s4i11.jpg",
+      "d19975s4i12.jpg",
+      "d19975s4i13.jpg",
+      "d19975s4i14.jpg",
+      "d19975s4i15.jpg",
+      "d19975s4i16.jpg",
+      "d19975s4i17.jpg",
+      "d19975s4i18.jpg",
+      "d19975s4i19.jpg",
+      "d19975s4i2.jpg",
+      "d19975s4i20.jpg",
+      "d19975s4i3.jpg",
+      "d19975s4i4.jpg",
+      "d19975s4i5.jpg",
+      "d19975s4i6.jpg",
+      "d19975s4i7.jpg",
+      "d19975s4i8.jpg",
+      "d19975s4i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s54i1.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s54i1.jpg",
+    "burst_images": [
+      "d19975s54i1.jpg",
+      "d19975s54i10.jpg",
+      "d19975s54i2.jpg",
+      "d19975s54i3.jpg",
+      "d19975s54i4.jpg",
+      "d19975s54i5.jpg",
+      "d19975s54i6.jpg",
+      "d19975s54i7.jpg",
+      "d19975s54i8.jpg",
+      "d19975s54i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        0,
+        518,
+        638,
+        1156
+      ]
+    ]
+  },
+  "d19975s54i10.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s54i10.jpg",
+    "burst_images": [
+      "d19975s54i1.jpg",
+      "d19975s54i10.jpg",
+      "d19975s54i2.jpg",
+      "d19975s54i3.jpg",
+      "d19975s54i4.jpg",
+      "d19975s54i5.jpg",
+      "d19975s54i6.jpg",
+      "d19975s54i7.jpg",
+      "d19975s54i8.jpg",
+      "d19975s54i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        1200,
+        1931,
+        572,
+        1303
+      ]
+    ]
+  },
+  "d19975s54i2.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s54i2.jpg",
+    "burst_images": [
+      "d19975s54i1.jpg",
+      "d19975s54i10.jpg",
+      "d19975s54i2.jpg",
+      "d19975s54i3.jpg",
+      "d19975s54i4.jpg",
+      "d19975s54i5.jpg",
+      "d19975s54i6.jpg",
+      "d19975s54i7.jpg",
+      "d19975s54i8.jpg",
+      "d19975s54i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        37,
+        668,
+        566,
+        1197
+      ]
+    ]
+  },
+  "d19975s54i3.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s54i3.jpg",
+    "burst_images": [
+      "d19975s54i1.jpg",
+      "d19975s54i10.jpg",
+      "d19975s54i2.jpg",
+      "d19975s54i3.jpg",
+      "d19975s54i4.jpg",
+      "d19975s54i5.jpg",
+      "d19975s54i6.jpg",
+      "d19975s54i7.jpg",
+      "d19975s54i8.jpg",
+      "d19975s54i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        168,
+        706,
+        587,
+        1125
+      ]
+    ]
+  },
+  "d19975s54i4.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s54i4.jpg",
+    "burst_images": [
+      "d19975s54i1.jpg",
+      "d19975s54i10.jpg",
+      "d19975s54i2.jpg",
+      "d19975s54i3.jpg",
+      "d19975s54i4.jpg",
+      "d19975s54i5.jpg",
+      "d19975s54i6.jpg",
+      "d19975s54i7.jpg",
+      "d19975s54i8.jpg",
+      "d19975s54i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        181,
+        750,
+        584,
+        1153
+      ]
+    ]
+  },
+  "d19975s54i5.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s54i5.jpg",
+    "burst_images": [
+      "d19975s54i1.jpg",
+      "d19975s54i10.jpg",
+      "d19975s54i2.jpg",
+      "d19975s54i3.jpg",
+      "d19975s54i4.jpg",
+      "d19975s54i5.jpg",
+      "d19975s54i6.jpg",
+      "d19975s54i7.jpg",
+      "d19975s54i8.jpg",
+      "d19975s54i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        256,
+        925,
+        544,
+        1213
+      ]
+    ]
+  },
+  "d19975s54i6.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s54i6.jpg",
+    "burst_images": [
+      "d19975s54i1.jpg",
+      "d19975s54i10.jpg",
+      "d19975s54i2.jpg",
+      "d19975s54i3.jpg",
+      "d19975s54i4.jpg",
+      "d19975s54i5.jpg",
+      "d19975s54i6.jpg",
+      "d19975s54i7.jpg",
+      "d19975s54i8.jpg",
+      "d19975s54i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        393,
+        1118,
+        503,
+        1228
+      ]
+    ]
+  },
+  "d19975s54i7.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s54i7.jpg",
+    "burst_images": [
+      "d19975s54i1.jpg",
+      "d19975s54i10.jpg",
+      "d19975s54i2.jpg",
+      "d19975s54i3.jpg",
+      "d19975s54i4.jpg",
+      "d19975s54i5.jpg",
+      "d19975s54i6.jpg",
+      "d19975s54i7.jpg",
+      "d19975s54i8.jpg",
+      "d19975s54i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        612,
+        1306,
+        522,
+        1216
+      ]
+    ]
+  },
+  "d19975s54i8.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s54i8.jpg",
+    "burst_images": [
+      "d19975s54i1.jpg",
+      "d19975s54i10.jpg",
+      "d19975s54i2.jpg",
+      "d19975s54i3.jpg",
+      "d19975s54i4.jpg",
+      "d19975s54i5.jpg",
+      "d19975s54i6.jpg",
+      "d19975s54i7.jpg",
+      "d19975s54i8.jpg",
+      "d19975s54i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        950,
+        1593,
+        572,
+        1215
+      ]
+    ]
+  },
+  "d19975s54i9.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s54i9.jpg",
+    "burst_images": [
+      "d19975s54i1.jpg",
+      "d19975s54i10.jpg",
+      "d19975s54i2.jpg",
+      "d19975s54i3.jpg",
+      "d19975s54i4.jpg",
+      "d19975s54i5.jpg",
+      "d19975s54i6.jpg",
+      "d19975s54i7.jpg",
+      "d19975s54i8.jpg",
+      "d19975s54i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        1081,
+        1712,
+        594,
+        1225
+      ]
+    ]
+  },
+  "d19975s62i1.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s62i1.jpg",
+    "burst_images": [
+      "d19975s62i1.jpg",
+      "d19975s62i10.jpg",
+      "d19975s62i2.jpg",
+      "d19975s62i3.jpg",
+      "d19975s62i4.jpg",
+      "d19975s62i5.jpg",
+      "d19975s62i6.jpg",
+      "d19975s62i7.jpg",
+      "d19975s62i8.jpg",
+      "d19975s62i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        441,
+        933,
+        907,
+        1399
+      ]
+    ]
+  },
+  "d19975s62i10.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s62i10.jpg",
+    "burst_images": [
+      "d19975s62i1.jpg",
+      "d19975s62i10.jpg",
+      "d19975s62i2.jpg",
+      "d19975s62i3.jpg",
+      "d19975s62i4.jpg",
+      "d19975s62i5.jpg",
+      "d19975s62i6.jpg",
+      "d19975s62i7.jpg",
+      "d19975s62i8.jpg",
+      "d19975s62i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s62i2.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s62i2.jpg",
+    "burst_images": [
+      "d19975s62i1.jpg",
+      "d19975s62i10.jpg",
+      "d19975s62i2.jpg",
+      "d19975s62i3.jpg",
+      "d19975s62i4.jpg",
+      "d19975s62i5.jpg",
+      "d19975s62i6.jpg",
+      "d19975s62i7.jpg",
+      "d19975s62i8.jpg",
+      "d19975s62i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        253,
+        696,
+        950,
+        1393
+      ]
+    ]
+  },
+  "d19975s62i3.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s62i3.jpg",
+    "burst_images": [
+      "d19975s62i1.jpg",
+      "d19975s62i10.jpg",
+      "d19975s62i2.jpg",
+      "d19975s62i3.jpg",
+      "d19975s62i4.jpg",
+      "d19975s62i5.jpg",
+      "d19975s62i6.jpg",
+      "d19975s62i7.jpg",
+      "d19975s62i8.jpg",
+      "d19975s62i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        244,
+        618,
+        1025,
+        1399
+      ]
+    ]
+  },
+  "d19975s62i4.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s62i4.jpg",
+    "burst_images": [
+      "d19975s62i1.jpg",
+      "d19975s62i10.jpg",
+      "d19975s62i2.jpg",
+      "d19975s62i3.jpg",
+      "d19975s62i4.jpg",
+      "d19975s62i5.jpg",
+      "d19975s62i6.jpg",
+      "d19975s62i7.jpg",
+      "d19975s62i8.jpg",
+      "d19975s62i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        156,
+        593,
+        962,
+        1399
+      ]
+    ]
+  },
+  "d19975s62i5.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s62i5.jpg",
+    "burst_images": [
+      "d19975s62i1.jpg",
+      "d19975s62i10.jpg",
+      "d19975s62i2.jpg",
+      "d19975s62i3.jpg",
+      "d19975s62i4.jpg",
+      "d19975s62i5.jpg",
+      "d19975s62i6.jpg",
+      "d19975s62i7.jpg",
+      "d19975s62i8.jpg",
+      "d19975s62i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        0,
+        413,
+        865,
+        1278
+      ]
+    ]
+  },
+  "d19975s62i6.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s62i6.jpg",
+    "burst_images": [
+      "d19975s62i1.jpg",
+      "d19975s62i10.jpg",
+      "d19975s62i2.jpg",
+      "d19975s62i3.jpg",
+      "d19975s62i4.jpg",
+      "d19975s62i5.jpg",
+      "d19975s62i6.jpg",
+      "d19975s62i7.jpg",
+      "d19975s62i8.jpg",
+      "d19975s62i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        0,
+        250,
+        965,
+        1215
+      ]
+    ]
+  },
+  "d19975s62i7.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s62i7.jpg",
+    "burst_images": [
+      "d19975s62i1.jpg",
+      "d19975s62i10.jpg",
+      "d19975s62i2.jpg",
+      "d19975s62i3.jpg",
+      "d19975s62i4.jpg",
+      "d19975s62i5.jpg",
+      "d19975s62i6.jpg",
+      "d19975s62i7.jpg",
+      "d19975s62i8.jpg",
+      "d19975s62i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        0,
+        232,
+        1068,
+        1300
+      ]
+    ]
+  },
+  "d19975s62i8.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s62i8.jpg",
+    "burst_images": [
+      "d19975s62i1.jpg",
+      "d19975s62i10.jpg",
+      "d19975s62i2.jpg",
+      "d19975s62i3.jpg",
+      "d19975s62i4.jpg",
+      "d19975s62i5.jpg",
+      "d19975s62i6.jpg",
+      "d19975s62i7.jpg",
+      "d19975s62i8.jpg",
+      "d19975s62i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        0,
+        232,
+        1068,
+        1300
+      ]
+    ]
+  },
+  "d19975s62i9.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s62i9.jpg",
+    "burst_images": [
+      "d19975s62i1.jpg",
+      "d19975s62i10.jpg",
+      "d19975s62i2.jpg",
+      "d19975s62i3.jpg",
+      "d19975s62i4.jpg",
+      "d19975s62i5.jpg",
+      "d19975s62i6.jpg",
+      "d19975s62i7.jpg",
+      "d19975s62i8.jpg",
+      "d19975s62i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        0,
+        193,
+        1081,
+        1274
+      ]
+    ]
+  },
+  "d19975s74i1.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s74i1.jpg",
+    "burst_images": [
+      "d19975s74i1.jpg",
+      "d19975s74i10.jpg",
+      "d19975s74i2.jpg",
+      "d19975s74i3.jpg",
+      "d19975s74i4.jpg",
+      "d19975s74i5.jpg",
+      "d19975s74i6.jpg",
+      "d19975s74i7.jpg",
+      "d19975s74i8.jpg",
+      "d19975s74i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        638,
+        1236,
+        801,
+        1399
+      ]
+    ]
+  },
+  "d19975s74i10.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s74i10.jpg",
+    "burst_images": [
+      "d19975s74i1.jpg",
+      "d19975s74i10.jpg",
+      "d19975s74i2.jpg",
+      "d19975s74i3.jpg",
+      "d19975s74i4.jpg",
+      "d19975s74i5.jpg",
+      "d19975s74i6.jpg",
+      "d19975s74i7.jpg",
+      "d19975s74i8.jpg",
+      "d19975s74i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s74i2.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s74i2.jpg",
+    "burst_images": [
+      "d19975s74i1.jpg",
+      "d19975s74i10.jpg",
+      "d19975s74i2.jpg",
+      "d19975s74i3.jpg",
+      "d19975s74i4.jpg",
+      "d19975s74i5.jpg",
+      "d19975s74i6.jpg",
+      "d19975s74i7.jpg",
+      "d19975s74i8.jpg",
+      "d19975s74i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        644,
+        1236,
+        807,
+        1399
+      ]
+    ]
+  },
+  "d19975s74i3.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s74i3.jpg",
+    "burst_images": [
+      "d19975s74i1.jpg",
+      "d19975s74i10.jpg",
+      "d19975s74i2.jpg",
+      "d19975s74i3.jpg",
+      "d19975s74i4.jpg",
+      "d19975s74i5.jpg",
+      "d19975s74i6.jpg",
+      "d19975s74i7.jpg",
+      "d19975s74i8.jpg",
+      "d19975s74i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        650,
+        1243,
+        806,
+        1399
+      ]
+    ]
+  },
+  "d19975s74i4.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s74i4.jpg",
+    "burst_images": [
+      "d19975s74i1.jpg",
+      "d19975s74i10.jpg",
+      "d19975s74i2.jpg",
+      "d19975s74i3.jpg",
+      "d19975s74i4.jpg",
+      "d19975s74i5.jpg",
+      "d19975s74i6.jpg",
+      "d19975s74i7.jpg",
+      "d19975s74i8.jpg",
+      "d19975s74i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        844,
+        1424,
+        819,
+        1399
+      ]
+    ]
+  },
+  "d19975s74i5.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s74i5.jpg",
+    "burst_images": [
+      "d19975s74i1.jpg",
+      "d19975s74i10.jpg",
+      "d19975s74i2.jpg",
+      "d19975s74i3.jpg",
+      "d19975s74i4.jpg",
+      "d19975s74i5.jpg",
+      "d19975s74i6.jpg",
+      "d19975s74i7.jpg",
+      "d19975s74i8.jpg",
+      "d19975s74i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        1344,
+        1786,
+        957,
+        1399
+      ]
+    ]
+  },
+  "d19975s74i6.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s74i6.jpg",
+    "burst_images": [
+      "d19975s74i1.jpg",
+      "d19975s74i10.jpg",
+      "d19975s74i2.jpg",
+      "d19975s74i3.jpg",
+      "d19975s74i4.jpg",
+      "d19975s74i5.jpg",
+      "d19975s74i6.jpg",
+      "d19975s74i7.jpg",
+      "d19975s74i8.jpg",
+      "d19975s74i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        1563,
+        1961,
+        1001,
+        1399
+      ]
+    ]
+  },
+  "d19975s74i7.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s74i7.jpg",
+    "burst_images": [
+      "d19975s74i1.jpg",
+      "d19975s74i10.jpg",
+      "d19975s74i2.jpg",
+      "d19975s74i3.jpg",
+      "d19975s74i4.jpg",
+      "d19975s74i5.jpg",
+      "d19975s74i6.jpg",
+      "d19975s74i7.jpg",
+      "d19975s74i8.jpg",
+      "d19975s74i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s74i8.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s74i8.jpg",
+    "burst_images": [
+      "d19975s74i1.jpg",
+      "d19975s74i10.jpg",
+      "d19975s74i2.jpg",
+      "d19975s74i3.jpg",
+      "d19975s74i4.jpg",
+      "d19975s74i5.jpg",
+      "d19975s74i6.jpg",
+      "d19975s74i7.jpg",
+      "d19975s74i8.jpg",
+      "d19975s74i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19975s74i9.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19975s74i9.jpg",
+    "burst_images": [
+      "d19975s74i1.jpg",
+      "d19975s74i10.jpg",
+      "d19975s74i2.jpg",
+      "d19975s74i3.jpg",
+      "d19975s74i4.jpg",
+      "d19975s74i5.jpg",
+      "d19975s74i6.jpg",
+      "d19975s74i7.jpg",
+      "d19975s74i8.jpg",
+      "d19975s74i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19978s2i1.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19978s2i1.jpg",
+    "burst_images": [
+      "d19978s2i1.jpg",
+      "d19978s2i10.jpg",
+      "d19978s2i2.jpg",
+      "d19978s2i4.jpg",
+      "d19978s2i5.jpg",
+      "d19978s2i6.jpg",
+      "d19978s2i7.jpg",
+      "d19978s2i8.jpg",
+      "d19978s2i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        725,
+        1443,
+        228,
+        946
+      ]
+    ]
+  },
+  "d19978s2i10.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19978s2i10.jpg",
+    "burst_images": [
+      "d19978s2i1.jpg",
+      "d19978s2i10.jpg",
+      "d19978s2i2.jpg",
+      "d19978s2i4.jpg",
+      "d19978s2i5.jpg",
+      "d19978s2i6.jpg",
+      "d19978s2i7.jpg",
+      "d19978s2i8.jpg",
+      "d19978s2i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19978s2i2.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19978s2i2.jpg",
+    "burst_images": [
+      "d19978s2i1.jpg",
+      "d19978s2i10.jpg",
+      "d19978s2i2.jpg",
+      "d19978s2i4.jpg",
+      "d19978s2i5.jpg",
+      "d19978s2i6.jpg",
+      "d19978s2i7.jpg",
+      "d19978s2i8.jpg",
+      "d19978s2i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        812,
+        1518,
+        269,
+        975
+      ]
+    ]
+  },
+  "d19978s2i4.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19978s2i4.jpg",
+    "burst_images": [
+      "d19978s2i1.jpg",
+      "d19978s2i10.jpg",
+      "d19978s2i2.jpg",
+      "d19978s2i4.jpg",
+      "d19978s2i5.jpg",
+      "d19978s2i6.jpg",
+      "d19978s2i7.jpg",
+      "d19978s2i8.jpg",
+      "d19978s2i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        1044,
+        1725,
+        362,
+        1043
+      ]
+    ]
+  },
+  "d19978s2i5.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19978s2i5.jpg",
+    "burst_images": [
+      "d19978s2i1.jpg",
+      "d19978s2i10.jpg",
+      "d19978s2i2.jpg",
+      "d19978s2i4.jpg",
+      "d19978s2i5.jpg",
+      "d19978s2i6.jpg",
+      "d19978s2i7.jpg",
+      "d19978s2i8.jpg",
+      "d19978s2i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        1520,
+        1999,
+        591,
+        1070
+      ]
+    ]
+  },
+  "d19978s2i6.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19978s2i6.jpg",
+    "burst_images": [
+      "d19978s2i1.jpg",
+      "d19978s2i10.jpg",
+      "d19978s2i2.jpg",
+      "d19978s2i4.jpg",
+      "d19978s2i5.jpg",
+      "d19978s2i6.jpg",
+      "d19978s2i7.jpg",
+      "d19978s2i8.jpg",
+      "d19978s2i9.jpg"
+    ],
+    "areas_of_interest": [
+      [
+        1651,
+        1999,
+        735,
+        1083
+      ]
+    ]
+  },
+  "d19978s2i7.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19978s2i7.jpg",
+    "burst_images": [
+      "d19978s2i1.jpg",
+      "d19978s2i10.jpg",
+      "d19978s2i2.jpg",
+      "d19978s2i4.jpg",
+      "d19978s2i5.jpg",
+      "d19978s2i6.jpg",
+      "d19978s2i7.jpg",
+      "d19978s2i8.jpg",
+      "d19978s2i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19978s2i8.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19978s2i8.jpg",
+    "burst_images": [
+      "d19978s2i1.jpg",
+      "d19978s2i10.jpg",
+      "d19978s2i2.jpg",
+      "d19978s2i4.jpg",
+      "d19978s2i5.jpg",
+      "d19978s2i6.jpg",
+      "d19978s2i7.jpg",
+      "d19978s2i8.jpg",
+      "d19978s2i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "d19978s2i9.jpg": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C1\\d19978s2i9.jpg",
+    "burst_images": [
+      "d19978s2i1.jpg",
+      "d19978s2i10.jpg",
+      "d19978s2i2.jpg",
+      "d19978s2i4.jpg",
+      "d19978s2i5.jpg",
+      "d19978s2i6.jpg",
+      "d19978s2i7.jpg",
+      "d19978s2i8.jpg",
+      "d19978s2i9.jpg"
+    ],
+    "areas_of_interest": []
+  },
+  "02-01-2013 0-48-39.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-01-2013 0-48-39.JPG",
+    "burst_images": [
+      "02-01-2013 0-48-39.JPG",
+      "02-01-2013 0-48-41.JPG",
+      "02-01-2013 0-48-42.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "02-01-2013 0-48-41.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-01-2013 0-48-41.JPG",
+    "burst_images": [
+      "02-01-2013 0-48-39.JPG",
+      "02-01-2013 0-48-41.JPG",
+      "02-01-2013 0-48-42.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "02-01-2013 0-48-42.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-01-2013 0-48-42.JPG",
+    "burst_images": [
+      "02-01-2013 0-48-39.JPG",
+      "02-01-2013 0-48-41.JPG",
+      "02-01-2013 0-48-42.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "02-01-2013 2-21-56.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-01-2013 2-21-56.JPG",
+    "burst_images": [
+      "02-01-2013 2-21-56.JPG",
+      "02-01-2013 2-21-58.JPG",
+      "02-01-2013 2-21-59.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        787,
+        1165,
+        1036,
+        1414
+      ],
+      [
+        370,
+        724,
+        1081,
+        1435
+      ]
+    ]
+  },
+  "02-01-2013 2-21-58.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-01-2013 2-21-58.JPG",
+    "burst_images": [
+      "02-01-2013 2-21-56.JPG",
+      "02-01-2013 2-21-58.JPG",
+      "02-01-2013 2-21-59.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        885,
+        1438,
+        882,
+        1435
+      ]
+    ]
+  },
+  "02-01-2013 2-21-59.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-01-2013 2-21-59.JPG",
+    "burst_images": [
+      "02-01-2013 2-21-56.JPG",
+      "02-01-2013 2-21-58.JPG",
+      "02-01-2013 2-21-59.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        785,
+        1147,
+        1073,
+        1435
+      ]
+    ]
+  },
+  "02-01-2013 22-33-06.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-01-2013 22-33-06.JPG",
+    "burst_images": [
+      "02-01-2013 22-33-06.JPG",
+      "02-01-2013 22-33-07.JPG",
+      "02-01-2013 22-33-09.JPG",
+      "02-01-2013 22-37-23.JPG",
+      "02-01-2013 22-37-25.JPG",
+      "02-01-2013 22-37-26.JPG",
+      "02-01-2013 23-29-49.JPG",
+      "02-01-2013 23-29-50.JPG",
+      "02-01-2013 23-29-52.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "02-01-2013 22-33-07.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-01-2013 22-33-07.JPG",
+    "burst_images": [
+      "02-01-2013 22-33-06.JPG",
+      "02-01-2013 22-33-07.JPG",
+      "02-01-2013 22-33-09.JPG",
+      "02-01-2013 22-37-23.JPG",
+      "02-01-2013 22-37-25.JPG",
+      "02-01-2013 22-37-26.JPG",
+      "02-01-2013 23-29-49.JPG",
+      "02-01-2013 23-29-50.JPG",
+      "02-01-2013 23-29-52.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "02-01-2013 22-33-09.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-01-2013 22-33-09.JPG",
+    "burst_images": [
+      "02-01-2013 22-33-06.JPG",
+      "02-01-2013 22-33-07.JPG",
+      "02-01-2013 22-33-09.JPG",
+      "02-01-2013 22-37-23.JPG",
+      "02-01-2013 22-37-25.JPG",
+      "02-01-2013 22-37-26.JPG",
+      "02-01-2013 23-29-49.JPG",
+      "02-01-2013 23-29-50.JPG",
+      "02-01-2013 23-29-52.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "02-01-2013 22-37-23.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-01-2013 22-37-23.JPG",
+    "burst_images": [
+      "02-01-2013 22-33-06.JPG",
+      "02-01-2013 22-33-07.JPG",
+      "02-01-2013 22-33-09.JPG",
+      "02-01-2013 22-37-23.JPG",
+      "02-01-2013 22-37-25.JPG",
+      "02-01-2013 22-37-26.JPG",
+      "02-01-2013 23-29-49.JPG",
+      "02-01-2013 23-29-50.JPG",
+      "02-01-2013 23-29-52.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1441,
+        1899,
+        977,
+        1435
+      ]
+    ]
+  },
+  "02-01-2013 22-37-25.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-01-2013 22-37-25.JPG",
+    "burst_images": [
+      "02-01-2013 22-33-06.JPG",
+      "02-01-2013 22-33-07.JPG",
+      "02-01-2013 22-33-09.JPG",
+      "02-01-2013 22-37-23.JPG",
+      "02-01-2013 22-37-25.JPG",
+      "02-01-2013 22-37-26.JPG",
+      "02-01-2013 23-29-49.JPG",
+      "02-01-2013 23-29-50.JPG",
+      "02-01-2013 23-29-52.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1393,
+        1934,
+        894,
+        1435
+      ]
+    ]
+  },
+  "02-01-2013 22-37-26.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-01-2013 22-37-26.JPG",
+    "burst_images": [
+      "02-01-2013 22-33-06.JPG",
+      "02-01-2013 22-33-07.JPG",
+      "02-01-2013 22-33-09.JPG",
+      "02-01-2013 22-37-23.JPG",
+      "02-01-2013 22-37-25.JPG",
+      "02-01-2013 22-37-26.JPG",
+      "02-01-2013 23-29-49.JPG",
+      "02-01-2013 23-29-50.JPG",
+      "02-01-2013 23-29-52.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1396,
+        1937,
+        894,
+        1435
+      ]
+    ]
+  },
+  "02-01-2013 23-29-49.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-01-2013 23-29-49.JPG",
+    "burst_images": [
+      "02-01-2013 22-33-06.JPG",
+      "02-01-2013 22-33-07.JPG",
+      "02-01-2013 22-33-09.JPG",
+      "02-01-2013 22-37-23.JPG",
+      "02-01-2013 22-37-25.JPG",
+      "02-01-2013 22-37-26.JPG",
+      "02-01-2013 23-29-49.JPG",
+      "02-01-2013 23-29-50.JPG",
+      "02-01-2013 23-29-52.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "02-01-2013 23-29-50.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-01-2013 23-29-50.JPG",
+    "burst_images": [
+      "02-01-2013 22-33-06.JPG",
+      "02-01-2013 22-33-07.JPG",
+      "02-01-2013 22-33-09.JPG",
+      "02-01-2013 22-37-23.JPG",
+      "02-01-2013 22-37-25.JPG",
+      "02-01-2013 22-37-26.JPG",
+      "02-01-2013 23-29-49.JPG",
+      "02-01-2013 23-29-50.JPG",
+      "02-01-2013 23-29-52.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "02-01-2013 23-29-52.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-01-2013 23-29-52.JPG",
+    "burst_images": [
+      "02-01-2013 22-33-06.JPG",
+      "02-01-2013 22-33-07.JPG",
+      "02-01-2013 22-33-09.JPG",
+      "02-01-2013 22-37-23.JPG",
+      "02-01-2013 22-37-25.JPG",
+      "02-01-2013 22-37-26.JPG",
+      "02-01-2013 23-29-49.JPG",
+      "02-01-2013 23-29-50.JPG",
+      "02-01-2013 23-29-52.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "02-01-2013 4-00-06.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-01-2013 4-00-06.JPG",
+    "burst_images": [
+      "02-01-2013 4-00-06.JPG",
+      "02-01-2013 4-00-07.JPG",
+      "02-01-2013 4-00-09.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "02-01-2013 4-00-07.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-01-2013 4-00-07.JPG",
+    "burst_images": [
+      "02-01-2013 4-00-06.JPG",
+      "02-01-2013 4-00-07.JPG",
+      "02-01-2013 4-00-09.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "02-01-2013 4-00-09.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-01-2013 4-00-09.JPG",
+    "burst_images": [
+      "02-01-2013 4-00-06.JPG",
+      "02-01-2013 4-00-07.JPG",
+      "02-01-2013 4-00-09.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "02-02-2013 0-13-05.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-02-2013 0-13-05.JPG",
+    "burst_images": [
+      "02-02-2013 0-13-05.JPG",
+      "02-02-2013 0-13-06.JPG",
+      "02-02-2013 0-13-08.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        819,
+        1484,
+        435,
+        1100
+      ]
+    ]
+  },
+  "02-02-2013 0-13-06.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-02-2013 0-13-06.JPG",
+    "burst_images": [
+      "02-02-2013 0-13-05.JPG",
+      "02-02-2013 0-13-06.JPG",
+      "02-02-2013 0-13-08.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "02-02-2013 0-13-08.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-02-2013 0-13-08.JPG",
+    "burst_images": [
+      "02-02-2013 0-13-05.JPG",
+      "02-02-2013 0-13-06.JPG",
+      "02-02-2013 0-13-08.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "02-02-2013 16-14-28.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-02-2013 16-14-28.JPG",
+    "burst_images": [
+      "02-02-2013 16-14-28.JPG",
+      "02-02-2013 16-14-31.JPG",
+      "02-02-2013 16-14-33.JPG",
+      "02-02-2013 16-15-45.JPG",
+      "02-02-2013 16-15-47.JPG",
+      "02-02-2013 16-15-49.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        849,
+        1147,
+        1137,
+        1435
+      ]
+    ]
+  },
+  "02-02-2013 16-14-31.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-02-2013 16-14-31.JPG",
+    "burst_images": [
+      "02-02-2013 16-14-28.JPG",
+      "02-02-2013 16-14-31.JPG",
+      "02-02-2013 16-14-33.JPG",
+      "02-02-2013 16-15-45.JPG",
+      "02-02-2013 16-15-47.JPG",
+      "02-02-2013 16-15-49.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        977,
+        1396,
+        1016,
+        1435
+      ]
+    ]
+  },
+  "02-02-2013 16-14-33.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-02-2013 16-14-33.JPG",
+    "burst_images": [
+      "02-02-2013 16-14-28.JPG",
+      "02-02-2013 16-14-31.JPG",
+      "02-02-2013 16-14-33.JPG",
+      "02-02-2013 16-15-45.JPG",
+      "02-02-2013 16-15-47.JPG",
+      "02-02-2013 16-15-49.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1038,
+        1425,
+        1048,
+        1435
+      ]
+    ]
+  },
+  "02-02-2013 16-15-45.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-02-2013 16-15-45.JPG",
+    "burst_images": [
+      "02-02-2013 16-14-28.JPG",
+      "02-02-2013 16-14-31.JPG",
+      "02-02-2013 16-14-33.JPG",
+      "02-02-2013 16-15-45.JPG",
+      "02-02-2013 16-15-47.JPG",
+      "02-02-2013 16-15-49.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "02-02-2013 16-15-47.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-02-2013 16-15-47.JPG",
+    "burst_images": [
+      "02-02-2013 16-14-28.JPG",
+      "02-02-2013 16-14-31.JPG",
+      "02-02-2013 16-14-33.JPG",
+      "02-02-2013 16-15-45.JPG",
+      "02-02-2013 16-15-47.JPG",
+      "02-02-2013 16-15-49.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "02-02-2013 16-15-49.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\02-02-2013 16-15-49.JPG",
+    "burst_images": [
+      "02-02-2013 16-14-28.JPG",
+      "02-02-2013 16-14-31.JPG",
+      "02-02-2013 16-14-33.JPG",
+      "02-02-2013 16-15-45.JPG",
+      "02-02-2013 16-15-47.JPG",
+      "02-02-2013 16-15-49.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-01-2013 0-03-58.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\03-01-2013 0-03-58.JPG",
+    "burst_images": [
+      "03-01-2013 0-03-58.JPG",
+      "03-01-2013 0-04-00.JPG",
+      "03-01-2013 0-04-01.JPG",
+      "03-01-2013 0-14-08.JPG",
+      "03-01-2013 0-14-09.JPG",
+      "03-01-2013 0-14-10.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-01-2013 0-04-00.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\03-01-2013 0-04-00.JPG",
+    "burst_images": [
+      "03-01-2013 0-03-58.JPG",
+      "03-01-2013 0-04-00.JPG",
+      "03-01-2013 0-04-01.JPG",
+      "03-01-2013 0-14-08.JPG",
+      "03-01-2013 0-14-09.JPG",
+      "03-01-2013 0-14-10.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-01-2013 0-04-01.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\03-01-2013 0-04-01.JPG",
+    "burst_images": [
+      "03-01-2013 0-03-58.JPG",
+      "03-01-2013 0-04-00.JPG",
+      "03-01-2013 0-04-01.JPG",
+      "03-01-2013 0-14-08.JPG",
+      "03-01-2013 0-14-09.JPG",
+      "03-01-2013 0-14-10.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-01-2013 0-14-08.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\03-01-2013 0-14-08.JPG",
+    "burst_images": [
+      "03-01-2013 0-03-58.JPG",
+      "03-01-2013 0-04-00.JPG",
+      "03-01-2013 0-04-01.JPG",
+      "03-01-2013 0-14-08.JPG",
+      "03-01-2013 0-14-09.JPG",
+      "03-01-2013 0-14-10.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1120,
+        1568,
+        505,
+        953
+      ]
+    ]
+  },
+  "03-01-2013 0-14-09.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\03-01-2013 0-14-09.JPG",
+    "burst_images": [
+      "03-01-2013 0-03-58.JPG",
+      "03-01-2013 0-04-00.JPG",
+      "03-01-2013 0-04-01.JPG",
+      "03-01-2013 0-14-08.JPG",
+      "03-01-2013 0-14-09.JPG",
+      "03-01-2013 0-14-10.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-01-2013 0-14-10.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\03-01-2013 0-14-10.JPG",
+    "burst_images": [
+      "03-01-2013 0-03-58.JPG",
+      "03-01-2013 0-04-00.JPG",
+      "03-01-2013 0-04-01.JPG",
+      "03-01-2013 0-14-08.JPG",
+      "03-01-2013 0-14-09.JPG",
+      "03-01-2013 0-14-10.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-01-2013 3-42-54.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\03-01-2013 3-42-54.JPG",
+    "burst_images": [
+      "03-01-2013 3-42-54.JPG",
+      "03-01-2013 3-42-56.JPG",
+      "03-01-2013 3-42-57.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-01-2013 3-42-56.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\03-01-2013 3-42-56.JPG",
+    "burst_images": [
+      "03-01-2013 3-42-54.JPG",
+      "03-01-2013 3-42-56.JPG",
+      "03-01-2013 3-42-57.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-01-2013 3-42-57.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\03-01-2013 3-42-57.JPG",
+    "burst_images": [
+      "03-01-2013 3-42-54.JPG",
+      "03-01-2013 3-42-56.JPG",
+      "03-01-2013 3-42-57.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-01-2013 4-45-26.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\03-01-2013 4-45-26.JPG",
+    "burst_images": [
+      "03-01-2013 4-45-26.JPG",
+      "03-01-2013 4-45-28.JPG",
+      "03-01-2013 4-45-29.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1728,
+        2047,
+        445,
+        764
+      ]
+    ]
+  },
+  "03-01-2013 4-45-28.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\03-01-2013 4-45-28.JPG",
+    "burst_images": [
+      "03-01-2013 4-45-26.JPG",
+      "03-01-2013 4-45-28.JPG",
+      "03-01-2013 4-45-29.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-01-2013 4-45-29.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C2\\03-01-2013 4-45-29.JPG",
+    "burst_images": [
+      "03-01-2013 4-45-26.JPG",
+      "03-01-2013 4-45-28.JPG",
+      "03-01-2013 4-45-29.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-01-2013 11-37-23.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C3\\03-01-2013 11-37-23.JPG",
+    "burst_images": [
+      "03-01-2013 11-37-23.JPG",
+      "03-01-2013 11-37-26.JPG",
+      "03-01-2013 11-37-28.JPG",
+      "03-01-2013 11-56-27.JPG",
+      "03-01-2013 11-56-29.JPG",
+      "03-01-2013 11-56-32.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-01-2013 11-37-26.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C3\\03-01-2013 11-37-26.JPG",
+    "burst_images": [
+      "03-01-2013 11-37-23.JPG",
+      "03-01-2013 11-37-26.JPG",
+      "03-01-2013 11-37-28.JPG",
+      "03-01-2013 11-56-27.JPG",
+      "03-01-2013 11-56-29.JPG",
+      "03-01-2013 11-56-32.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-01-2013 11-37-28.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C3\\03-01-2013 11-37-28.JPG",
+    "burst_images": [
+      "03-01-2013 11-37-23.JPG",
+      "03-01-2013 11-37-26.JPG",
+      "03-01-2013 11-37-28.JPG",
+      "03-01-2013 11-56-27.JPG",
+      "03-01-2013 11-56-29.JPG",
+      "03-01-2013 11-56-32.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-01-2013 11-56-27.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C3\\03-01-2013 11-56-27.JPG",
+    "burst_images": [
+      "03-01-2013 11-37-23.JPG",
+      "03-01-2013 11-37-26.JPG",
+      "03-01-2013 11-37-28.JPG",
+      "03-01-2013 11-56-27.JPG",
+      "03-01-2013 11-56-29.JPG",
+      "03-01-2013 11-56-32.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-01-2013 11-56-29.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C3\\03-01-2013 11-56-29.JPG",
+    "burst_images": [
+      "03-01-2013 11-37-23.JPG",
+      "03-01-2013 11-37-26.JPG",
+      "03-01-2013 11-37-28.JPG",
+      "03-01-2013 11-56-27.JPG",
+      "03-01-2013 11-56-29.JPG",
+      "03-01-2013 11-56-32.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-01-2013 11-56-32.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C3\\03-01-2013 11-56-32.JPG",
+    "burst_images": [
+      "03-01-2013 11-37-23.JPG",
+      "03-01-2013 11-37-26.JPG",
+      "03-01-2013 11-37-28.JPG",
+      "03-01-2013 11-56-27.JPG",
+      "03-01-2013 11-56-29.JPG",
+      "03-01-2013 11-56-32.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-01-2013 20-03-57.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C3\\03-01-2013 20-03-57.JPG",
+    "burst_images": [
+      "03-01-2013 20-03-57.JPG",
+      "03-01-2013 20-03-59.JPG",
+      "03-01-2013 20-04-01.JPG",
+      "03-01-2013 20-04-10.JPG",
+      "03-01-2013 20-04-12.JPG",
+      "03-01-2013 20-04-13.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-01-2013 20-03-59.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C3\\03-01-2013 20-03-59.JPG",
+    "burst_images": [
+      "03-01-2013 20-03-57.JPG",
+      "03-01-2013 20-03-59.JPG",
+      "03-01-2013 20-04-01.JPG",
+      "03-01-2013 20-04-10.JPG",
+      "03-01-2013 20-04-12.JPG",
+      "03-01-2013 20-04-13.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-01-2013 20-04-01.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C3\\03-01-2013 20-04-01.JPG",
+    "burst_images": [
+      "03-01-2013 20-03-57.JPG",
+      "03-01-2013 20-03-59.JPG",
+      "03-01-2013 20-04-01.JPG",
+      "03-01-2013 20-04-10.JPG",
+      "03-01-2013 20-04-12.JPG",
+      "03-01-2013 20-04-13.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-01-2013 20-04-10.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C3\\03-01-2013 20-04-10.JPG",
+    "burst_images": [
+      "03-01-2013 20-03-57.JPG",
+      "03-01-2013 20-03-59.JPG",
+      "03-01-2013 20-04-01.JPG",
+      "03-01-2013 20-04-10.JPG",
+      "03-01-2013 20-04-12.JPG",
+      "03-01-2013 20-04-13.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-01-2013 20-04-12.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C3\\03-01-2013 20-04-12.JPG",
+    "burst_images": [
+      "03-01-2013 20-03-57.JPG",
+      "03-01-2013 20-03-59.JPG",
+      "03-01-2013 20-04-01.JPG",
+      "03-01-2013 20-04-10.JPG",
+      "03-01-2013 20-04-12.JPG",
+      "03-01-2013 20-04-13.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-01-2013 20-04-13.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C3\\03-01-2013 20-04-13.JPG",
+    "burst_images": [
+      "03-01-2013 20-03-57.JPG",
+      "03-01-2013 20-03-59.JPG",
+      "03-01-2013 20-04-01.JPG",
+      "03-01-2013 20-04-10.JPG",
+      "03-01-2013 20-04-12.JPG",
+      "03-01-2013 20-04-13.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-02-2013 16-02-02.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C3\\03-02-2013 16-02-02.JPG",
+    "burst_images": [
+      "03-02-2013 16-02-02.JPG",
+      "03-02-2013 16-02-04.JPG",
+      "03-02-2013 16-02-06.JPG",
+      "03-02-2013 16-02-42.JPG",
+      "03-02-2013 16-02-44.JPG",
+      "03-02-2013 16-02-46.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1502,
+        1799,
+        1138,
+        1435
+      ],
+      [
+        981,
+        1239,
+        1177,
+        1435
+      ]
+    ]
+  },
+  "03-02-2013 16-02-04.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C3\\03-02-2013 16-02-04.JPG",
+    "burst_images": [
+      "03-02-2013 16-02-02.JPG",
+      "03-02-2013 16-02-04.JPG",
+      "03-02-2013 16-02-06.JPG",
+      "03-02-2013 16-02-42.JPG",
+      "03-02-2013 16-02-44.JPG",
+      "03-02-2013 16-02-46.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1509,
+        1806,
+        1138,
+        1435
+      ],
+      [
+        990,
+        1224,
+        1201,
+        1435
+      ]
+    ]
+  },
+  "03-02-2013 16-02-06.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C3\\03-02-2013 16-02-06.JPG",
+    "burst_images": [
+      "03-02-2013 16-02-02.JPG",
+      "03-02-2013 16-02-04.JPG",
+      "03-02-2013 16-02-06.JPG",
+      "03-02-2013 16-02-42.JPG",
+      "03-02-2013 16-02-44.JPG",
+      "03-02-2013 16-02-46.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1102,
+        1432,
+        1105,
+        1435
+      ]
+    ]
+  },
+  "03-02-2013 16-02-42.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C3\\03-02-2013 16-02-42.JPG",
+    "burst_images": [
+      "03-02-2013 16-02-02.JPG",
+      "03-02-2013 16-02-04.JPG",
+      "03-02-2013 16-02-06.JPG",
+      "03-02-2013 16-02-42.JPG",
+      "03-02-2013 16-02-44.JPG",
+      "03-02-2013 16-02-46.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        0,
+        372,
+        76,
+        448
+      ]
+    ]
+  },
+  "03-02-2013 16-02-44.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C3\\03-02-2013 16-02-44.JPG",
+    "burst_images": [
+      "03-02-2013 16-02-02.JPG",
+      "03-02-2013 16-02-04.JPG",
+      "03-02-2013 16-02-06.JPG",
+      "03-02-2013 16-02-42.JPG",
+      "03-02-2013 16-02-44.JPG",
+      "03-02-2013 16-02-46.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-02-2013 16-02-46.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C3\\03-02-2013 16-02-46.JPG",
+    "burst_images": [
+      "03-02-2013 16-02-02.JPG",
+      "03-02-2013 16-02-04.JPG",
+      "03-02-2013 16-02-06.JPG",
+      "03-02-2013 16-02-42.JPG",
+      "03-02-2013 16-02-44.JPG",
+      "03-02-2013 16-02-46.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-02-2013 21-11-35.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\03-02-2013 21-11-35.JPG",
+    "burst_images": [
+      "03-02-2013 21-11-35.JPG",
+      "03-02-2013 21-11-36.JPG",
+      "03-02-2013 21-11-38.JPG",
+      "03-02-2013 21-11-43.JPG",
+      "03-02-2013 21-11-44.JPG",
+      "03-02-2013 21-11-46.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        806,
+        1177,
+        947,
+        1318
+      ]
+    ]
+  },
+  "03-02-2013 21-11-36.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\03-02-2013 21-11-36.JPG",
+    "burst_images": [
+      "03-02-2013 21-11-35.JPG",
+      "03-02-2013 21-11-36.JPG",
+      "03-02-2013 21-11-38.JPG",
+      "03-02-2013 21-11-43.JPG",
+      "03-02-2013 21-11-44.JPG",
+      "03-02-2013 21-11-46.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        774,
+        1158,
+        915,
+        1299
+      ]
+    ]
+  },
+  "03-02-2013 21-11-38.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\03-02-2013 21-11-38.JPG",
+    "burst_images": [
+      "03-02-2013 21-11-35.JPG",
+      "03-02-2013 21-11-36.JPG",
+      "03-02-2013 21-11-38.JPG",
+      "03-02-2013 21-11-43.JPG",
+      "03-02-2013 21-11-44.JPG",
+      "03-02-2013 21-11-46.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        720,
+        1104,
+        889,
+        1273
+      ]
+    ]
+  },
+  "03-02-2013 21-11-43.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\03-02-2013 21-11-43.JPG",
+    "burst_images": [
+      "03-02-2013 21-11-35.JPG",
+      "03-02-2013 21-11-36.JPG",
+      "03-02-2013 21-11-38.JPG",
+      "03-02-2013 21-11-43.JPG",
+      "03-02-2013 21-11-44.JPG",
+      "03-02-2013 21-11-46.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1075,
+        1446,
+        832,
+        1203
+      ]
+    ]
+  },
+  "03-02-2013 21-11-44.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\03-02-2013 21-11-44.JPG",
+    "burst_images": [
+      "03-02-2013 21-11-35.JPG",
+      "03-02-2013 21-11-36.JPG",
+      "03-02-2013 21-11-38.JPG",
+      "03-02-2013 21-11-43.JPG",
+      "03-02-2013 21-11-44.JPG",
+      "03-02-2013 21-11-46.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "03-02-2013 21-11-46.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\03-02-2013 21-11-46.JPG",
+    "burst_images": [
+      "03-02-2013 21-11-35.JPG",
+      "03-02-2013 21-11-36.JPG",
+      "03-02-2013 21-11-38.JPG",
+      "03-02-2013 21-11-43.JPG",
+      "03-02-2013 21-11-44.JPG",
+      "03-02-2013 21-11-46.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "04-01-2013 0-12-01.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 0-12-01.JPG",
+    "burst_images": [
+      "04-01-2013 0-12-01.JPG",
+      "04-01-2013 0-12-03.JPG",
+      "04-01-2013 0-12-04.JPG",
+      "04-01-2013 0-22-44.JPG",
+      "04-01-2013 0-22-45.JPG",
+      "04-01-2013 0-22-47.JPG",
+      "04-01-2013 0-46-14.JPG",
+      "04-01-2013 0-46-15.JPG",
+      "04-01-2013 0-46-17.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "04-01-2013 0-12-03.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 0-12-03.JPG",
+    "burst_images": [
+      "04-01-2013 0-12-01.JPG",
+      "04-01-2013 0-12-03.JPG",
+      "04-01-2013 0-12-04.JPG",
+      "04-01-2013 0-22-44.JPG",
+      "04-01-2013 0-22-45.JPG",
+      "04-01-2013 0-22-47.JPG",
+      "04-01-2013 0-46-14.JPG",
+      "04-01-2013 0-46-15.JPG",
+      "04-01-2013 0-46-17.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "04-01-2013 0-12-04.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 0-12-04.JPG",
+    "burst_images": [
+      "04-01-2013 0-12-01.JPG",
+      "04-01-2013 0-12-03.JPG",
+      "04-01-2013 0-12-04.JPG",
+      "04-01-2013 0-22-44.JPG",
+      "04-01-2013 0-22-45.JPG",
+      "04-01-2013 0-22-47.JPG",
+      "04-01-2013 0-46-14.JPG",
+      "04-01-2013 0-46-15.JPG",
+      "04-01-2013 0-46-17.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "04-01-2013 0-22-44.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 0-22-44.JPG",
+    "burst_images": [
+      "04-01-2013 0-12-01.JPG",
+      "04-01-2013 0-12-03.JPG",
+      "04-01-2013 0-12-04.JPG",
+      "04-01-2013 0-22-44.JPG",
+      "04-01-2013 0-22-45.JPG",
+      "04-01-2013 0-22-47.JPG",
+      "04-01-2013 0-46-14.JPG",
+      "04-01-2013 0-46-15.JPG",
+      "04-01-2013 0-46-17.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1536,
+        2041,
+        349,
+        854
+      ]
+    ]
+  },
+  "04-01-2013 0-22-45.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 0-22-45.JPG",
+    "burst_images": [
+      "04-01-2013 0-12-01.JPG",
+      "04-01-2013 0-12-03.JPG",
+      "04-01-2013 0-12-04.JPG",
+      "04-01-2013 0-22-44.JPG",
+      "04-01-2013 0-22-45.JPG",
+      "04-01-2013 0-22-47.JPG",
+      "04-01-2013 0-46-14.JPG",
+      "04-01-2013 0-46-15.JPG",
+      "04-01-2013 0-46-17.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "04-01-2013 0-22-47.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 0-22-47.JPG",
+    "burst_images": [
+      "04-01-2013 0-12-01.JPG",
+      "04-01-2013 0-12-03.JPG",
+      "04-01-2013 0-12-04.JPG",
+      "04-01-2013 0-22-44.JPG",
+      "04-01-2013 0-22-45.JPG",
+      "04-01-2013 0-22-47.JPG",
+      "04-01-2013 0-46-14.JPG",
+      "04-01-2013 0-46-15.JPG",
+      "04-01-2013 0-46-17.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "04-01-2013 0-46-14.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 0-46-14.JPG",
+    "burst_images": [
+      "04-01-2013 0-12-01.JPG",
+      "04-01-2013 0-12-03.JPG",
+      "04-01-2013 0-12-04.JPG",
+      "04-01-2013 0-22-44.JPG",
+      "04-01-2013 0-22-45.JPG",
+      "04-01-2013 0-22-47.JPG",
+      "04-01-2013 0-46-14.JPG",
+      "04-01-2013 0-46-15.JPG",
+      "04-01-2013 0-46-17.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1416,
+        1700,
+        1151,
+        1435
+      ]
+    ]
+  },
+  "04-01-2013 0-46-15.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 0-46-15.JPG",
+    "burst_images": [
+      "04-01-2013 0-12-01.JPG",
+      "04-01-2013 0-12-03.JPG",
+      "04-01-2013 0-12-04.JPG",
+      "04-01-2013 0-22-44.JPG",
+      "04-01-2013 0-22-45.JPG",
+      "04-01-2013 0-22-47.JPG",
+      "04-01-2013 0-46-14.JPG",
+      "04-01-2013 0-46-15.JPG",
+      "04-01-2013 0-46-17.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "04-01-2013 0-46-17.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 0-46-17.JPG",
+    "burst_images": [
+      "04-01-2013 0-12-01.JPG",
+      "04-01-2013 0-12-03.JPG",
+      "04-01-2013 0-12-04.JPG",
+      "04-01-2013 0-22-44.JPG",
+      "04-01-2013 0-22-45.JPG",
+      "04-01-2013 0-22-47.JPG",
+      "04-01-2013 0-46-14.JPG",
+      "04-01-2013 0-46-15.JPG",
+      "04-01-2013 0-46-17.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "04-01-2013 10-54-33.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 10-54-33.JPG",
+    "burst_images": [
+      "04-01-2013 10-54-33.JPG",
+      "04-01-2013 10-54-36.JPG",
+      "04-01-2013 10-54-38.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "04-01-2013 10-54-36.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 10-54-36.JPG",
+    "burst_images": [
+      "04-01-2013 10-54-33.JPG",
+      "04-01-2013 10-54-36.JPG",
+      "04-01-2013 10-54-38.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "04-01-2013 10-54-38.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 10-54-38.JPG",
+    "burst_images": [
+      "04-01-2013 10-54-33.JPG",
+      "04-01-2013 10-54-36.JPG",
+      "04-01-2013 10-54-38.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "04-01-2013 22-14-50.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 22-14-50.JPG",
+    "burst_images": [
+      "04-01-2013 22-14-50.JPG",
+      "04-01-2013 22-14-51.JPG",
+      "04-01-2013 22-14-52.JPG",
+      "04-01-2013 22-15-12.JPG",
+      "04-01-2013 22-15-13.JPG",
+      "04-01-2013 22-15-15.JPG",
+      "04-01-2013 22-38-28.JPG",
+      "04-01-2013 22-38-30.JPG",
+      "04-01-2013 22-38-31.JPG",
+      "04-01-2013 22-41-01.JPG",
+      "04-01-2013 22-41-03.JPG",
+      "04-01-2013 22-41-04.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        503,
+        814,
+        1124,
+        1435
+      ]
+    ]
+  },
+  "04-01-2013 22-14-51.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 22-14-51.JPG",
+    "burst_images": [
+      "04-01-2013 22-14-50.JPG",
+      "04-01-2013 22-14-51.JPG",
+      "04-01-2013 22-14-52.JPG",
+      "04-01-2013 22-15-12.JPG",
+      "04-01-2013 22-15-13.JPG",
+      "04-01-2013 22-15-15.JPG",
+      "04-01-2013 22-38-28.JPG",
+      "04-01-2013 22-38-30.JPG",
+      "04-01-2013 22-38-31.JPG",
+      "04-01-2013 22-41-01.JPG",
+      "04-01-2013 22-41-03.JPG",
+      "04-01-2013 22-41-04.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        468,
+        817,
+        1086,
+        1435
+      ]
+    ]
+  },
+  "04-01-2013 22-14-52.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 22-14-52.JPG",
+    "burst_images": [
+      "04-01-2013 22-14-50.JPG",
+      "04-01-2013 22-14-51.JPG",
+      "04-01-2013 22-14-52.JPG",
+      "04-01-2013 22-15-12.JPG",
+      "04-01-2013 22-15-13.JPG",
+      "04-01-2013 22-15-15.JPG",
+      "04-01-2013 22-38-28.JPG",
+      "04-01-2013 22-38-30.JPG",
+      "04-01-2013 22-38-31.JPG",
+      "04-01-2013 22-41-01.JPG",
+      "04-01-2013 22-41-03.JPG",
+      "04-01-2013 22-41-04.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1593,
+        2009,
+        729,
+        1145
+      ],
+      [
+        437,
+        791,
+        1081,
+        1435
+      ]
+    ]
+  },
+  "04-01-2013 22-15-12.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 22-15-12.JPG",
+    "burst_images": [
+      "04-01-2013 22-14-50.JPG",
+      "04-01-2013 22-14-51.JPG",
+      "04-01-2013 22-14-52.JPG",
+      "04-01-2013 22-15-12.JPG",
+      "04-01-2013 22-15-13.JPG",
+      "04-01-2013 22-15-15.JPG",
+      "04-01-2013 22-38-28.JPG",
+      "04-01-2013 22-38-30.JPG",
+      "04-01-2013 22-38-31.JPG",
+      "04-01-2013 22-41-01.JPG",
+      "04-01-2013 22-41-03.JPG",
+      "04-01-2013 22-41-04.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1523,
+        2041,
+        666,
+        1184
+      ],
+      [
+        423,
+        702,
+        1156,
+        1435
+      ]
+    ]
+  },
+  "04-01-2013 22-15-13.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 22-15-13.JPG",
+    "burst_images": [
+      "04-01-2013 22-14-50.JPG",
+      "04-01-2013 22-14-51.JPG",
+      "04-01-2013 22-14-52.JPG",
+      "04-01-2013 22-15-12.JPG",
+      "04-01-2013 22-15-13.JPG",
+      "04-01-2013 22-15-15.JPG",
+      "04-01-2013 22-38-28.JPG",
+      "04-01-2013 22-38-30.JPG",
+      "04-01-2013 22-38-31.JPG",
+      "04-01-2013 22-41-01.JPG",
+      "04-01-2013 22-41-03.JPG",
+      "04-01-2013 22-41-04.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1667,
+        2044,
+        723,
+        1100
+      ],
+      [
+        408,
+        711,
+        1132,
+        1435
+      ]
+    ]
+  },
+  "04-01-2013 22-15-15.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 22-15-15.JPG",
+    "burst_images": [
+      "04-01-2013 22-14-50.JPG",
+      "04-01-2013 22-14-51.JPG",
+      "04-01-2013 22-14-52.JPG",
+      "04-01-2013 22-15-12.JPG",
+      "04-01-2013 22-15-13.JPG",
+      "04-01-2013 22-15-15.JPG",
+      "04-01-2013 22-38-28.JPG",
+      "04-01-2013 22-38-30.JPG",
+      "04-01-2013 22-38-31.JPG",
+      "04-01-2013 22-41-01.JPG",
+      "04-01-2013 22-41-03.JPG",
+      "04-01-2013 22-41-04.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1600,
+        2003,
+        742,
+        1145
+      ],
+      [
+        385,
+        734,
+        1086,
+        1435
+      ]
+    ]
+  },
+  "04-01-2013 22-38-28.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 22-38-28.JPG",
+    "burst_images": [
+      "04-01-2013 22-14-50.JPG",
+      "04-01-2013 22-14-51.JPG",
+      "04-01-2013 22-14-52.JPG",
+      "04-01-2013 22-15-12.JPG",
+      "04-01-2013 22-15-13.JPG",
+      "04-01-2013 22-15-15.JPG",
+      "04-01-2013 22-38-28.JPG",
+      "04-01-2013 22-38-30.JPG",
+      "04-01-2013 22-38-31.JPG",
+      "04-01-2013 22-41-01.JPG",
+      "04-01-2013 22-41-03.JPG",
+      "04-01-2013 22-41-04.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1587,
+        1964,
+        787,
+        1164
+      ]
+    ]
+  },
+  "04-01-2013 22-38-30.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 22-38-30.JPG",
+    "burst_images": [
+      "04-01-2013 22-14-50.JPG",
+      "04-01-2013 22-14-51.JPG",
+      "04-01-2013 22-14-52.JPG",
+      "04-01-2013 22-15-12.JPG",
+      "04-01-2013 22-15-13.JPG",
+      "04-01-2013 22-15-15.JPG",
+      "04-01-2013 22-38-28.JPG",
+      "04-01-2013 22-38-30.JPG",
+      "04-01-2013 22-38-31.JPG",
+      "04-01-2013 22-41-01.JPG",
+      "04-01-2013 22-41-03.JPG",
+      "04-01-2013 22-41-04.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "04-01-2013 22-38-31.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 22-38-31.JPG",
+    "burst_images": [
+      "04-01-2013 22-14-50.JPG",
+      "04-01-2013 22-14-51.JPG",
+      "04-01-2013 22-14-52.JPG",
+      "04-01-2013 22-15-12.JPG",
+      "04-01-2013 22-15-13.JPG",
+      "04-01-2013 22-15-15.JPG",
+      "04-01-2013 22-38-28.JPG",
+      "04-01-2013 22-38-30.JPG",
+      "04-01-2013 22-38-31.JPG",
+      "04-01-2013 22-41-01.JPG",
+      "04-01-2013 22-41-03.JPG",
+      "04-01-2013 22-41-04.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "04-01-2013 22-41-01.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 22-41-01.JPG",
+    "burst_images": [
+      "04-01-2013 22-14-50.JPG",
+      "04-01-2013 22-14-51.JPG",
+      "04-01-2013 22-14-52.JPG",
+      "04-01-2013 22-15-12.JPG",
+      "04-01-2013 22-15-13.JPG",
+      "04-01-2013 22-15-15.JPG",
+      "04-01-2013 22-38-28.JPG",
+      "04-01-2013 22-38-30.JPG",
+      "04-01-2013 22-38-31.JPG",
+      "04-01-2013 22-41-01.JPG",
+      "04-01-2013 22-41-03.JPG",
+      "04-01-2013 22-41-04.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1530,
+        2047,
+        688,
+        1205
+      ]
+    ]
+  },
+  "04-01-2013 22-41-03.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 22-41-03.JPG",
+    "burst_images": [
+      "04-01-2013 22-14-50.JPG",
+      "04-01-2013 22-14-51.JPG",
+      "04-01-2013 22-14-52.JPG",
+      "04-01-2013 22-15-12.JPG",
+      "04-01-2013 22-15-13.JPG",
+      "04-01-2013 22-15-15.JPG",
+      "04-01-2013 22-38-28.JPG",
+      "04-01-2013 22-38-30.JPG",
+      "04-01-2013 22-38-31.JPG",
+      "04-01-2013 22-41-01.JPG",
+      "04-01-2013 22-41-03.JPG",
+      "04-01-2013 22-41-04.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1593,
+        1965,
+        812,
+        1184
+      ]
+    ]
+  },
+  "04-01-2013 22-41-04.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 22-41-04.JPG",
+    "burst_images": [
+      "04-01-2013 22-14-50.JPG",
+      "04-01-2013 22-14-51.JPG",
+      "04-01-2013 22-14-52.JPG",
+      "04-01-2013 22-15-12.JPG",
+      "04-01-2013 22-15-13.JPG",
+      "04-01-2013 22-15-15.JPG",
+      "04-01-2013 22-38-28.JPG",
+      "04-01-2013 22-38-30.JPG",
+      "04-01-2013 22-38-31.JPG",
+      "04-01-2013 22-41-01.JPG",
+      "04-01-2013 22-41-03.JPG",
+      "04-01-2013 22-41-04.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1587,
+        1964,
+        803,
+        1180
+      ]
+    ]
+  },
+  "04-01-2013 4-40-26.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 4-40-26.JPG",
+    "burst_images": [
+      "04-01-2013 4-40-26.JPG",
+      "04-01-2013 4-40-28.JPG",
+      "04-01-2013 4-40-29.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "04-01-2013 4-40-28.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 4-40-28.JPG",
+    "burst_images": [
+      "04-01-2013 4-40-26.JPG",
+      "04-01-2013 4-40-28.JPG",
+      "04-01-2013 4-40-29.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1533,
+        1961,
+        608,
+        1036
+      ]
+    ]
+  },
+  "04-01-2013 4-40-29.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 4-40-29.JPG",
+    "burst_images": [
+      "04-01-2013 4-40-26.JPG",
+      "04-01-2013 4-40-28.JPG",
+      "04-01-2013 4-40-29.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "04-01-2013 6-16-22.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 6-16-22.JPG",
+    "burst_images": [
+      "04-01-2013 6-16-22.JPG",
+      "04-01-2013 6-16-24.JPG",
+      "04-01-2013 6-16-26.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "04-01-2013 6-16-24.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 6-16-24.JPG",
+    "burst_images": [
+      "04-01-2013 6-16-22.JPG",
+      "04-01-2013 6-16-24.JPG",
+      "04-01-2013 6-16-26.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "04-01-2013 6-16-26.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-01-2013 6-16-26.JPG",
+    "burst_images": [
+      "04-01-2013 6-16-22.JPG",
+      "04-01-2013 6-16-24.JPG",
+      "04-01-2013 6-16-26.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1222,
+        1612,
+        915,
+        1305
+      ],
+      [
+        907,
+        1102,
+        1240,
+        1435
+      ]
+    ]
+  },
+  "04-02-2013 20-42-29.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-02-2013 20-42-29.JPG",
+    "burst_images": [
+      "04-02-2013 20-42-29.JPG",
+      "04-02-2013 20-42-30.JPG",
+      "04-02-2013 20-42-31.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1078,
+        1507,
+        748,
+        1177
+      ]
+    ]
+  },
+  "04-02-2013 20-42-30.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-02-2013 20-42-30.JPG",
+    "burst_images": [
+      "04-02-2013 20-42-29.JPG",
+      "04-02-2013 20-42-30.JPG",
+      "04-02-2013 20-42-31.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        944,
+        1386,
+        838,
+        1280
+      ]
+    ]
+  },
+  "04-02-2013 20-42-31.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-02-2013 20-42-31.JPG",
+    "burst_images": [
+      "04-02-2013 20-42-29.JPG",
+      "04-02-2013 20-42-30.JPG",
+      "04-02-2013 20-42-31.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "04-02-2013 4-01-20.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-02-2013 4-01-20.JPG",
+    "burst_images": [
+      "04-02-2013 4-01-20.JPG",
+      "04-02-2013 4-01-21.JPG",
+      "04-02-2013 4-01-23.JPG",
+      "04-02-2013 4-03-57.JPG",
+      "04-02-2013 4-03-59.JPG",
+      "04-02-2013 4-04-00.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        568,
+        1006,
+        997,
+        1435
+      ]
+    ]
+  },
+  "04-02-2013 4-01-21.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-02-2013 4-01-21.JPG",
+    "burst_images": [
+      "04-02-2013 4-01-20.JPG",
+      "04-02-2013 4-01-21.JPG",
+      "04-02-2013 4-01-23.JPG",
+      "04-02-2013 4-03-57.JPG",
+      "04-02-2013 4-03-59.JPG",
+      "04-02-2013 4-04-00.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "04-02-2013 4-01-23.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-02-2013 4-01-23.JPG",
+    "burst_images": [
+      "04-02-2013 4-01-20.JPG",
+      "04-02-2013 4-01-21.JPG",
+      "04-02-2013 4-01-23.JPG",
+      "04-02-2013 4-03-57.JPG",
+      "04-02-2013 4-03-59.JPG",
+      "04-02-2013 4-04-00.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "04-02-2013 4-03-57.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-02-2013 4-03-57.JPG",
+    "burst_images": [
+      "04-02-2013 4-01-20.JPG",
+      "04-02-2013 4-01-21.JPG",
+      "04-02-2013 4-01-23.JPG",
+      "04-02-2013 4-03-57.JPG",
+      "04-02-2013 4-03-59.JPG",
+      "04-02-2013 4-04-00.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        640,
+        1011,
+        1024,
+        1395
+      ]
+    ]
+  },
+  "04-02-2013 4-03-59.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-02-2013 4-03-59.JPG",
+    "burst_images": [
+      "04-02-2013 4-01-20.JPG",
+      "04-02-2013 4-01-21.JPG",
+      "04-02-2013 4-01-23.JPG",
+      "04-02-2013 4-03-57.JPG",
+      "04-02-2013 4-03-59.JPG",
+      "04-02-2013 4-04-00.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "04-02-2013 4-04-00.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-02-2013 4-04-00.JPG",
+    "burst_images": [
+      "04-02-2013 4-01-20.JPG",
+      "04-02-2013 4-01-21.JPG",
+      "04-02-2013 4-01-23.JPG",
+      "04-02-2013 4-03-57.JPG",
+      "04-02-2013 4-03-59.JPG",
+      "04-02-2013 4-04-00.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1248,
+        1632,
+        864,
+        1248
+      ]
+    ]
+  },
+  "04-12-2012 21-48-51.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-12-2012 21-48-51.JPG",
+    "burst_images": [
+      "04-12-2012 21-48-51.JPG",
+      "04-12-2012 21-48-53.JPG",
+      "04-12-2012 21-48-54.JPG",
+      "04-12-2012 21-49-35.JPG",
+      "04-12-2012 21-49-36.JPG",
+      "04-12-2012 21-49-38.JPG",
+      "04-12-2012 22-13-22.JPG",
+      "04-12-2012 22-13-23.JPG",
+      "04-12-2012 22-13-25.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1457,
+        1729,
+        1163,
+        1435
+      ]
+    ]
+  },
+  "04-12-2012 21-48-53.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-12-2012 21-48-53.JPG",
+    "burst_images": [
+      "04-12-2012 21-48-51.JPG",
+      "04-12-2012 21-48-53.JPG",
+      "04-12-2012 21-48-54.JPG",
+      "04-12-2012 21-49-35.JPG",
+      "04-12-2012 21-49-36.JPG",
+      "04-12-2012 21-49-38.JPG",
+      "04-12-2012 22-13-22.JPG",
+      "04-12-2012 22-13-23.JPG",
+      "04-12-2012 22-13-25.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1422,
+        1752,
+        1105,
+        1435
+      ]
+    ]
+  },
+  "04-12-2012 21-48-54.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-12-2012 21-48-54.JPG",
+    "burst_images": [
+      "04-12-2012 21-48-51.JPG",
+      "04-12-2012 21-48-53.JPG",
+      "04-12-2012 21-48-54.JPG",
+      "04-12-2012 21-49-35.JPG",
+      "04-12-2012 21-49-36.JPG",
+      "04-12-2012 21-49-38.JPG",
+      "04-12-2012 22-13-22.JPG",
+      "04-12-2012 22-13-23.JPG",
+      "04-12-2012 22-13-25.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1441,
+        1784,
+        1092,
+        1435
+      ]
+    ]
+  },
+  "04-12-2012 21-49-35.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-12-2012 21-49-35.JPG",
+    "burst_images": [
+      "04-12-2012 21-48-51.JPG",
+      "04-12-2012 21-48-53.JPG",
+      "04-12-2012 21-48-54.JPG",
+      "04-12-2012 21-49-35.JPG",
+      "04-12-2012 21-49-36.JPG",
+      "04-12-2012 21-49-38.JPG",
+      "04-12-2012 22-13-22.JPG",
+      "04-12-2012 22-13-23.JPG",
+      "04-12-2012 22-13-25.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1227,
+        1518,
+        1144,
+        1435
+      ]
+    ]
+  },
+  "04-12-2012 21-49-36.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-12-2012 21-49-36.JPG",
+    "burst_images": [
+      "04-12-2012 21-48-51.JPG",
+      "04-12-2012 21-48-53.JPG",
+      "04-12-2012 21-48-54.JPG",
+      "04-12-2012 21-49-35.JPG",
+      "04-12-2012 21-49-36.JPG",
+      "04-12-2012 21-49-38.JPG",
+      "04-12-2012 22-13-22.JPG",
+      "04-12-2012 22-13-23.JPG",
+      "04-12-2012 22-13-25.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1169,
+        1377,
+        1227,
+        1435
+      ]
+    ]
+  },
+  "04-12-2012 21-49-38.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-12-2012 21-49-38.JPG",
+    "burst_images": [
+      "04-12-2012 21-48-51.JPG",
+      "04-12-2012 21-48-53.JPG",
+      "04-12-2012 21-48-54.JPG",
+      "04-12-2012 21-49-35.JPG",
+      "04-12-2012 21-49-36.JPG",
+      "04-12-2012 21-49-38.JPG",
+      "04-12-2012 22-13-22.JPG",
+      "04-12-2012 22-13-23.JPG",
+      "04-12-2012 22-13-25.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1192,
+        1399,
+        1228,
+        1435
+      ]
+    ]
+  },
+  "04-12-2012 22-13-22.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-12-2012 22-13-22.JPG",
+    "burst_images": [
+      "04-12-2012 21-48-51.JPG",
+      "04-12-2012 21-48-53.JPG",
+      "04-12-2012 21-48-54.JPG",
+      "04-12-2012 21-49-35.JPG",
+      "04-12-2012 21-49-36.JPG",
+      "04-12-2012 21-49-38.JPG",
+      "04-12-2012 22-13-22.JPG",
+      "04-12-2012 22-13-23.JPG",
+      "04-12-2012 22-13-25.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1741,
+        2047,
+        797,
+        1103
+      ]
+    ]
+  },
+  "04-12-2012 22-13-23.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-12-2012 22-13-23.JPG",
+    "burst_images": [
+      "04-12-2012 21-48-51.JPG",
+      "04-12-2012 21-48-53.JPG",
+      "04-12-2012 21-48-54.JPG",
+      "04-12-2012 21-49-35.JPG",
+      "04-12-2012 21-49-36.JPG",
+      "04-12-2012 21-49-38.JPG",
+      "04-12-2012 22-13-22.JPG",
+      "04-12-2012 22-13-23.JPG",
+      "04-12-2012 22-13-25.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1754,
+        2047,
+        800,
+        1093
+      ]
+    ]
+  },
+  "04-12-2012 22-13-25.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-12-2012 22-13-25.JPG",
+    "burst_images": [
+      "04-12-2012 21-48-51.JPG",
+      "04-12-2012 21-48-53.JPG",
+      "04-12-2012 21-48-54.JPG",
+      "04-12-2012 21-49-35.JPG",
+      "04-12-2012 21-49-36.JPG",
+      "04-12-2012 21-49-38.JPG",
+      "04-12-2012 22-13-22.JPG",
+      "04-12-2012 22-13-23.JPG",
+      "04-12-2012 22-13-25.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1755,
+        2047,
+        804,
+        1096
+      ]
+    ]
+  },
+  "04-12-2012 4-13-47.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-12-2012 4-13-47.JPG",
+    "burst_images": [
+      "04-12-2012 4-13-47.JPG",
+      "04-12-2012 4-13-48.JPG",
+      "04-12-2012 4-13-50.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1459,
+        2041,
+        429,
+        1011
+      ]
+    ]
+  },
+  "04-12-2012 4-13-48.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-12-2012 4-13-48.JPG",
+    "burst_images": [
+      "04-12-2012 4-13-47.JPG",
+      "04-12-2012 4-13-48.JPG",
+      "04-12-2012 4-13-50.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "04-12-2012 4-13-50.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-12-2012 4-13-50.JPG",
+    "burst_images": [
+      "04-12-2012 4-13-47.JPG",
+      "04-12-2012 4-13-48.JPG",
+      "04-12-2012 4-13-50.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "04-12-2012 5-56-08.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-12-2012 5-56-08.JPG",
+    "burst_images": [
+      "04-12-2012 5-56-08.JPG",
+      "04-12-2012 5-56-10.JPG",
+      "04-12-2012 5-56-12.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "04-12-2012 5-56-10.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-12-2012 5-56-10.JPG",
+    "burst_images": [
+      "04-12-2012 5-56-08.JPG",
+      "04-12-2012 5-56-10.JPG",
+      "04-12-2012 5-56-12.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "04-12-2012 5-56-12.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\04-12-2012 5-56-12.JPG",
+    "burst_images": [
+      "04-12-2012 5-56-08.JPG",
+      "04-12-2012 5-56-10.JPG",
+      "04-12-2012 5-56-12.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        968,
+        1361,
+        1042,
+        1435
+      ]
+    ]
+  },
+  "05-01-2013 0-58-27.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 0-58-27.JPG",
+    "burst_images": [
+      "05-01-2013 0-58-27.JPG",
+      "05-01-2013 0-58-29.JPG",
+      "05-01-2013 0-58-30.JPG",
+      "05-01-2013 1-35-39.JPG",
+      "05-01-2013 1-35-41.JPG",
+      "05-01-2013 1-35-42.JPG",
+      "05-01-2013 1-55-45.JPG",
+      "05-01-2013 1-55-46.JPG",
+      "05-01-2013 1-55-48.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 0-58-29.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 0-58-29.JPG",
+    "burst_images": [
+      "05-01-2013 0-58-27.JPG",
+      "05-01-2013 0-58-29.JPG",
+      "05-01-2013 0-58-30.JPG",
+      "05-01-2013 1-35-39.JPG",
+      "05-01-2013 1-35-41.JPG",
+      "05-01-2013 1-35-42.JPG",
+      "05-01-2013 1-55-45.JPG",
+      "05-01-2013 1-55-46.JPG",
+      "05-01-2013 1-55-48.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 0-58-30.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 0-58-30.JPG",
+    "burst_images": [
+      "05-01-2013 0-58-27.JPG",
+      "05-01-2013 0-58-29.JPG",
+      "05-01-2013 0-58-30.JPG",
+      "05-01-2013 1-35-39.JPG",
+      "05-01-2013 1-35-41.JPG",
+      "05-01-2013 1-35-42.JPG",
+      "05-01-2013 1-55-45.JPG",
+      "05-01-2013 1-55-46.JPG",
+      "05-01-2013 1-55-48.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 1-35-39.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 1-35-39.JPG",
+    "burst_images": [
+      "05-01-2013 0-58-27.JPG",
+      "05-01-2013 0-58-29.JPG",
+      "05-01-2013 0-58-30.JPG",
+      "05-01-2013 1-35-39.JPG",
+      "05-01-2013 1-35-41.JPG",
+      "05-01-2013 1-35-42.JPG",
+      "05-01-2013 1-55-45.JPG",
+      "05-01-2013 1-55-46.JPG",
+      "05-01-2013 1-55-48.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 1-35-41.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 1-35-41.JPG",
+    "burst_images": [
+      "05-01-2013 0-58-27.JPG",
+      "05-01-2013 0-58-29.JPG",
+      "05-01-2013 0-58-30.JPG",
+      "05-01-2013 1-35-39.JPG",
+      "05-01-2013 1-35-41.JPG",
+      "05-01-2013 1-35-42.JPG",
+      "05-01-2013 1-55-45.JPG",
+      "05-01-2013 1-55-46.JPG",
+      "05-01-2013 1-55-48.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 1-35-42.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 1-35-42.JPG",
+    "burst_images": [
+      "05-01-2013 0-58-27.JPG",
+      "05-01-2013 0-58-29.JPG",
+      "05-01-2013 0-58-30.JPG",
+      "05-01-2013 1-35-39.JPG",
+      "05-01-2013 1-35-41.JPG",
+      "05-01-2013 1-35-42.JPG",
+      "05-01-2013 1-55-45.JPG",
+      "05-01-2013 1-55-46.JPG",
+      "05-01-2013 1-55-48.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 1-55-45.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 1-55-45.JPG",
+    "burst_images": [
+      "05-01-2013 0-58-27.JPG",
+      "05-01-2013 0-58-29.JPG",
+      "05-01-2013 0-58-30.JPG",
+      "05-01-2013 1-35-39.JPG",
+      "05-01-2013 1-35-41.JPG",
+      "05-01-2013 1-35-42.JPG",
+      "05-01-2013 1-55-45.JPG",
+      "05-01-2013 1-55-46.JPG",
+      "05-01-2013 1-55-48.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        902,
+        1344,
+        985,
+        1427
+      ]
+    ]
+  },
+  "05-01-2013 1-55-46.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 1-55-46.JPG",
+    "burst_images": [
+      "05-01-2013 0-58-27.JPG",
+      "05-01-2013 0-58-29.JPG",
+      "05-01-2013 0-58-30.JPG",
+      "05-01-2013 1-35-39.JPG",
+      "05-01-2013 1-35-41.JPG",
+      "05-01-2013 1-35-42.JPG",
+      "05-01-2013 1-55-45.JPG",
+      "05-01-2013 1-55-46.JPG",
+      "05-01-2013 1-55-48.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        782,
+        1233,
+        984,
+        1435
+      ]
+    ]
+  },
+  "05-01-2013 1-55-48.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 1-55-48.JPG",
+    "burst_images": [
+      "05-01-2013 0-58-27.JPG",
+      "05-01-2013 0-58-29.JPG",
+      "05-01-2013 0-58-30.JPG",
+      "05-01-2013 1-35-39.JPG",
+      "05-01-2013 1-35-41.JPG",
+      "05-01-2013 1-35-42.JPG",
+      "05-01-2013 1-55-45.JPG",
+      "05-01-2013 1-55-46.JPG",
+      "05-01-2013 1-55-48.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        779,
+        1230,
+        984,
+        1435
+      ]
+    ]
+  },
+  "05-01-2013 1-58-57.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 1-58-57.JPG",
+    "burst_images": [
+      "05-01-2013 1-58-57.JPG",
+      "05-01-2013 1-58-58.JPG",
+      "05-01-2013 1-58-59.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        710,
+        1113,
+        896,
+        1299
+      ]
+    ]
+  },
+  "05-01-2013 1-58-58.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 1-58-58.JPG",
+    "burst_images": [
+      "05-01-2013 1-58-57.JPG",
+      "05-01-2013 1-58-58.JPG",
+      "05-01-2013 1-58-59.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 1-58-59.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 1-58-59.JPG",
+    "burst_images": [
+      "05-01-2013 1-58-57.JPG",
+      "05-01-2013 1-58-58.JPG",
+      "05-01-2013 1-58-59.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 19-44-02.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 19-44-02.JPG",
+    "burst_images": [
+      "05-01-2013 19-44-02.JPG",
+      "05-01-2013 19-44-04.JPG",
+      "05-01-2013 19-44-05.JPG",
+      "05-01-2013 19-53-24.JPG",
+      "05-01-2013 19-53-26.JPG",
+      "05-01-2013 19-53-28.JPG",
+      "05-01-2013 19-53-32.JPG",
+      "05-01-2013 19-53-34.JPG",
+      "05-01-2013 19-53-35.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 19-44-04.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 19-44-04.JPG",
+    "burst_images": [
+      "05-01-2013 19-44-02.JPG",
+      "05-01-2013 19-44-04.JPG",
+      "05-01-2013 19-44-05.JPG",
+      "05-01-2013 19-53-24.JPG",
+      "05-01-2013 19-53-26.JPG",
+      "05-01-2013 19-53-28.JPG",
+      "05-01-2013 19-53-32.JPG",
+      "05-01-2013 19-53-34.JPG",
+      "05-01-2013 19-53-35.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 19-44-05.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 19-44-05.JPG",
+    "burst_images": [
+      "05-01-2013 19-44-02.JPG",
+      "05-01-2013 19-44-04.JPG",
+      "05-01-2013 19-44-05.JPG",
+      "05-01-2013 19-53-24.JPG",
+      "05-01-2013 19-53-26.JPG",
+      "05-01-2013 19-53-28.JPG",
+      "05-01-2013 19-53-32.JPG",
+      "05-01-2013 19-53-34.JPG",
+      "05-01-2013 19-53-35.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 19-53-24.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 19-53-24.JPG",
+    "burst_images": [
+      "05-01-2013 19-44-02.JPG",
+      "05-01-2013 19-44-04.JPG",
+      "05-01-2013 19-44-05.JPG",
+      "05-01-2013 19-53-24.JPG",
+      "05-01-2013 19-53-26.JPG",
+      "05-01-2013 19-53-28.JPG",
+      "05-01-2013 19-53-32.JPG",
+      "05-01-2013 19-53-34.JPG",
+      "05-01-2013 19-53-35.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 19-53-26.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 19-53-26.JPG",
+    "burst_images": [
+      "05-01-2013 19-44-02.JPG",
+      "05-01-2013 19-44-04.JPG",
+      "05-01-2013 19-44-05.JPG",
+      "05-01-2013 19-53-24.JPG",
+      "05-01-2013 19-53-26.JPG",
+      "05-01-2013 19-53-28.JPG",
+      "05-01-2013 19-53-32.JPG",
+      "05-01-2013 19-53-34.JPG",
+      "05-01-2013 19-53-35.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 19-53-28.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 19-53-28.JPG",
+    "burst_images": [
+      "05-01-2013 19-44-02.JPG",
+      "05-01-2013 19-44-04.JPG",
+      "05-01-2013 19-44-05.JPG",
+      "05-01-2013 19-53-24.JPG",
+      "05-01-2013 19-53-26.JPG",
+      "05-01-2013 19-53-28.JPG",
+      "05-01-2013 19-53-32.JPG",
+      "05-01-2013 19-53-34.JPG",
+      "05-01-2013 19-53-35.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 19-53-32.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 19-53-32.JPG",
+    "burst_images": [
+      "05-01-2013 19-44-02.JPG",
+      "05-01-2013 19-44-04.JPG",
+      "05-01-2013 19-44-05.JPG",
+      "05-01-2013 19-53-24.JPG",
+      "05-01-2013 19-53-26.JPG",
+      "05-01-2013 19-53-28.JPG",
+      "05-01-2013 19-53-32.JPG",
+      "05-01-2013 19-53-34.JPG",
+      "05-01-2013 19-53-35.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 19-53-34.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 19-53-34.JPG",
+    "burst_images": [
+      "05-01-2013 19-44-02.JPG",
+      "05-01-2013 19-44-04.JPG",
+      "05-01-2013 19-44-05.JPG",
+      "05-01-2013 19-53-24.JPG",
+      "05-01-2013 19-53-26.JPG",
+      "05-01-2013 19-53-28.JPG",
+      "05-01-2013 19-53-32.JPG",
+      "05-01-2013 19-53-34.JPG",
+      "05-01-2013 19-53-35.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 19-53-35.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 19-53-35.JPG",
+    "burst_images": [
+      "05-01-2013 19-44-02.JPG",
+      "05-01-2013 19-44-04.JPG",
+      "05-01-2013 19-44-05.JPG",
+      "05-01-2013 19-53-24.JPG",
+      "05-01-2013 19-53-26.JPG",
+      "05-01-2013 19-53-28.JPG",
+      "05-01-2013 19-53-32.JPG",
+      "05-01-2013 19-53-34.JPG",
+      "05-01-2013 19-53-35.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 2-01-40.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 2-01-40.JPG",
+    "burst_images": [
+      "05-01-2013 2-01-40.JPG",
+      "05-01-2013 2-01-41.JPG",
+      "05-01-2013 2-01-43.JPG",
+      "05-01-2013 2-14-09.JPG",
+      "05-01-2013 2-14-11.JPG",
+      "05-01-2013 2-14-12.JPG",
+      "05-01-2013 2-31-30.JPG",
+      "05-01-2013 2-31-31.JPG",
+      "05-01-2013 2-31-33.JPG",
+      "05-01-2013 2-44-31.JPG",
+      "05-01-2013 2-44-32.JPG",
+      "05-01-2013 2-44-33.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 2-01-41.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 2-01-41.JPG",
+    "burst_images": [
+      "05-01-2013 2-01-40.JPG",
+      "05-01-2013 2-01-41.JPG",
+      "05-01-2013 2-01-43.JPG",
+      "05-01-2013 2-14-09.JPG",
+      "05-01-2013 2-14-11.JPG",
+      "05-01-2013 2-14-12.JPG",
+      "05-01-2013 2-31-30.JPG",
+      "05-01-2013 2-31-31.JPG",
+      "05-01-2013 2-31-33.JPG",
+      "05-01-2013 2-44-31.JPG",
+      "05-01-2013 2-44-32.JPG",
+      "05-01-2013 2-44-33.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 2-01-43.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 2-01-43.JPG",
+    "burst_images": [
+      "05-01-2013 2-01-40.JPG",
+      "05-01-2013 2-01-41.JPG",
+      "05-01-2013 2-01-43.JPG",
+      "05-01-2013 2-14-09.JPG",
+      "05-01-2013 2-14-11.JPG",
+      "05-01-2013 2-14-12.JPG",
+      "05-01-2013 2-31-30.JPG",
+      "05-01-2013 2-31-31.JPG",
+      "05-01-2013 2-31-33.JPG",
+      "05-01-2013 2-44-31.JPG",
+      "05-01-2013 2-44-32.JPG",
+      "05-01-2013 2-44-33.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 2-14-09.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 2-14-09.JPG",
+    "burst_images": [
+      "05-01-2013 2-01-40.JPG",
+      "05-01-2013 2-01-41.JPG",
+      "05-01-2013 2-01-43.JPG",
+      "05-01-2013 2-14-09.JPG",
+      "05-01-2013 2-14-11.JPG",
+      "05-01-2013 2-14-12.JPG",
+      "05-01-2013 2-31-30.JPG",
+      "05-01-2013 2-31-31.JPG",
+      "05-01-2013 2-31-33.JPG",
+      "05-01-2013 2-44-31.JPG",
+      "05-01-2013 2-44-32.JPG",
+      "05-01-2013 2-44-33.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        945,
+        1256,
+        1124,
+        1435
+      ]
+    ]
+  },
+  "05-01-2013 2-14-11.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 2-14-11.JPG",
+    "burst_images": [
+      "05-01-2013 2-01-40.JPG",
+      "05-01-2013 2-01-41.JPG",
+      "05-01-2013 2-01-43.JPG",
+      "05-01-2013 2-14-09.JPG",
+      "05-01-2013 2-14-11.JPG",
+      "05-01-2013 2-14-12.JPG",
+      "05-01-2013 2-31-30.JPG",
+      "05-01-2013 2-31-31.JPG",
+      "05-01-2013 2-31-33.JPG",
+      "05-01-2013 2-44-31.JPG",
+      "05-01-2013 2-44-32.JPG",
+      "05-01-2013 2-44-33.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 2-14-12.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 2-14-12.JPG",
+    "burst_images": [
+      "05-01-2013 2-01-40.JPG",
+      "05-01-2013 2-01-41.JPG",
+      "05-01-2013 2-01-43.JPG",
+      "05-01-2013 2-14-09.JPG",
+      "05-01-2013 2-14-11.JPG",
+      "05-01-2013 2-14-12.JPG",
+      "05-01-2013 2-31-30.JPG",
+      "05-01-2013 2-31-31.JPG",
+      "05-01-2013 2-31-33.JPG",
+      "05-01-2013 2-44-31.JPG",
+      "05-01-2013 2-44-32.JPG",
+      "05-01-2013 2-44-33.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 2-31-30.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 2-31-30.JPG",
+    "burst_images": [
+      "05-01-2013 2-01-40.JPG",
+      "05-01-2013 2-01-41.JPG",
+      "05-01-2013 2-01-43.JPG",
+      "05-01-2013 2-14-09.JPG",
+      "05-01-2013 2-14-11.JPG",
+      "05-01-2013 2-14-12.JPG",
+      "05-01-2013 2-31-30.JPG",
+      "05-01-2013 2-31-31.JPG",
+      "05-01-2013 2-31-33.JPG",
+      "05-01-2013 2-44-31.JPG",
+      "05-01-2013 2-44-32.JPG",
+      "05-01-2013 2-44-33.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        698,
+        1351,
+        428,
+        1081
+      ]
+    ]
+  },
+  "05-01-2013 2-31-31.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 2-31-31.JPG",
+    "burst_images": [
+      "05-01-2013 2-01-40.JPG",
+      "05-01-2013 2-01-41.JPG",
+      "05-01-2013 2-01-43.JPG",
+      "05-01-2013 2-14-09.JPG",
+      "05-01-2013 2-14-11.JPG",
+      "05-01-2013 2-14-12.JPG",
+      "05-01-2013 2-31-30.JPG",
+      "05-01-2013 2-31-31.JPG",
+      "05-01-2013 2-31-33.JPG",
+      "05-01-2013 2-44-31.JPG",
+      "05-01-2013 2-44-32.JPG",
+      "05-01-2013 2-44-33.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 2-31-33.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 2-31-33.JPG",
+    "burst_images": [
+      "05-01-2013 2-01-40.JPG",
+      "05-01-2013 2-01-41.JPG",
+      "05-01-2013 2-01-43.JPG",
+      "05-01-2013 2-14-09.JPG",
+      "05-01-2013 2-14-11.JPG",
+      "05-01-2013 2-14-12.JPG",
+      "05-01-2013 2-31-30.JPG",
+      "05-01-2013 2-31-31.JPG",
+      "05-01-2013 2-31-33.JPG",
+      "05-01-2013 2-44-31.JPG",
+      "05-01-2013 2-44-32.JPG",
+      "05-01-2013 2-44-33.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        825,
+        1228,
+        838,
+        1241
+      ]
+    ]
+  },
+  "05-01-2013 2-44-31.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 2-44-31.JPG",
+    "burst_images": [
+      "05-01-2013 2-01-40.JPG",
+      "05-01-2013 2-01-41.JPG",
+      "05-01-2013 2-01-43.JPG",
+      "05-01-2013 2-14-09.JPG",
+      "05-01-2013 2-14-11.JPG",
+      "05-01-2013 2-14-12.JPG",
+      "05-01-2013 2-31-30.JPG",
+      "05-01-2013 2-31-31.JPG",
+      "05-01-2013 2-31-33.JPG",
+      "05-01-2013 2-44-31.JPG",
+      "05-01-2013 2-44-32.JPG",
+      "05-01-2013 2-44-33.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1065,
+        1558,
+        460,
+        953
+      ]
+    ]
+  },
+  "05-01-2013 2-44-32.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 2-44-32.JPG",
+    "burst_images": [
+      "05-01-2013 2-01-40.JPG",
+      "05-01-2013 2-01-41.JPG",
+      "05-01-2013 2-01-43.JPG",
+      "05-01-2013 2-14-09.JPG",
+      "05-01-2013 2-14-11.JPG",
+      "05-01-2013 2-14-12.JPG",
+      "05-01-2013 2-31-30.JPG",
+      "05-01-2013 2-31-31.JPG",
+      "05-01-2013 2-31-33.JPG",
+      "05-01-2013 2-44-31.JPG",
+      "05-01-2013 2-44-32.JPG",
+      "05-01-2013 2-44-33.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 2-44-33.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 2-44-33.JPG",
+    "burst_images": [
+      "05-01-2013 2-01-40.JPG",
+      "05-01-2013 2-01-41.JPG",
+      "05-01-2013 2-01-43.JPG",
+      "05-01-2013 2-14-09.JPG",
+      "05-01-2013 2-14-11.JPG",
+      "05-01-2013 2-14-12.JPG",
+      "05-01-2013 2-31-30.JPG",
+      "05-01-2013 2-31-31.JPG",
+      "05-01-2013 2-31-33.JPG",
+      "05-01-2013 2-44-31.JPG",
+      "05-01-2013 2-44-32.JPG",
+      "05-01-2013 2-44-33.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 3-07-04.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 3-07-04.JPG",
+    "burst_images": [
+      "05-01-2013 3-07-04.JPG",
+      "05-01-2013 3-07-05.JPG",
+      "05-01-2013 3-07-06.JPG",
+      "05-01-2013 3-31-43.JPG",
+      "05-01-2013 3-31-45.JPG",
+      "05-01-2013 3-31-46.JPG",
+      "05-01-2013 3-36-36.JPG",
+      "05-01-2013 3-36-37.JPG",
+      "05-01-2013 3-36-39.JPG",
+      "05-01-2013 3-42-58.JPG",
+      "05-01-2013 3-42-59.JPG",
+      "05-01-2013 3-43-01.JPG",
+      "05-01-2013 3-45-58.JPG",
+      "05-01-2013 3-46-00.JPG",
+      "05-01-2013 3-46-01.JPG",
+      "05-01-2013 4-02-51.JPG",
+      "05-01-2013 4-02-53.JPG",
+      "05-01-2013 4-02-54.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        686,
+        1150,
+        971,
+        1435
+      ]
+    ]
+  },
+  "05-01-2013 3-07-05.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 3-07-05.JPG",
+    "burst_images": [
+      "05-01-2013 3-07-04.JPG",
+      "05-01-2013 3-07-05.JPG",
+      "05-01-2013 3-07-06.JPG",
+      "05-01-2013 3-31-43.JPG",
+      "05-01-2013 3-31-45.JPG",
+      "05-01-2013 3-31-46.JPG",
+      "05-01-2013 3-36-36.JPG",
+      "05-01-2013 3-36-37.JPG",
+      "05-01-2013 3-36-39.JPG",
+      "05-01-2013 3-42-58.JPG",
+      "05-01-2013 3-42-59.JPG",
+      "05-01-2013 3-43-01.JPG",
+      "05-01-2013 3-45-58.JPG",
+      "05-01-2013 3-46-00.JPG",
+      "05-01-2013 3-46-01.JPG",
+      "05-01-2013 4-02-51.JPG",
+      "05-01-2013 4-02-53.JPG",
+      "05-01-2013 4-02-54.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        475,
+        964,
+        946,
+        1435
+      ]
+    ]
+  },
+  "05-01-2013 3-07-06.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 3-07-06.JPG",
+    "burst_images": [
+      "05-01-2013 3-07-04.JPG",
+      "05-01-2013 3-07-05.JPG",
+      "05-01-2013 3-07-06.JPG",
+      "05-01-2013 3-31-43.JPG",
+      "05-01-2013 3-31-45.JPG",
+      "05-01-2013 3-31-46.JPG",
+      "05-01-2013 3-36-36.JPG",
+      "05-01-2013 3-36-37.JPG",
+      "05-01-2013 3-36-39.JPG",
+      "05-01-2013 3-42-58.JPG",
+      "05-01-2013 3-42-59.JPG",
+      "05-01-2013 3-43-01.JPG",
+      "05-01-2013 3-45-58.JPG",
+      "05-01-2013 3-46-00.JPG",
+      "05-01-2013 3-46-01.JPG",
+      "05-01-2013 4-02-51.JPG",
+      "05-01-2013 4-02-53.JPG",
+      "05-01-2013 4-02-54.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        363,
+        871,
+        927,
+        1435
+      ]
+    ]
+  },
+  "05-01-2013 3-31-43.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 3-31-43.JPG",
+    "burst_images": [
+      "05-01-2013 3-07-04.JPG",
+      "05-01-2013 3-07-05.JPG",
+      "05-01-2013 3-07-06.JPG",
+      "05-01-2013 3-31-43.JPG",
+      "05-01-2013 3-31-45.JPG",
+      "05-01-2013 3-31-46.JPG",
+      "05-01-2013 3-36-36.JPG",
+      "05-01-2013 3-36-37.JPG",
+      "05-01-2013 3-36-39.JPG",
+      "05-01-2013 3-42-58.JPG",
+      "05-01-2013 3-42-59.JPG",
+      "05-01-2013 3-43-01.JPG",
+      "05-01-2013 3-45-58.JPG",
+      "05-01-2013 3-46-00.JPG",
+      "05-01-2013 3-46-01.JPG",
+      "05-01-2013 4-02-51.JPG",
+      "05-01-2013 4-02-53.JPG",
+      "05-01-2013 4-02-54.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1164,
+        1555,
+        592,
+        983
+      ]
+    ]
+  },
+  "05-01-2013 3-31-45.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 3-31-45.JPG",
+    "burst_images": [
+      "05-01-2013 3-07-04.JPG",
+      "05-01-2013 3-07-05.JPG",
+      "05-01-2013 3-07-06.JPG",
+      "05-01-2013 3-31-43.JPG",
+      "05-01-2013 3-31-45.JPG",
+      "05-01-2013 3-31-46.JPG",
+      "05-01-2013 3-36-36.JPG",
+      "05-01-2013 3-36-37.JPG",
+      "05-01-2013 3-36-39.JPG",
+      "05-01-2013 3-42-58.JPG",
+      "05-01-2013 3-42-59.JPG",
+      "05-01-2013 3-43-01.JPG",
+      "05-01-2013 3-45-58.JPG",
+      "05-01-2013 3-46-00.JPG",
+      "05-01-2013 3-46-01.JPG",
+      "05-01-2013 4-02-51.JPG",
+      "05-01-2013 4-02-53.JPG",
+      "05-01-2013 4-02-54.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 3-31-46.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 3-31-46.JPG",
+    "burst_images": [
+      "05-01-2013 3-07-04.JPG",
+      "05-01-2013 3-07-05.JPG",
+      "05-01-2013 3-07-06.JPG",
+      "05-01-2013 3-31-43.JPG",
+      "05-01-2013 3-31-45.JPG",
+      "05-01-2013 3-31-46.JPG",
+      "05-01-2013 3-36-36.JPG",
+      "05-01-2013 3-36-37.JPG",
+      "05-01-2013 3-36-39.JPG",
+      "05-01-2013 3-42-58.JPG",
+      "05-01-2013 3-42-59.JPG",
+      "05-01-2013 3-43-01.JPG",
+      "05-01-2013 3-45-58.JPG",
+      "05-01-2013 3-46-00.JPG",
+      "05-01-2013 3-46-01.JPG",
+      "05-01-2013 4-02-51.JPG",
+      "05-01-2013 4-02-53.JPG",
+      "05-01-2013 4-02-54.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 3-36-36.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 3-36-36.JPG",
+    "burst_images": [
+      "05-01-2013 3-07-04.JPG",
+      "05-01-2013 3-07-05.JPG",
+      "05-01-2013 3-07-06.JPG",
+      "05-01-2013 3-31-43.JPG",
+      "05-01-2013 3-31-45.JPG",
+      "05-01-2013 3-31-46.JPG",
+      "05-01-2013 3-36-36.JPG",
+      "05-01-2013 3-36-37.JPG",
+      "05-01-2013 3-36-39.JPG",
+      "05-01-2013 3-42-58.JPG",
+      "05-01-2013 3-42-59.JPG",
+      "05-01-2013 3-43-01.JPG",
+      "05-01-2013 3-45-58.JPG",
+      "05-01-2013 3-46-00.JPG",
+      "05-01-2013 3-46-01.JPG",
+      "05-01-2013 4-02-51.JPG",
+      "05-01-2013 4-02-53.JPG",
+      "05-01-2013 4-02-54.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1414,
+        2047,
+        416,
+        1049
+      ]
+    ]
+  },
+  "05-01-2013 3-36-37.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 3-36-37.JPG",
+    "burst_images": [
+      "05-01-2013 3-07-04.JPG",
+      "05-01-2013 3-07-05.JPG",
+      "05-01-2013 3-07-06.JPG",
+      "05-01-2013 3-31-43.JPG",
+      "05-01-2013 3-31-45.JPG",
+      "05-01-2013 3-31-46.JPG",
+      "05-01-2013 3-36-36.JPG",
+      "05-01-2013 3-36-37.JPG",
+      "05-01-2013 3-36-39.JPG",
+      "05-01-2013 3-42-58.JPG",
+      "05-01-2013 3-42-59.JPG",
+      "05-01-2013 3-43-01.JPG",
+      "05-01-2013 3-45-58.JPG",
+      "05-01-2013 3-46-00.JPG",
+      "05-01-2013 3-46-01.JPG",
+      "05-01-2013 4-02-51.JPG",
+      "05-01-2013 4-02-53.JPG",
+      "05-01-2013 4-02-54.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1657,
+        2041,
+        713,
+        1097
+      ]
+    ]
+  },
+  "05-01-2013 3-36-39.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 3-36-39.JPG",
+    "burst_images": [
+      "05-01-2013 3-07-04.JPG",
+      "05-01-2013 3-07-05.JPG",
+      "05-01-2013 3-07-06.JPG",
+      "05-01-2013 3-31-43.JPG",
+      "05-01-2013 3-31-45.JPG",
+      "05-01-2013 3-31-46.JPG",
+      "05-01-2013 3-36-36.JPG",
+      "05-01-2013 3-36-37.JPG",
+      "05-01-2013 3-36-39.JPG",
+      "05-01-2013 3-42-58.JPG",
+      "05-01-2013 3-42-59.JPG",
+      "05-01-2013 3-43-01.JPG",
+      "05-01-2013 3-45-58.JPG",
+      "05-01-2013 3-46-00.JPG",
+      "05-01-2013 3-46-01.JPG",
+      "05-01-2013 4-02-51.JPG",
+      "05-01-2013 4-02-53.JPG",
+      "05-01-2013 4-02-54.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1665,
+        2047,
+        714,
+        1096
+      ]
+    ]
+  },
+  "05-01-2013 3-42-58.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 3-42-58.JPG",
+    "burst_images": [
+      "05-01-2013 3-07-04.JPG",
+      "05-01-2013 3-07-05.JPG",
+      "05-01-2013 3-07-06.JPG",
+      "05-01-2013 3-31-43.JPG",
+      "05-01-2013 3-31-45.JPG",
+      "05-01-2013 3-31-46.JPG",
+      "05-01-2013 3-36-36.JPG",
+      "05-01-2013 3-36-37.JPG",
+      "05-01-2013 3-36-39.JPG",
+      "05-01-2013 3-42-58.JPG",
+      "05-01-2013 3-42-59.JPG",
+      "05-01-2013 3-43-01.JPG",
+      "05-01-2013 3-45-58.JPG",
+      "05-01-2013 3-46-00.JPG",
+      "05-01-2013 3-46-01.JPG",
+      "05-01-2013 4-02-51.JPG",
+      "05-01-2013 4-02-53.JPG",
+      "05-01-2013 4-02-54.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        460,
+        1177,
+        128,
+        845
+      ],
+      [
+        908,
+        1363,
+        761,
+        1216
+      ]
+    ]
+  },
+  "05-01-2013 3-42-59.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 3-42-59.JPG",
+    "burst_images": [
+      "05-01-2013 3-07-04.JPG",
+      "05-01-2013 3-07-05.JPG",
+      "05-01-2013 3-07-06.JPG",
+      "05-01-2013 3-31-43.JPG",
+      "05-01-2013 3-31-45.JPG",
+      "05-01-2013 3-31-46.JPG",
+      "05-01-2013 3-36-36.JPG",
+      "05-01-2013 3-36-37.JPG",
+      "05-01-2013 3-36-39.JPG",
+      "05-01-2013 3-42-58.JPG",
+      "05-01-2013 3-42-59.JPG",
+      "05-01-2013 3-43-01.JPG",
+      "05-01-2013 3-45-58.JPG",
+      "05-01-2013 3-46-00.JPG",
+      "05-01-2013 3-46-01.JPG",
+      "05-01-2013 4-02-51.JPG",
+      "05-01-2013 4-02-53.JPG",
+      "05-01-2013 4-02-54.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 3-43-01.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 3-43-01.JPG",
+    "burst_images": [
+      "05-01-2013 3-07-04.JPG",
+      "05-01-2013 3-07-05.JPG",
+      "05-01-2013 3-07-06.JPG",
+      "05-01-2013 3-31-43.JPG",
+      "05-01-2013 3-31-45.JPG",
+      "05-01-2013 3-31-46.JPG",
+      "05-01-2013 3-36-36.JPG",
+      "05-01-2013 3-36-37.JPG",
+      "05-01-2013 3-36-39.JPG",
+      "05-01-2013 3-42-58.JPG",
+      "05-01-2013 3-42-59.JPG",
+      "05-01-2013 3-43-01.JPG",
+      "05-01-2013 3-45-58.JPG",
+      "05-01-2013 3-46-00.JPG",
+      "05-01-2013 3-46-01.JPG",
+      "05-01-2013 4-02-51.JPG",
+      "05-01-2013 4-02-53.JPG",
+      "05-01-2013 4-02-54.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 3-45-58.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 3-45-58.JPG",
+    "burst_images": [
+      "05-01-2013 3-07-04.JPG",
+      "05-01-2013 3-07-05.JPG",
+      "05-01-2013 3-07-06.JPG",
+      "05-01-2013 3-31-43.JPG",
+      "05-01-2013 3-31-45.JPG",
+      "05-01-2013 3-31-46.JPG",
+      "05-01-2013 3-36-36.JPG",
+      "05-01-2013 3-36-37.JPG",
+      "05-01-2013 3-36-39.JPG",
+      "05-01-2013 3-42-58.JPG",
+      "05-01-2013 3-42-59.JPG",
+      "05-01-2013 3-43-01.JPG",
+      "05-01-2013 3-45-58.JPG",
+      "05-01-2013 3-46-00.JPG",
+      "05-01-2013 3-46-01.JPG",
+      "05-01-2013 4-02-51.JPG",
+      "05-01-2013 4-02-53.JPG",
+      "05-01-2013 4-02-54.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1587,
+        2047,
+        547,
+        1007
+      ],
+      [
+        480,
+        1146,
+        460,
+        1126
+      ]
+    ]
+  },
+  "05-01-2013 3-46-00.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 3-46-00.JPG",
+    "burst_images": [
+      "05-01-2013 3-07-04.JPG",
+      "05-01-2013 3-07-05.JPG",
+      "05-01-2013 3-07-06.JPG",
+      "05-01-2013 3-31-43.JPG",
+      "05-01-2013 3-31-45.JPG",
+      "05-01-2013 3-31-46.JPG",
+      "05-01-2013 3-36-36.JPG",
+      "05-01-2013 3-36-37.JPG",
+      "05-01-2013 3-36-39.JPG",
+      "05-01-2013 3-42-58.JPG",
+      "05-01-2013 3-42-59.JPG",
+      "05-01-2013 3-43-01.JPG",
+      "05-01-2013 3-45-58.JPG",
+      "05-01-2013 3-46-00.JPG",
+      "05-01-2013 3-46-01.JPG",
+      "05-01-2013 4-02-51.JPG",
+      "05-01-2013 4-02-53.JPG",
+      "05-01-2013 4-02-54.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        550,
+        1101,
+        620,
+        1171
+      ]
+    ]
+  },
+  "05-01-2013 3-46-01.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 3-46-01.JPG",
+    "burst_images": [
+      "05-01-2013 3-07-04.JPG",
+      "05-01-2013 3-07-05.JPG",
+      "05-01-2013 3-07-06.JPG",
+      "05-01-2013 3-31-43.JPG",
+      "05-01-2013 3-31-45.JPG",
+      "05-01-2013 3-31-46.JPG",
+      "05-01-2013 3-36-36.JPG",
+      "05-01-2013 3-36-37.JPG",
+      "05-01-2013 3-36-39.JPG",
+      "05-01-2013 3-42-58.JPG",
+      "05-01-2013 3-42-59.JPG",
+      "05-01-2013 3-43-01.JPG",
+      "05-01-2013 3-45-58.JPG",
+      "05-01-2013 3-46-00.JPG",
+      "05-01-2013 3-46-01.JPG",
+      "05-01-2013 4-02-51.JPG",
+      "05-01-2013 4-02-53.JPG",
+      "05-01-2013 4-02-54.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 4-02-51.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 4-02-51.JPG",
+    "burst_images": [
+      "05-01-2013 3-07-04.JPG",
+      "05-01-2013 3-07-05.JPG",
+      "05-01-2013 3-07-06.JPG",
+      "05-01-2013 3-31-43.JPG",
+      "05-01-2013 3-31-45.JPG",
+      "05-01-2013 3-31-46.JPG",
+      "05-01-2013 3-36-36.JPG",
+      "05-01-2013 3-36-37.JPG",
+      "05-01-2013 3-36-39.JPG",
+      "05-01-2013 3-42-58.JPG",
+      "05-01-2013 3-42-59.JPG",
+      "05-01-2013 3-43-01.JPG",
+      "05-01-2013 3-45-58.JPG",
+      "05-01-2013 3-46-00.JPG",
+      "05-01-2013 3-46-01.JPG",
+      "05-01-2013 4-02-51.JPG",
+      "05-01-2013 4-02-53.JPG",
+      "05-01-2013 4-02-54.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        448,
+        1593,
+        0,
+        1145
+      ],
+      [
+        1342,
+        1601,
+        1176,
+        1435
+      ],
+      [
+        930,
+        1137,
+        1228,
+        1435
+      ]
+    ]
+  },
+  "05-01-2013 4-02-53.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 4-02-53.JPG",
+    "burst_images": [
+      "05-01-2013 3-07-04.JPG",
+      "05-01-2013 3-07-05.JPG",
+      "05-01-2013 3-07-06.JPG",
+      "05-01-2013 3-31-43.JPG",
+      "05-01-2013 3-31-45.JPG",
+      "05-01-2013 3-31-46.JPG",
+      "05-01-2013 3-36-36.JPG",
+      "05-01-2013 3-36-37.JPG",
+      "05-01-2013 3-36-39.JPG",
+      "05-01-2013 3-42-58.JPG",
+      "05-01-2013 3-42-59.JPG",
+      "05-01-2013 3-43-01.JPG",
+      "05-01-2013 3-45-58.JPG",
+      "05-01-2013 3-46-00.JPG",
+      "05-01-2013 3-46-01.JPG",
+      "05-01-2013 4-02-51.JPG",
+      "05-01-2013 4-02-53.JPG",
+      "05-01-2013 4-02-54.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        560,
+        1481,
+        0,
+        921
+      ],
+      [
+        1282,
+        1476,
+        1241,
+        1435
+      ]
+    ]
+  },
+  "05-01-2013 4-02-54.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 4-02-54.JPG",
+    "burst_images": [
+      "05-01-2013 3-07-04.JPG",
+      "05-01-2013 3-07-05.JPG",
+      "05-01-2013 3-07-06.JPG",
+      "05-01-2013 3-31-43.JPG",
+      "05-01-2013 3-31-45.JPG",
+      "05-01-2013 3-31-46.JPG",
+      "05-01-2013 3-36-36.JPG",
+      "05-01-2013 3-36-37.JPG",
+      "05-01-2013 3-36-39.JPG",
+      "05-01-2013 3-42-58.JPG",
+      "05-01-2013 3-42-59.JPG",
+      "05-01-2013 3-43-01.JPG",
+      "05-01-2013 3-45-58.JPG",
+      "05-01-2013 3-46-00.JPG",
+      "05-01-2013 3-46-01.JPG",
+      "05-01-2013 4-02-51.JPG",
+      "05-01-2013 4-02-53.JPG",
+      "05-01-2013 4-02-54.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1281,
+        1489,
+        1227,
+        1435
+      ]
+    ]
+  },
+  "05-01-2013 4-27-53.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 4-27-53.JPG",
+    "burst_images": [
+      "05-01-2013 4-27-53.JPG",
+      "05-01-2013 4-27-55.JPG",
+      "05-01-2013 4-27-56.JPG",
+      "05-01-2013 4-36-15.JPG",
+      "05-01-2013 4-36-17.JPG",
+      "05-01-2013 4-36-18.JPG",
+      "05-01-2013 5-26-07.JPG",
+      "05-01-2013 5-26-09.JPG",
+      "05-01-2013 5-26-10.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1530,
+        1952,
+        691,
+        1113
+      ]
+    ]
+  },
+  "05-01-2013 4-27-55.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 4-27-55.JPG",
+    "burst_images": [
+      "05-01-2013 4-27-53.JPG",
+      "05-01-2013 4-27-55.JPG",
+      "05-01-2013 4-27-56.JPG",
+      "05-01-2013 4-36-15.JPG",
+      "05-01-2013 4-36-17.JPG",
+      "05-01-2013 4-36-18.JPG",
+      "05-01-2013 5-26-07.JPG",
+      "05-01-2013 5-26-09.JPG",
+      "05-01-2013 5-26-10.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1514,
+        1949,
+        729,
+        1164
+      ]
+    ]
+  },
+  "05-01-2013 4-27-56.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 4-27-56.JPG",
+    "burst_images": [
+      "05-01-2013 4-27-53.JPG",
+      "05-01-2013 4-27-55.JPG",
+      "05-01-2013 4-27-56.JPG",
+      "05-01-2013 4-36-15.JPG",
+      "05-01-2013 4-36-17.JPG",
+      "05-01-2013 4-36-18.JPG",
+      "05-01-2013 5-26-07.JPG",
+      "05-01-2013 5-26-09.JPG",
+      "05-01-2013 5-26-10.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1533,
+        1929,
+        768,
+        1164
+      ]
+    ]
+  },
+  "05-01-2013 4-36-15.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 4-36-15.JPG",
+    "burst_images": [
+      "05-01-2013 4-27-53.JPG",
+      "05-01-2013 4-27-55.JPG",
+      "05-01-2013 4-27-56.JPG",
+      "05-01-2013 4-36-15.JPG",
+      "05-01-2013 4-36-17.JPG",
+      "05-01-2013 4-36-18.JPG",
+      "05-01-2013 5-26-07.JPG",
+      "05-01-2013 5-26-09.JPG",
+      "05-01-2013 5-26-10.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 4-36-17.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 4-36-17.JPG",
+    "burst_images": [
+      "05-01-2013 4-27-53.JPG",
+      "05-01-2013 4-27-55.JPG",
+      "05-01-2013 4-27-56.JPG",
+      "05-01-2013 4-36-15.JPG",
+      "05-01-2013 4-36-17.JPG",
+      "05-01-2013 4-36-18.JPG",
+      "05-01-2013 5-26-07.JPG",
+      "05-01-2013 5-26-09.JPG",
+      "05-01-2013 5-26-10.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 4-36-18.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 4-36-18.JPG",
+    "burst_images": [
+      "05-01-2013 4-27-53.JPG",
+      "05-01-2013 4-27-55.JPG",
+      "05-01-2013 4-27-56.JPG",
+      "05-01-2013 4-36-15.JPG",
+      "05-01-2013 4-36-17.JPG",
+      "05-01-2013 4-36-18.JPG",
+      "05-01-2013 5-26-07.JPG",
+      "05-01-2013 5-26-09.JPG",
+      "05-01-2013 5-26-10.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        611,
+        1660,
+        0,
+        1049
+      ]
+    ]
+  },
+  "05-01-2013 5-26-07.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 5-26-07.JPG",
+    "burst_images": [
+      "05-01-2013 4-27-53.JPG",
+      "05-01-2013 4-27-55.JPG",
+      "05-01-2013 4-27-56.JPG",
+      "05-01-2013 4-36-15.JPG",
+      "05-01-2013 4-36-17.JPG",
+      "05-01-2013 4-36-18.JPG",
+      "05-01-2013 5-26-07.JPG",
+      "05-01-2013 5-26-09.JPG",
+      "05-01-2013 5-26-10.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        612,
+        1230,
+        817,
+        1435
+      ]
+    ]
+  },
+  "05-01-2013 5-26-09.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 5-26-09.JPG",
+    "burst_images": [
+      "05-01-2013 4-27-53.JPG",
+      "05-01-2013 4-27-55.JPG",
+      "05-01-2013 4-27-56.JPG",
+      "05-01-2013 4-36-15.JPG",
+      "05-01-2013 4-36-17.JPG",
+      "05-01-2013 4-36-18.JPG",
+      "05-01-2013 5-26-07.JPG",
+      "05-01-2013 5-26-09.JPG",
+      "05-01-2013 5-26-10.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 5-26-10.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 5-26-10.JPG",
+    "burst_images": [
+      "05-01-2013 4-27-53.JPG",
+      "05-01-2013 4-27-55.JPG",
+      "05-01-2013 4-27-56.JPG",
+      "05-01-2013 4-36-15.JPG",
+      "05-01-2013 4-36-17.JPG",
+      "05-01-2013 4-36-18.JPG",
+      "05-01-2013 5-26-07.JPG",
+      "05-01-2013 5-26-09.JPG",
+      "05-01-2013 5-26-10.JPG"
+    ],
+    "areas_of_interest": []
+  },
+  "05-01-2013 6-58-01.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 6-58-01.JPG",
+    "burst_images": [
+      "05-01-2013 6-58-01.JPG",
+      "05-01-2013 6-58-02.JPG",
+      "05-01-2013 6-58-04.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        1267,
+        1824,
+        627,
+        1184
+      ]
+    ]
+  },
+  "05-01-2013 6-58-02.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 6-58-02.JPG",
+    "burst_images": [
+      "05-01-2013 6-58-01.JPG",
+      "05-01-2013 6-58-02.JPG",
+      "05-01-2013 6-58-04.JPG"
+    ],
+    "areas_of_interest": [
+      [
+        0,
+        385,
+        956,
+        1341
+      ]
+    ]
+  },
+  "05-01-2013 6-58-04.JPG": {
+    "path": "C:\\Users\\aadit\\Desktop\\dataset_for_testing_pipeline\\C4\\05-01-2013 6-58-04.JPG",
+    "burst_images": [
+      "05-01-2013 6-58-01.JPG",
+      "05-01-2013 6-58-02.JPG",
+      "05-01-2013 6-58-04.JPG"
+    ],
+    "areas_of_interest": []
+  }
+}
