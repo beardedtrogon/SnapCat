@@ -293,7 +293,7 @@ def display_directory_get_input( files ):
 
 def update_aoi_label ( snapcat_json, image_name, aoi_user_labels ):
   # TODO - save a count of the times the image has been labeled this
-  snapcat_json.update( image_name, "aoi_user_label", label ) # TODO - user_label will be associated with area of interest
+  snapcat_json.update( image_name, "aoi_user_label", aoi_user_labels ) # TODO - user_label will be associated with area of interest
   snapcat_json.save()
 
 def update_label ( snapcat_json, image_name, user_label ):
