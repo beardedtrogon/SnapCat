@@ -14,7 +14,7 @@ import json_database
 import cv2
 from skimage import img_as_ubyte
 from shutil import copyfile
-
+import piexif
 
 def optimal_square(x1,x2,y1,y2,i):
   max_x = i.shape[1]
@@ -289,6 +289,9 @@ def cat_label_exists( snapcat_json, image ):
   if "user_label" in snapcat_json.json_data[image] and snapcat_json.json_data[image]["user_label"] == "cat" : # TODO - user_label will be associated with area of interest
     return True
 
+  if "aoi_user_label" in snapcat_json.json_data[image] and "cat" in snapcat_json.json_data[image]["aoi_user_label"]:
+    return True
+
   if "user_burst_label" in snapcat_json.json_data[image] and snapcat_json.json_data[image]["user_burst_label"] == "cat" :
     return True
 
@@ -352,8 +355,26 @@ def organize_images( snapcat_json, output_directory ):
     move_burst_images( image_list, out_dir, str( burst_number ) )
 
     burst_number += 1
-  
 
+
+def add_cat_exif_tag( snapcat_json ):
+
+  for image in snapcat_json.json_data:
+
+    image_path = snapcat_json.json_data[image]["path"]
+    print(image_path)
+    try:
+      user_label = snapcat_json.json_data[image]["user_label"]
+    except:
+      try:
+        user_label = snapcat_json.json_data[image]["aoi_user_label"]
+      except:
+        print("no user label\n")
+
+    if user_label == "cat":
+      zeroth_ifd = {270: "CAT"}
+      exif_bytes = piexif.dump({"0th":zeroth_ifd})
+      piexif.insert(exif_bytes,image_path)
     
 
 if __name__ == "__main__":

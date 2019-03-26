@@ -112,7 +112,7 @@ def segment_images( snapcat_json, speckle_removal_size=10, expansion=50, interac
 					# If there is no AOI found
 					# the AOI is the entire image
 					dim = min(imgs[0].shape[0], imgs[0].shape[1])
-					areas_of_interest[image_path].append([0,dim,0,dim])
+					areas_of_interest[image_path].append([0,dim.item(),0,dim.item()])
 				else:
 					for l in range(1, nlabels):
 						# This magic incantation gets the bounding box of that island
@@ -136,7 +136,8 @@ def segment_images( snapcat_json, speckle_removal_size=10, expansion=50, interac
 							y2 -= 1
 
 						# Save the area of interest for this image.
-						areas_of_interest[image_path].append([x1,x2,y1,y2])
+
+						areas_of_interest[image_path].append([x1.item(),x2.item(),y1.item(),y2.item()])
 						if interactive_examine:
 							subimg = i[y1:y2,x1:x2,:]
 							print(x1,x2,y1,y2)
