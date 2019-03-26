@@ -294,7 +294,7 @@ def display_directory_get_input( files ):
 def update_aoi_label ( snapcat_json, image_name, aoi_user_labels ):
   # TODO - save a count of the times the image has been labeled this
   snapcat_json.update( image_name, "aoi_user_label", aoi_user_labels ) # TODO - user_label will be associated with area of interest
-  snapcat_json.save()
+  #snapcat_json.save()
 
 def update_label ( snapcat_json, image_name, user_label ):
   # TODO - save a count of the times the image has been labeled this
@@ -387,9 +387,12 @@ def user_label_images_single( snapcat_json ):
         done = True
         continue
 
-    for area_of_interest in areas_of_interest:
-        
+    backspace = False
+
+    for area_of_interest in areas_of_interest:        
       # todo - skip if already contains a label?
+
+      print(len(areas_of_interest))
 
       # populate x, y coordinates of the areas of interest
       x1 = area_of_interest[0]
@@ -412,35 +415,36 @@ def user_label_images_single( snapcat_json ):
         # TODO - make sure the label is associated with the area of interest instead of the label
         aoi_user_labels.append(INVALID_STRING)
         #update_aoi_label( snapcat_json, image_name, INVALID_STRING, aoi_count )
-        index = index + 1
+        # index = index + 1
 
       elif key == RIGHT_KEY:
         # TODO - make sure the label is associated with the area of interest instead of the label
         aoi_user_labels.append(VALID_STRING)
         #update_aoi_label( snapcat_json, image_name, VALID_STRING, aoi_count )
-        index = index + 1
+        # index = index + 1
 
       elif key == DOWN_KEY:
         # TODO - make sure the label is associated with the area of interest instead of the label
         aoi_user_labels.append(UNSURE_STRING)
         #update_aoi_label( snapcat_json, image_name, UNSURE_STRING, aoi_count )
-        index = index + 1
+        # index = index + 1
 
       elif key == BACKSPACE_KEY:
         # ensure we don't go negative with the index
         if ( index > 0 ):
           index = index - 1
 
-        if len(aoi_user_labels) > 0:      
-          aoi_user_labels.pop()
-          break
-
         update_label( snapcat_json, image, NONE_STRING )
+        backspace = True
+        break
+
       elif key == ESCAPE_KEY:
         cv2.destroyAllWindows()
         done = True
-
+    
+    if len(areas_of_interest) > 0 and not backspace:
       update_aoi_label( snapcat_json, image, aoi_user_labels )
+      index = index + 1
     
     if  index >= len(image_list):
       done = True
