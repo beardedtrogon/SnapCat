@@ -325,6 +325,9 @@ def user_label_images_single( snapcat_json ):
 
   while not done:
 
+    if index >= len(image_list):
+      break
+
     # load the image and areas of interest
     image = image_list[index]
     image_path = snapcat_json.json_data[image]["path"]
@@ -430,6 +433,7 @@ def user_label_images_single( snapcat_json ):
 
         if len(aoi_user_labels) > 0:      
           aoi_user_labels.pop()
+          break
 
         update_label( snapcat_json, image, NONE_STRING )
       elif key == ESCAPE_KEY:
