@@ -275,6 +275,7 @@ def display_directory_get_input( files ):
         alpha = 0.3
 
         # image to review as backgorund and usage as foreground
+        prev_img = image
         img1 = image
         img2 = cv2.imread(USAGE_IMG)
 
@@ -283,7 +284,10 @@ def display_directory_get_input( files ):
 
         image = cv2.addWeighted(img1,alpha,img2,1-alpha,0)
 
+        snapcat_json.save()
+
         display_image_wait_key( image, 0)
+        image = prev_img
 
         key = -1
       
@@ -452,38 +456,43 @@ def update_user_burst_label( snapcat_json, burst, label ):
   #snapcat_json.save()
 
 
-def user_label_images_burst( snapcat_json, using_classifier=False ):
+def user_label_images_burst( snapcat_json ):
   ######################### sort image bursts #########################
 
   bursts = tools.get_bursts( snapcat_json )
 
+  # Skip bursts that definitely contain a cat
+  # only review bursts that have an unsure label
+  unsure_bursts = []
+  for burst in bursts:
+
+    image_labeled = False
+    
+    for image_name in burst:
+
+      #TODO - classifier_label will be associated with an area of interest
+      if image_name in snapcat_json.json_data and "classifier_label" in snapcat_json.json_data[image_name] and snapcat_json.json_data[image_name]["classifier_label"] == "cat":
+        image_labeled = True
+        break
+
+      if image_name in snapcat_json.json_data and "user_burst_label" in snapcat_json.json_data[image_name] and snapcat_json.json_data[image_name]["user_burst_label"] != None:
+        image_labeled = True
+        break
+
+    if not image_labeled:
+      unsure_bursts.append( burst )
+
+  # iterate over all of the bursts and get a label
+  if len(unsure_bursts) == 0:
+    if len(bursts) == 0:
+      print("ERROR: there were no images to classify")
+    else:
+      print("No images remain to be classified - done")
+    return
+
   done = False
   index = 0
 
-  # Skip bursts that definitely contain a cat
-  # only review bursts that have an unsure label
-  if using_classifier:
-    unsure_bursts = []
-    for burst in bursts:
-
-      cat_detected = False
-      unsure_label = False
-      for image_name in burst:
-        if snapcat_json.json_data[image_name]["classifier_label"] == "cat":#TODO - classifier_label will be associated with an area of interest
-          cat_detected = True
-          break
-
-        if snapcat_json.json_data[image_name]["classifier_label"] == "unsure":#TODO - classifier_label will be associated with an area of interest
-          unsure_label = True
-
-      if cat_detected:
-        continue
-      elif unsure_label:
-        unsure_bursts.append( burst )
-  else:
-    unsure_bursts = bursts
-
-  # iterate over all of the bursts and get a label
   while not done:
     image_list = []
 
@@ -521,6 +530,7 @@ def user_label_images_burst( snapcat_json, using_classifier=False ):
       done = True
 
   cv2.destroyAllWindows()
+  snapcat_json.save()
   
 
 if __name__ == "__main__":
