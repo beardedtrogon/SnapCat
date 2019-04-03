@@ -210,11 +210,11 @@ def disp_image_get_input( image, snapcat_json ):
 
       # image to review as backgorund and usage as foreground
       prev_img = image
-      img1 = image
-      img2 = cv2.imread(USAGE_IMG)
 
-      img1 = resize_image(img1)
-      img2 = resize_image(img2)
+      # resize images
+      # resize the second image to be the same as the first no matter the original size
+      img1 = resize_image(image)
+      img2 = cv2.resize(cv2.imread(USAGE_IMG), ( img1.shape[1] , img1.shape[0] ))
 
       image = cv2.addWeighted(img1,alpha,img2,1-alpha,0)
 
@@ -276,11 +276,11 @@ def display_directory_get_input( files ):
 
         # image to review as backgorund and usage as foreground
         prev_img = image
-        img1 = image
-        img2 = cv2.imread(USAGE_IMG)
 
-        img1 = resize_image(img1)
-        img2 = resize_image(img2)
+        # resize images
+        # resize the second image to be the same as the first no matter the original size
+        img1 = resize_image(image)
+        img2 = cv2.resize(cv2.imread(USAGE_IMG), ( img1.shape[1] , img1.shape[0] ))
 
         image = cv2.addWeighted(img1,alpha,img2,1-alpha,0)
 
