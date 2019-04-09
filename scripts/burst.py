@@ -91,6 +91,11 @@ def label_burst(images_list, snapcat_json):
 		snapcat_json.update( image_name, "burst_images", images_list)
 	
 
+def split_into_chunks(list_to_split, num_elements):
+    """Yield successive n-sized chunks from l."""
+    for i in range(0, len(list_to_split), num_elements):
+        yield list_to_split[i:i + num_elements]
+
 def create_bursts( snapcat_json, image_directory ):
 
 	global latest_timestamp
@@ -128,14 +133,19 @@ def create_bursts( snapcat_json, image_directory ):
 				burst_images_list.append( filename )
 			# otherwise group images into a burst
 			else:
-				label_burst(burst_images_list, snapcat_json)
+				bursts = split_into_chunks(burst_images_list, 10)
+				for burst in bursts:
+					label_burst(burst, snapcat_json)
+
 				burst_images_list = []
 				
 				# the current file is not part of this burst, so it is the beginning of the new burst
 				burst_images_list.append( filename )
 
 		# the last image in the folder ends burst detection
-		label_burst(burst_images_list, snapcat_json)
+		bursts = split_into_chunks(burst_images_list, 10)
+		for burst in bursts:
+			label_burst(burst, snapcat_json)
 
 	snapcat_json.save()
 

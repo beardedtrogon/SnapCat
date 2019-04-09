@@ -44,8 +44,7 @@ MAX_POLLING_TIMEOUT_MS = (60 * 2 * 1000) #2 mins
 IMAGE_TEXT = "Does Image Contain Cat?"
 IMAGE_PATH = os.path.join( os.path.dirname( os.path.realpath(__file__) ), "images" )
 USAGE_IMG = os.path.join( IMAGE_PATH, "usage.jpg" )
-ARROWS_IMG = os.path.join( IMAGE_PATH, "cat-notcat.jpg" )
-LOGO_IMG = os.path.join( IMAGE_PATH, "logo.jpg" )
+
 
 def get_max_window_size():
 
@@ -55,6 +54,31 @@ def get_max_window_size():
   max_size = min(width, height) * 0.75
 
   return int(max_size)
+
+def resize_image( image ):
+  max_window_size = get_max_window_size()
+  window_size = max( image.shape[0], image.shape[1] )
+
+  ratio = max_window_size / window_size
+
+  dimensions = ( int( image.shape[1] * ratio ) , int( image.shape[0] * ratio) )
+
+  # resize image
+  image = cv2.resize(image, dimensions)
+
+  return image
+
+ARROWS_IMG = os.path.join( IMAGE_PATH, "cat-notcat.jpg" )
+ARROWS_IMG = cv2.imread( ARROWS_IMG, cv2.IMREAD_COLOR)
+ARROWS_IMG = resize_image(ARROWS_IMG)
+
+ARROWS_IMG_GREYED = os.path.join( IMAGE_PATH, "cat-notcat-unavailable.jpg" )
+ARROWS_IMG_GREYED = cv2.imread( ARROWS_IMG_GREYED, cv2.IMREAD_COLOR)
+ARROWS_IMG_GREYED = resize_image(ARROWS_IMG_GREYED)
+
+LOGO_IMG = os.path.join( IMAGE_PATH, "logo.jpg" )
+LOGO_IMG = cv2.imread( LOGO_IMG, cv2.IMREAD_COLOR)
+LOGO_IMG = resize_image(LOGO_IMG)
 
 def create_blank( image, rgb_color=(0, 0, 0)):
 
@@ -72,36 +96,19 @@ def create_blank( image, rgb_color=(0, 0, 0)):
 
   return image
 
-
-def resize_image( image ):
-  max_window_size = get_max_window_size()
-  window_size = max( image.shape[0], image.shape[1] )
-
-  ratio = max_window_size / window_size
-
-  dimensions = ( int( image.shape[1] * ratio ) , int( image.shape[0] * ratio) )
-
-  # resize image
-  image = cv2.resize(image, dimensions)
-
-  return image
-
 def display_image_wait_key( image, delay_ms=0 ):
-
-  cat_image = resize_image(image)
-
-  arrow_img = cv2.imread( ARROWS_IMG, cv2.IMREAD_COLOR)
-  arrow_img = resize_image(arrow_img)
-
-  logo_img = cv2.imread( LOGO_IMG, cv2.IMREAD_COLOR)
-  logo_img = resize_image(logo_img)
-  
-  image = concatenate_images( logo_img, cat_image )
-  image = concatenate_images( image, arrow_img )
 
   cv2.imshow(IMAGE_TEXT, image)
   return cv2.waitKeyEx( delay_ms )
 
+
+def display_image_no_key( image, delay_ms=0 ):
+  
+  image = concatenate_images( LOGO_IMG, image )
+  image = concatenate_images( image, ARROWS_IMG_GREYED )
+
+  cv2.imshow(IMAGE_TEXT, image)
+  return cv2.waitKeyEx( delay_ms )
 
 # todo combine these two functions
 def concatenate_images( image1, image2 ):
@@ -232,21 +239,46 @@ def display_directory_get_input( files ):
 
   timeout = 0
 
-  num_files = len( files )
+  first_pass = True
 
+  images = []
+  for file in files:
+    image = cv2.imread( file, cv2.IMREAD_COLOR)
+    image = concatenate_images( LOGO_IMG, image )
+    image = concatenate_images( image, ARROWS_IMG )
+
+    images.append( resize_image(image) )
+
+  images_greyed = []
+  for file in files:
+    image = cv2.imread( file, cv2.IMREAD_COLOR)
+    image = concatenate_images( LOGO_IMG, image )
+    image = concatenate_images( image, ARROWS_IMG_GREYED )
+
+    images_greyed.append( resize_image(image) )
+
+  import time
+  mytime = time.time()
   # iterate over all files and add label
   while True:
 
-    for file in files:
-
-      # display image to be labeled
-      image = cv2.imread( file, cv2.IMREAD_COLOR)
+    for i in range(len(images)):
 
       if timeout > MAX_POLLING_TIMEOUT_MS:
         key = 1234
         timeout = 0
       else:
-        key = display_image_wait_key( image, POLLING_DURATION_MS )
+
+        # TODO: write a script to reduce the amount of images in a burst to less than 20 images
+        if first_pass:
+          print ( time.time() - mytime )
+          mytime = time.time()
+          image = images_greyed[i]
+          display_image_wait_key( image, POLLING_DURATION_MS )
+          key = -1
+        else:
+          image = images[i]
+          key = display_image_wait_key( image, POLLING_DURATION_MS )
       
       # wait for user input
       if key == LEFT_KEY:
@@ -290,9 +322,14 @@ def display_directory_get_input( files ):
         image = prev_img
 
         key = -1
+
+        first_pass = True
+        i = 0
       
       elif key == -1:
         timeout += POLLING_DURATION_MS
+
+    first_pass = False
 
 
 def update_aoi_label ( snapcat_json, image_name, aoi_user_labels ):
@@ -464,10 +501,14 @@ def user_label_images_burst( snapcat_json ):
   # Skip bursts that definitely contain a cat
   # only review bursts that have an unsure label
   unsure_bursts = []
+
+  random.shuffle(bursts)
+
   for burst in bursts:
 
     image_labeled = False
     
+    num_burst_images = len(burst)
     for image_name in burst:
 
       #TODO - classifier_label will be associated with an area of interest
@@ -478,6 +519,13 @@ def user_label_images_burst( snapcat_json ):
       if image_name in snapcat_json.json_data and "user_burst_label" in snapcat_json.json_data[image_name] and snapcat_json.json_data[image_name]["user_burst_label"] != None:
         image_labeled = True
         break
+
+      if image_name in snapcat_json.json_data and "areas_of_interest" in snapcat_json.json_data[image_name] and "aoi_user_labels" in snapcat_json.json_data[image_name]:
+        num_aoi = len(snapcat_json.json_data[image_name]["areas_of_interest"])
+        num_aois_labeled = len(snapcat_json.json_data[image_name]["aoi_user_labels"])
+
+        if num_aoi == num_aois_labeled:
+          break
 
     if not image_labeled:
       unsure_bursts.append( burst )
