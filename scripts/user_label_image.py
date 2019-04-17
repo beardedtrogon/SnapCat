@@ -236,7 +236,6 @@ def disp_image_get_input( image, snapcat_json ):
       timeout += POLLING_DURATION_MS
 
 def display_directory_get_input( files ):
-
   timeout = 0
 
   first_pass = True
@@ -271,7 +270,6 @@ def display_directory_get_input( files ):
 
         # TODO: write a script to reduce the amount of images in a burst to less than 20 images
         if first_pass:
-          print ( time.time() - mytime )
           mytime = time.time()
           image = images_greyed[i]
           display_image_wait_key( image, POLLING_DURATION_MS )
@@ -545,10 +543,33 @@ def user_label_images_burst( snapcat_json ):
     image_list = []
 
     for image_name in unsure_bursts[index]:
-      image_list.append( snapcat_json.json_data[image_name]["path"] )
+      image_path = snapcat_json.json_data[image_name]["path"]
+      if os.path.isfile(image_path):
+        image_list.append(image_path)
+      else:
+        print("ERROR: image does not exist:", image_path)
+
       
     #print( image_list )
 
+    directories_to_ignore = [ "Cabritos_Part2\\camara 08",
+                              "Mona\\27", 
+                              "Mona\\5A",
+                              "trampa\\piedra a 1" ]
+
+    skip = False
+    for image in image_list:  
+      for ignore_string in directories_to_ignore:
+        if ignore_string in image:
+          print("ignoring image:", image)
+          skip = True
+        else:
+          print("image:", image)
+      
+    if skip:
+      index = index + 1
+      continue
+      
     key = display_directory_get_input( image_list )
     
     if key == LEFT_KEY:
@@ -566,7 +587,7 @@ def user_label_images_burst( snapcat_json ):
     elif key == BACKSPACE_KEY:
       # ensure we don't go negative with the index
       if ( index > 0 ):
-        index = index - 1      
+        index = index - 1
 
       update_user_burst_label( snapcat_json, unsure_bursts[index], NONE_STRING )
 
