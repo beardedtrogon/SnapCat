@@ -1,0 +1,6 @@
+progressbar
+pillow
+opencv-python
+scikit-image
+pywin32
+matplotlib
